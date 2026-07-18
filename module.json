@@ -2,7 +2,7 @@
   "id": "vagabond-no-ptbr",
   "title": "Vagabond: Tradução pt-BR",
   "description": "Tradução (pt-BR) do conteúdo de compêndios do sistema Vagabond, via Babele. Tradução não oficial.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": 13,
     "verified": 14

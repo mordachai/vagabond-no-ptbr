@@ -2,41 +2,57 @@ name: Release Module
 
 on:
   push:
-    tags:
-      - "v*.*.*"
-
-permissions:
-  contents: write
+    branches:
+      - master
+    paths:
+      - "module.json"
 
 jobs:
   release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Extract version from tag
-        id: version
-        run: echo "version=${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
-
-      - name: Update module.json version/manifest/download
+      - name: Extract Version
+        id: get_version
         run: |
-          jq --arg version "${{ steps.version.outputs.version }}" \
-             --arg manifest "https://github.com/${{ github.repository }}/releases/latest/download/module.json" \
-             --arg download "https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/module.zip" \
-             '.version = $version | .manifest = $manifest | .download = $download' \
-             module.json > module.json.tmp
+          VERSION=$(jq -r .version module.json)
+          echo "Detected version: $VERSION"
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Check if tag exists
+        uses: mukunku/tag-exists-action@v1.6.0
+        id: check_tag
+        with:
+          tag: "v${{ steps.get_version.outputs.version }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update module.json URLs for this release
+        if: steps.check_tag.outputs.exists == 'false'
+        run: |
+          VERSION=${{ steps.get_version.outputs.version }}
+          REPO=${{ github.repository }}
+          jq \
+            --arg manifest "https://github.com/${REPO}/releases/latest/download/module.json" \
+            --arg download "https://github.com/${REPO}/releases/download/v${VERSION}/module.zip" \
+            '.manifest = $manifest | .download = $download' \
+            module.json > module.json.tmp
           mv module.json.tmp module.json
 
       - name: Create module.zip
+        if: steps.check_tag.outputs.exists == 'false'
         run: |
           zip -r module.zip module.json scripts translations packs
 
-      - name: Create GitHub Release
+      - name: Create Release
+        if: steps.check_tag.outputs.exists == 'false'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.ref_name }}
-          name: v${{ steps.version.outputs.version }}
+          tag_name: "v${{ steps.get_version.outputs.version }}"
+          name: "v${{ steps.get_version.outputs.version }}"
           generate_release_notes: true
           files: |
             module.zip
