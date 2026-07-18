@@ -30,19 +30,7 @@ jobs:
 
       - name: Create module.zip
         run: |
-          zip -r module.zip module.json dictionary.json mappings.json scripts \
-            vagabond.alchemical-items.json \
-            vagabond.ancestries.json \
-            vagabond.armor.json \
-            vagabond.bestiary.json \
-            vagabond.classes.json \
-            vagabond.gear.json \
-            vagabond.humanlike.json \
-            vagabond.perks.json \
-            vagabond.relics.json \
-            vagabond.spells.json \
-            vagabond.starting-packs.json \
-            vagabond.weapons.json
+          zip -r module.zip module.json scripts translations
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
