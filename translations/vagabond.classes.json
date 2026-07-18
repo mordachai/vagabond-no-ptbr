@@ -23,7 +23,7 @@
         },
         {
           "name": "Vigilância",
-          "description": "<p><span class=\"fontstyle0\">Seu d20 adicional para ataques com sua Marca do Caçador também se aplica às suas Resistências provocadas pelo Alvo marcado.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Seu d20 adicional para ataques com sua Marca do Caçador também se aplica às suas Salvaguardas provocadas pelo Alvo marcado.</span></p>"
         },
         {
           "name": "Talento",
@@ -117,7 +117,7 @@
       "levelFeatures": [
         {
           "name": "Virtuosismo",
-          "description": "<p>Você pode usar sua Ação ou pular seu Movimento para fazer um Teste de Atuação. Se passar, seu Grupo ganha um dos seguintes benefícios à sua escolha durante aquela Rodada:</p><ul><li><p><strong>Inspiração:</strong> bônus de d6 em rolagens de Cura</p></li><li><p><strong>Resolução:</strong> Vantagem em Resistências</p></li><li><p><strong>Valor:</strong> Vantagem em Testes de Ataque e de Conjuração</p></li></ul>"
+          "description": "<p>Você pode usar sua Ação ou pular seu Movimento para fazer um Teste de Atuação. Se passar, seu Grupo ganha um dos seguintes benefícios à sua escolha durante aquela Rodada:</p><ul><li><p><strong>Inspiração:</strong> bônus de d6 em rolagens de Cura</p></li><li><p><strong>Resolução:</strong> Vantagem em Salvaguardas</p></li><li><p><strong>Valor:</strong> Vantagem em Testes de Ataque e de Conjuração</p></li></ul>"
         },
         {
           "name": "Versado",
@@ -141,7 +141,7 @@
         },
         {
           "name": "Bravata",
-          "description": "<p><span class=\"fontstyle0\">Suas Resistências de Vontade não podem ter Desvantagem enquanto você não estiver Incapacitado, e você pode ignorar efeitos que dependem de você ouvi-los para ser afetado (como o grito de uma banshee).</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Suas Salvaguardas de Vontade não podem ter Desvantagem enquanto você não estiver Incapacitado, e você pode ignorar efeitos que dependem de você ouvi-los para ser afetado (como o grito de uma banshee).</span></p>"
         },
         {
           "name": "Talento",
@@ -213,19 +213,19 @@
     },
     "Dancer": {
       "name": "Dançarino",
-      "description": "<p><strong>Ela se move abstrata como uma sombra dançando à beira do abismo, como uma tempestade passando por cima, me hipnotizando.</strong></p><p><em>– Dillinger Escape Plan, One of Us is the Killer</em></p><p>Praticantes da arte sedutora da dança. Têm o talento de animar sua plateia, atrair atenção, e oferecer espetáculos de tirar o fôlego.</p><h3>Dançarinos Icônicos</h3><ul><li><strong>Apsalar</strong>, <em>Malazan Book of the Fallen</em></li><li><strong>Azura</strong>, <em>Fire Emblem Fates</em></li><li><strong>Sandilene fa Toren</strong>, <em>The Circle Opens</em></li></ul><h3>Jogando de Dançarino</h3><p>O dançarino é um suporte de defesa baixa focado em eficiência de Ações. Conceda Ações através de Passo Adiante, já que suas principais ofensivas ocorrerão quando você tiver Crítico em Resistências de Reflexo.</p><p><strong>Ação:</strong> Passo Adiante<br /><strong>Movimento:</strong> Linha do Meio<br /><strong>Pacote Inicial:</strong> Cortesã ou Músico<br /><strong>Atributo-Chave:</strong> Destreza<br /><strong>Complexidade:</strong> ★★☆☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> –<br /><strong>Perícias:</strong> Sutileza e Atuação, e 2 dentre Briga, Influência, ou Furtividade</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Pés Ligeiros, Passo Adiante</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Evasivo</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Não Me Pare Agora</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Coreógrafo</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Lampejo de Beleza</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Tempo Duplo</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "description": "<p><strong>Ela se move abstrata como uma sombra dançando à beira do abismo, como uma tempestade passando por cima, me hipnotizando.</strong></p><p><em>– Dillinger Escape Plan, One of Us is the Killer</em></p><p>Praticantes da arte sedutora da dança. Têm o talento de animar sua plateia, atrair atenção, e oferecer espetáculos de tirar o fôlego.</p><h3>Dançarinos Icônicos</h3><ul><li><strong>Apsalar</strong>, <em>Malazan Book of the Fallen</em></li><li><strong>Azura</strong>, <em>Fire Emblem Fates</em></li><li><strong>Sandilene fa Toren</strong>, <em>The Circle Opens</em></li></ul><h3>Jogando de Dançarino</h3><p>O dançarino é um suporte de defesa baixa focado em eficiência de Ações. Conceda Ações através de Passo Adiante, já que suas principais ofensivas ocorrerão quando você tiver Crítico em Salvaguardas de Reflexo.</p><p><strong>Ação:</strong> Passo Adiante<br /><strong>Movimento:</strong> Linha do Meio<br /><strong>Pacote Inicial:</strong> Cortesã ou Músico<br /><strong>Atributo-Chave:</strong> Destreza<br /><strong>Complexidade:</strong> ★★☆☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> –<br /><strong>Perícias:</strong> Sutileza e Atuação, e 2 dentre Briga, Influência, ou Furtividade</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Pés Ligeiros, Passo Adiante</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Evasivo</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Não Me Pare Agora</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Coreógrafo</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Lampejo de Beleza</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Tempo Duplo</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
       "levelFeatures": [
         {
           "name": "Pés Ligeiros",
-          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Passos Leves (p. 73), e a rolagem necessária para ter Crítico em Resistências de Reflexo é reduzida em um valor igual a (seu Nível de Dançarino dividido por 4, arredondado para cima).</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Passos Leves (p. 73), e a rolagem necessária para ter Crítico em Salvaguardas de Reflexo é reduzida em um valor igual a (seu Nível de Dançarino dividido por 4, arredondado para cima).</span></p>"
         },
         {
           "name": "Passo Adiante",
-          "description": "<p><span class=\"fontstyle0\">Uma vez por Turno, você pode usar sua Ação para realizar uma dança animadora. Ao fazer isso, você pode rolar um segundo d20 em Resistências de Reflexo até o início do seu próximo Turno e usar o maior resultado, e concede a um Aliado à sua escolha que o veja uma segunda Ação neste Turno.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Turno, você pode usar sua Ação para realizar uma dança animadora. Ao fazer isso, você pode rolar um segundo d20 em Salvaguardas de Reflexo até o início do seu próximo Turno e usar o maior resultado, e concede a um Aliado à sua escolha que o veja uma segunda Ação neste Turno.</span></p>"
         },
         {
           "name": "Evasivo",
-          "description": "<p><span class=\"fontstyle0\">Enquanto não estiver Incapacitado, você ignora Desvantagem em Resistências de Reflexo e ignora dois dos dados de dano de um ataque Esquivado em uma Resistência bem-sucedida, em vez de um.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Enquanto não estiver Incapacitado, você ignora Desvantagem em Salvaguardas de Reflexo e ignora dois dos dados de dano de um ataque Esquivado em uma Salvaguarda bem-sucedida, em vez de um.</span></p>"
         },
         {
           "name": "Talento",
@@ -233,7 +233,7 @@
         },
         {
           "name": "Não Me Pare Agora",
-          "description": "<p><span class=\"fontstyle0\">Sua Velocidade não é afetada por Terreno Difícil e você tem Vantagem em Resistências contra ficar Paralisado, Imobilizado, ou ser movido.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Sua Velocidade não é afetada por Terreno Difícil e você tem Vantagem em Salvaguardas contra ficar Paralisado, Imobilizado, ou ser movido.</span></p>"
         },
         {
           "name": "Talento",
@@ -249,7 +249,7 @@
         },
         {
           "name": "Lampejo de Beleza",
-          "description": "<p><span class=\"fontstyle0\">Quando você tem Crítico em uma Resistência, pode realizar duas Ações, em vez de uma.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Quando você tem Crítico em uma Salvaguarda, pode realizar duas Ações, em vez de uma.</span></p>"
         },
         {
           "name": "Talento",
@@ -480,11 +480,11 @@
         },
         {
           "name": "Valor",
-          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Resistências para Esquivar ou Bloquear Ataques, é reduzida em 1, e é reduzida em mais 1 quando você alcança o 4º e o 8º Nível nesta Classe.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Salvaguardas para Esquivar ou Bloquear Ataques, é reduzida em 1, e é reduzida em mais 1 quando você alcança o 4º e o 8º Nível nesta Classe.</span></p>"
         },
         {
           "name": "Ímpeto",
-          "description": "<p><span class=\"fontstyle0\">Se você passar em uma Resistência contra um ataque, o próximo ataque que fizer antes do fim do seu próximo Turno tem Vantagem.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Se você passar em uma Salvaguarda contra um ataque, o próximo ataque que fizer antes do fim do seu próximo Turno tem Vantagem.</span></p>"
         },
         {
           "name": "Talento",
@@ -492,7 +492,7 @@
         },
         {
           "name": "Valor",
-          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Resistências para Esquivar ou Bloquear Ataques, é reduzida em 2 no total.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Salvaguardas para Esquivar ou Bloquear Ataques, é reduzida em 2 no total.</span></p>"
         },
         {
           "name": "Talento",
@@ -508,7 +508,7 @@
         },
         {
           "name": "Valor",
-          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Resistências para Esquivar ou Bloquear Ataques, é reduzida em 3 no total.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Salvaguardas para Esquivar ou Bloquear Ataques, é reduzida em 3 no total.</span></p>"
         },
         {
           "name": "Talento",
@@ -649,7 +649,7 @@
         },
         {
           "name": "Aparar Magias",
-          "description": "<p>Você pode Bloquear Conjurações que o incluam como Alvo, se exigirem uma Resistência de Reflexo ou tiverem entrega por Toque ou Remota. Se você tiver Crítico ao Bloquear uma Conjuração, pode dissipar o efeito.</p>"
+          "description": "<p>Você pode Bloquear Conjurações que o incluam como Alvo, se exigirem uma Salvaguarda de Reflexo ou tiverem entrega por Toque ou Remota. Se você tiver Crítico ao Bloquear uma Conjuração, pode dissipar o efeito.</p>"
         },
         {
           "name": "Talento",
@@ -695,7 +695,7 @@
         },
         {
           "name": "Infiltrador",
-          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Versátil (p. 71), e tem Vantagem em Testes e Resistências feitos para emboscar e contra armadilhas das quais você está ciente.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Versátil (p. 71), e tem Vantagem em Testes e Salvaguardas feitos para emboscar e contra armadilhas das quais você está ciente.</span></p>"
         },
         {
           "name": "Sorte Inabalável (d12)",
@@ -707,7 +707,7 @@
         },
         {
           "name": "Evasivo",
-          "description": "<p><span class=\"fontstyle0\">Suas Resistências de Reflexo não podem ter Desvantagem enquanto você não estiver Incapacitado, e você ignora dois dos dados de dano de um ataque Esquivado em uma Resistência bem-sucedida, em vez de um.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Suas Salvaguardas de Reflexo não podem ter Desvantagem enquanto você não estiver Incapacitado, e você ignora dois dos dados de dano de um ataque Esquivado em uma Salvaguarda bem-sucedida, em vez de um.</span></p>"
         },
         {
           "name": "Talento",
@@ -886,7 +886,7 @@
         },
         {
           "name": "Sacrossanto",
-          "description": "<p><span class=\"fontstyle0\">Você tem um bônus de +2 em todas as Resistências.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Você tem um bônus de +2 em todas as Salvaguardas.</span></p>"
         }
       ]
     },
@@ -912,7 +912,7 @@
         },
         {
           "name": "Destreza",
-          "description": "<p><span class=\"fontstyle0\">Se você passar em uma Resistência para Bloquear, ignora dois dos dados de dano mais altos rolados, em vez de um.</span></p>"
+          "description": "<p><span class=\"fontstyle0\">Se você passar em uma Salvaguarda para Bloquear, ignora dois dos dados de dano mais altos rolados, em vez de um.</span></p>"
         },
         {
           "name": "Talento",

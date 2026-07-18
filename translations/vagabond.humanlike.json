@@ -1,5 +1,5 @@
 {
-	"label": "Humanlike",
+	"label": "Humanoides",
 	"entries": {
 		"Brigand": {
 			"name": "Salteador",
@@ -75,7 +75,7 @@
 				{
 					"name": "Explosão Necrótica",
 					"note": "Conjurar, Remoto",
-					"extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4 de dano, Cego e Surdo)."
+					"extraInfo": "e passar em [Resistir] ou ficar Doente (Cd4 de dano, Cego e Surdo)."
 				}
 			],
 			"abilities": [],
@@ -96,7 +96,7 @@
 				},
 				{
 					"name": "Chama Sagrada",
-					"note": "Conjurar, Aura Próxima | Resistência",
+					"note": "Conjurar, Aura Próxima | Resistir",
 					"extraInfo": "e Cego (Cd4)"
 				},
 				{
@@ -235,7 +235,7 @@
 				},
 				{
 					"name": "Nevasca",
-					"note": "Conjurar, Esfera de 20 pés | Resistência | Foco",
+					"note": "Conjurar, Esfera de 20 pés | Resistir | Foco",
 					"extraInfo": "preenchendo a área com neve (Terreno Difícil)"
 				},
 				{
@@ -512,7 +512,7 @@
 			"actions": [
 				{
 					"name": "Nevasca",
-					"note": "Conjurar, Esfera de 20 pés (Foco) | Resistência",
+					"note": "Conjurar, Esfera de 20 pés (Foco) | Resistir",
 					"extraInfo": "preenchendo a área com neve (Terreno Difícil)."
 				},
 				{

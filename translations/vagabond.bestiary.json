@@ -19,7 +19,7 @@
       "actions": [
         {
           "name": "Congelar",
-          "note": "Conjurar, Remoto | Resistência",
+          "note": "Conjurar, Remoto | Resistir",
           "extraInfo": "e sua Velocidade é reduzida em 10 pés (Cd4)."
         },
         {
@@ -48,7 +48,7 @@
         {
           "name": "Dilacerar",
           "note": "Multi-Ataque",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x Garra"
         },
         {
           "name": "Garra",
@@ -148,7 +148,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "(+1) Mordida",
@@ -246,7 +246,7 @@
         {
           "name": "Pseudópode",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou +1 Fadiga"
+          "extraInfo": "e passar em [Resistir] ou +1 Fadiga"
         }
       ],
       "abilities": [
@@ -265,7 +265,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xCabeçada"
+          "extraInfo": "2x Garra e 1x Cabeçada"
         },
         {
           "name": "(+1) Garra",
@@ -359,7 +359,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x Garra"
         },
         {
           "name": "Garra",
@@ -401,7 +401,7 @@
         },
         {
           "name": "Pegajoso",
-          "description": "Dificulta tentativas de deixar de estar Imobilizado por ele. Criaturas que fazem contato físico com ele devem passar em [Resistência] ou ficar Imobilizadas."
+          "description": "Dificulta tentativas de deixar de estar Imobilizado por ele. Criaturas que fazem contato físico com ele devem passar em [Resistir] ou ficar Imobilizadas."
         }
       ]
     },
@@ -522,7 +522,7 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "2xGarra, 1xMordida, e 1xBorrifo de Sangue"
+          "extraInfo": "2x Garra, 1x Mordida, e 1x Borrifo de Sangue"
         },
         {
           "name": "Borrifo de Sangue",
@@ -547,7 +547,7 @@
         },
         {
           "name": "Terror III",
-          "description": "[Na primeira vez que os inimigos a virem e em seus Turnos | Vontade]: Amedrontado até passar nesta Resistência em um Turno subsequente, ou por Cd8 depois."
+          "description": "[Na primeira vez que os inimigos a virem e em seus Turnos | Vontade]: Amedrontado até passar um teste de Resistir em um Turno subsequente, ou por Cd8 depois."
         },
         {
           "name": "Zumbi",
@@ -611,11 +611,11 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "2xGarra e 1xSopro de Vapor ou 1xMordida"
+          "extraInfo": "2x Garra e 1x Sopro de Vapor ou 1x Mordida"
         },
         {
           "name": "Sopro de Vapor",
-          "note": "Ataque; Cone Distante | Resistência ou Reflexo",
+          "note": "Ataque; Cone Distante | Resistir ou Reflexo",
           "extraInfo": "e Queimando (Cd6) se falhar"
         },
         {
@@ -711,7 +711,7 @@
         },
         {
           "name": "Pegajoso",
-          "description": "Causa Desvantagem em tentativas de deixar de estar Imobilizado por ele. Criaturas que fizerem contato físico com ele devem passar em [Resistência] ou ficar Imobilizadas."
+          "description": "Causa Desvantagem em tentativas de deixar de estar Imobilizado por ele. Criaturas que fizerem contato físico com ele devem passar em [Resistir] ou ficar Imobilizadas."
         }
       ]
     },
@@ -724,7 +724,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xMordida para cada Cabeça (Cabeças Múltiplas)"
+          "extraInfo": "1x Mordida para cada Cabeça (Cabeças Múltiplas)"
         },
         {
           "name": "Mordida",
@@ -757,7 +757,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarras e 1xMordida"
+          "extraInfo": "2x Garras e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -819,7 +819,7 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "1xMordida e 1xInvestida"
+          "extraInfo": "1x Mordida e 1x Investida"
         },
         {
           "name": "Mordida",
@@ -917,7 +917,7 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "2xGarra, Imobilizado se menor e acertado por ambas"
+          "extraInfo": "2x Garra, Imobilizado se menor e acertado por ambas"
         },
         {
           "name": "Garra",
@@ -957,7 +957,7 @@
       "actions": [
         {
           "name": "Toque Gélido",
-          "note": "Conjurar, Toque | Resistência",
+          "note": "Conjurar, Toque | Resistir",
           "extraInfo": "e +1 Fadiga"
         },
         {
@@ -987,7 +987,7 @@
         {
           "name": "Mordida de Cobra",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Enjoada (cai para 0 PV)."
+          "extraInfo": "e passar em [Resistir] ou ficar Enjoada (cai para 0 PV)."
         },
         {
           "name": "Garra",
@@ -998,7 +998,7 @@
       "abilities": [
         {
           "name": "Semblante Petrificante",
-          "description": "Criaturas que olharem para ela pela primeira vez em seus Turnos devem passar em [Resistência] contra Doente ou sofrer 1 Fadiga. Uma Criatura com 3 ou mais Fadiga que ganhar outra Fadiga desta forma fica amaldiçoada (petrificada como uma estátua de pedra até esta medusa morrer)."
+          "description": "Criaturas que olharem para ela pela primeira vez em seus Turnos devem passar em [Resistir] contra Doente ou sofrer 1 Fadiga. Uma Criatura com 3 ou mais Fadiga que ganhar outra Fadiga desta forma fica amaldiçoada (petrificada como uma estátua de pedra até esta medusa morrer)."
         }
       ]
     },
@@ -1010,13 +1010,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Aura Próxima | Resistência | Metade do dano se passar",
+          "note": "Ataque, Aura Próxima | Resistir | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Doente (Cd6 de dano) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -1058,7 +1058,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x Garra"
         },
         {
           "name": "Garra",
@@ -1110,7 +1110,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xManto e 2xMordida"
+          "extraInfo": "1x Manto e 2x Mordida"
         },
         {
           "name": "Manto",
@@ -1158,7 +1158,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarras e 1xMordida"
+          "extraInfo": "2x Garras e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -1200,7 +1200,7 @@
         },
         {
           "name": "Consumir",
-          "description": "[Resistência]: Criaturas em seu espaço ficam Queimando (2d8). Uma Criatura que morre assim se dissolve, e se torna outro limo verde."
+          "description": "[Resistir]: Criaturas em seu espaço ficam Queimando (2d8). Uma Criatura que morre assim se dissolve, e se torna outro limo verde."
         },
         {
           "name": "Enfermidade Viva",
@@ -1217,7 +1217,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xAgarrar e 1xEsmagar"
+          "extraInfo": "1x Agarrar e 1x Esmagar"
         },
         {
           "name": "Agarrar",
@@ -1287,13 +1287,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Cone Próximo | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Cone Próximo | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Queimando (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -1331,7 +1331,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Garras",
@@ -1351,7 +1351,7 @@
         },
         {
           "name": "Fedor",
-          "description": "Aura Próxima. No início de cada Turno desta Criatura, passar em [Resistência] ou ficar Doente (-2 em Testes de Ataque enquanto na Área). Ao passar, fica imune a esta Habilidade por 1 dia."
+          "description": "Aura Próxima. No início de cada Turno desta Criatura, passar em [Resistir] ou ficar Doente (-2 em Testes de Ataque enquanto na Área). Ao passar, fica imune a esta Habilidade por 1 dia."
         },
         {
           "name": "Avesso ao Sol",
@@ -1368,7 +1368,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarras e 1xMordida"
+          "extraInfo": "2x Garras e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -1396,7 +1396,7 @@
       "actions": [
         {
           "name": "Choque Vital",
-          "note": "Conjurar, Toque | Resistência",
+          "note": "Conjurar, Toque | Resistir",
           "extraInfo": "curando este Ser pelo dano causado"
         },
         {
@@ -1425,7 +1425,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida. Um Ser acertado pelas três fica Imobilizado e sofre 18 (4d8) de dano no início dos Turnos deste Ser."
+          "extraInfo": "2x Garra e 1x Mordida. Um Ser acertado pelas três fica Imobilizado e sofre 18 (4d8) de dano no início dos Turnos deste Ser."
         },
         {
           "name": "Mordida",
@@ -1510,7 +1510,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xTentáculo por Tentáculo que possuir, até 4."
+          "extraInfo": "1x Tentáculo por Tentáculo que possuir, até 4."
         },
         {
           "name": "Bico",
@@ -1571,7 +1571,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xDrenar, ou 1xEnvolver e 1xDrenar"
+          "extraInfo": "2x Drenar, ou 1x Envolver e 1x Drenar"
         },
         {
           "name": "Drenar",
@@ -1600,7 +1600,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd6 de dano a cada minuto)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd6 de dano a cada minuto)"
         }
       ],
       "abilities": []
@@ -1684,7 +1684,7 @@
         {
           "name": "Multi-Ataque 2",
           "note": "",
-          "extraInfo": "2xGarras e 1xMordida"
+          "extraInfo": "2x Garras e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -1712,7 +1712,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xEspada Colossal ou Arma"
+          "extraInfo": "2x Espada Colossal ou Arma"
         },
         {
           "name": "Espada Colossal",
@@ -1756,7 +1756,7 @@
         },
         {
           "name": "Pegajoso",
-          "description": "Dificulta tentativas de deixar de estar Imobilizado por ele. Criaturas que fazem contato físico com ele devem passar em [Resistência] ou ficar Imobilizadas."
+          "description": "Dificulta tentativas de deixar de estar Imobilizado por ele. Criaturas que fazem contato físico com ele devem passar em [Resistir] ou ficar Imobilizadas."
         }
       ]
     },
@@ -1807,7 +1807,7 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "2xGarras e 1xMordida"
+          "extraInfo": "2x Garras e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -1863,7 +1863,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e (1/Dia) passar em [Resistência] ou ficar Doente (Cd6 Rodadas, Inconsciente até sofrer dano)."
+          "extraInfo": "e (1/Dia) passar em [Resistir] ou ficar Doente (Cd6 Rodadas, Inconsciente até sofrer dano)."
         },
         {
           "name": "Cuspir Ácido",
@@ -1882,7 +1882,7 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "2xGarra, 1xChifre, 1xMordida, e 1xCauda"
+          "extraInfo": "2x Garra, 1x Chifre, 1x Mordida, e 1x Cauda"
         },
         {
           "name": "Garra",
@@ -1993,7 +1993,7 @@
         {
           "name": "Ferrão",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4, Inconsciente)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd4, Inconsciente)"
         },
         {
           "name": "Mordida",
@@ -2083,7 +2083,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd6 de dano a cada Minuto)."
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd6 de dano a cada Minuto)."
         }
       ],
       "abilities": []
@@ -2134,13 +2134,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Aura de 15' | Resistência | Metade do dano se passar",
+          "note": "Ataque, Aura de 15' | Resistir | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Doente (Cd4 de dano) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x  Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -2215,7 +2215,7 @@
         {
           "name": "Arremesso de Vísceras",
           "note": "Ataque à Distância",
-          "extraInfo": "e passe em [Resistência] ou fique Doente (Cd6, fede e não consegue falar de tanto vomitar)."
+          "extraInfo": "e passe em [Resistir] ou fique Doente (Cd6, fede e não consegue falar de tanto vomitar)."
         }
       ],
       "abilities": [],
@@ -2230,7 +2230,7 @@
         {
           "name": "Bico",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Amaldiçoado (transformado em pedra por 1 Dia)"
+          "extraInfo": "e passar em [Resistir] ou ficar Amaldiçoado (transformado em pedra por 1 Dia)"
         }
       ],
       "abilities": []
@@ -2282,7 +2282,7 @@
         {
           "name": "Dilacerar",
           "note": "Multi-Ataque",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x  Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -2315,7 +2315,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xBico. Se ambas as Garras acertarem, sofre 9 (2d8) extra"
+          "extraInfo": "2x  Garra e 1x Bico. Se ambas as Garras acertarem, sofre 9 (2d8) extra"
         },
         {
           "name": "Bico",
@@ -2339,7 +2339,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xTentáculo e 1xMordida"
+          "extraInfo": "1x Tentáculo e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -2349,7 +2349,7 @@
         {
           "name": "Tentáculo",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd6, Paralisado)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd6, Paralisado)"
         }
       ],
       "abilities": [
@@ -2415,7 +2415,7 @@
         {
           "name": "Dilacerar",
           "note": "Multi-Ataque",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x  Garra"
         },
         {
           "name": "Garra",
@@ -2481,7 +2481,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] contra Doente ou sofrer mais 4 (d8) de dano e ficar Doente (Cd8, Paralisado)."
+          "extraInfo": "e passar em [Resistir] contra Doente ou sofrer mais 4 (d8) de dano e ficar Doente (Cd8, Paralisado)."
         }
       ],
       "abilities": [
@@ -2518,7 +2518,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4, +1 Fadiga a cada Rodada)."
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd4, +1 Fadiga a cada Rodada)."
         }
       ],
       "abilities": [
@@ -2574,12 +2574,12 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xTentáculo"
+          "extraInfo": "2x  Tentáculo"
         },
         {
           "name": "Tentáculo",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd8, +1 Fadiga a cada Rodada)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd8, +1 Fadiga a cada Rodada)"
         }
       ],
       "abilities": []
@@ -2592,13 +2592,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Cone Distante | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Cone Distante | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Queimando (Cd6) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x  Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -2729,7 +2729,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xLançamento"
+          "extraInfo": "2x  Lançamento"
         },
         {
           "name": "Lançamento",
@@ -2757,7 +2757,7 @@
         {
           "name": "Ferroada",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4, Inconsciente)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd4, Inconsciente)"
         }
       ],
       "abilities": [
@@ -2799,7 +2799,7 @@
       "actions": [
         {
           "name": "Cone de Frio",
-          "note": "Conjurar, Cone 60' | Resistência",
+          "note": "Conjurar, Cone 60' | Resistir",
           "extraInfo": ""
         },
         {
@@ -2814,18 +2814,18 @@
         },
         {
           "name": "Sono",
-          "note": "Conjurar, Esfera 20' | Resistência",
+          "note": "Conjurar, Esfera 20' | Resistir",
           "extraInfo": "Inconsciente (Cd4, ou até ser acordado)"
         },
         {
           "name": "Forma Gasosa",
-          "note": "Conjurar, Toque | Resistência",
+          "note": "Conjurar, Toque | Resistir",
           "extraInfo": "Transforma-se em uma nuvem de gás incorpórea pela duração."
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x  Garra"
         },
         {
           "name": "Garra",
@@ -2854,7 +2854,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x  Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -2924,7 +2924,7 @@
       "abilities": [
         {
           "name": "Nuvem de Esporos",
-          "description": "[Quando Tocado, Aura Adjacente | Resistência]: 3 (d6) e passar em [Resistência] ou ficar Doente (Cd8, +1 Fadiga a cada Rodada)."
+          "description": "[Quando Tocado, Aura Adjacente | Resistir]: 3 (d6) e passar em [Resistir] ou ficar Doente (Cd8, +1 Fadiga a cada Rodada)."
         }
       ]
     },
@@ -2937,7 +2937,7 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "1xFerrão e 1xMordida; ou 2xGarra e 1xMordida"
+          "extraInfo": "1x Ferrão e 1x Mordida; ou 2x  Garra e 1x  Mordida"
         },
         {
           "name": "Ferrão",
@@ -2988,13 +2988,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Linha Distante, 10' de largura | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Linha Distante, 10' de largura | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Queimando (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x  Mordida"
         },
         {
           "name": "Mordida",
@@ -3055,12 +3055,12 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x  Mordida"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd6 por Rodada, Atordoado por Cd4 após o Status terminar)."
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd6 por Rodada, Atordoado por Cd4 após o Status terminar)."
         },
         {
           "name": "Garra",
@@ -3093,7 +3093,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x  Mordida"
         },
         {
           "name": "Garra",
@@ -3122,7 +3122,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xTentáculo"
+          "extraInfo": "2x Tentáculo"
         },
         {
           "name": "Mordida",
@@ -3160,7 +3160,7 @@
         },
         {
           "name": "Sanguessuga",
-          "note": "Conjurar, Remoto | Resistência",
+          "note": "Conjurar, Remoto | Resistir",
           "extraInfo": "e Doente (Cd6, qualquer cura que a afete cura esta Criatura em vez disso)"
         }
       ],
@@ -3189,7 +3189,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xSoco"
+          "extraInfo": "2x Soco"
         },
         {
           "name": "Soco",
@@ -3239,7 +3239,7 @@
         },
         {
           "name": "Pegajoso",
-          "description": "Dificulta tentativas de deixar de estar Imobilizado por ele. Criaturas que fazem contato físico com ele devem passar em [Resistência] ou ficar Imobilizadas."
+          "description": "Dificulta tentativas de deixar de estar Imobilizado por ele. Criaturas que fazem contato físico com ele devem passar em [Resistir] ou ficar Imobilizadas."
         }
       ]
     },
@@ -3252,7 +3252,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xMordida por cabeça (Multi-Cabeças)"
+          "extraInfo": "1x  Mordida por cabeça (Multi-Cabeças)"
         },
         {
           "name": "Mordida",
@@ -3299,7 +3299,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] com bônus de +2 ou ficar Doente (Cd4, +1 Fadiga a cada Rodada)."
+          "extraInfo": "e passar em [Resistir] com bônus de +2 ou ficar Doente (Cd4, +1 Fadiga a cada Rodada)."
         }
       ],
       "abilities": []
@@ -3351,7 +3351,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xJato de Magma"
+          "extraInfo": "2x Jato de Magma"
         },
         {
           "name": "Jato de Magma",
@@ -3374,7 +3374,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarras e 1xMordida"
+          "extraInfo": "2x Garras e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -3465,17 +3465,17 @@
         {
           "name": "Enfeitiçar",
           "note": "Conjurar, todas as Criaturas que possam vê-la | Vontade",
-          "extraInfo": "O Alvo fica Enfeitiçado (Cd6) e deve fazer tudo o que puder para defender esta Criatura. Um Alvo que passar na Resistência fica imune a isso por 1 Dia."
+          "extraInfo": "O Alvo fica Enfeitiçado (Cd6) e deve fazer tudo o que puder para defender esta Criatura. Um Alvo que passar na Resistir fica imune a isso por 1 Dia."
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarras e 1xMordida"
+          "extraInfo": "2x Garras e 1x Mordida"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e esta Criatura é curada pelo dano causado. Uma Criatura que sofrer dano deste ataque deve passar em [Resistência] ou ficar Amaldiçoada com Vampirismo."
+          "extraInfo": "e esta Criatura é curada pelo dano causado. Uma Criatura que sofrer dano deste ataque deve passar em [Resistir] ou ficar Amaldiçoada com Vampirismo."
         },
         {
           "name": "Garra",
@@ -3512,7 +3512,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo, Próximo",
-          "extraInfo": "e passar em [Resistência] com -3 de penalidade ou ficar Doente (Cd4, Paralisado)."
+          "extraInfo": "e passar em [Resistir] com -3 de penalidade ou ficar Doente (Cd4, Paralisado)."
         }
       ],
       "abilities": []
@@ -3525,13 +3525,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Linha Distante, 5' de largura | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Linha Distante, 5' de largura | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Queimando (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -3568,13 +3568,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Cone Próximo | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Cone Próximo | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Queimando (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -3598,7 +3598,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "Passar em [Resistência] ou ficar Doente (Cd4, Paralisado)"
+          "extraInfo": "Passar em [Resistir] ou ficar Doente (Cd4, Paralisado)"
         }
       ],
       "abilities": []
@@ -3612,7 +3612,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xSoco"
+          "extraInfo": "2x Soco"
         },
         {
           "name": "Soco",
@@ -3658,7 +3658,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xPunho"
+          "extraInfo": "2x Punho"
         },
         {
           "name": "Punho",
@@ -3743,7 +3743,7 @@
       "actions": [
         {
           "name": "Sopro Gélido",
-          "note": "Conjurar, Aura Adjacente | Resistência",
+          "note": "Conjurar, Aura Adjacente | Resistir",
           "extraInfo": ""
         },
         {
@@ -3777,7 +3777,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4, Paralisado)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd4, Paralisado)"
         }
       ],
       "abilities": [
@@ -3796,7 +3796,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xTentáculo"
+          "extraInfo": "2x Tentáculo"
         },
         {
           "name": "Tentáculo",
@@ -3825,7 +3825,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd6 de dano a cada minuto)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd6 de dano a cada minuto)"
         }
       ],
       "abilities": []
@@ -3863,7 +3863,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xLaser e 1xSoco, ou 2xSocos"
+          "extraInfo": "1x Laser e 1x Soco, ou 2x Socos"
         },
         {
           "name": "Soco",
@@ -4081,13 +4081,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Cone Distante | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Cone Distante | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Atordoado (Cd4, Velocidade reduzida em 15') se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -4167,7 +4167,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x Garra"
         },
         {
           "name": "Garra",
@@ -4213,7 +4213,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -4254,7 +4254,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xChifrada e 1xGrande Machado"
+          "extraInfo": "1x Chifrada e 1x Grande Machado"
         },
         {
           "name": "Chifrada",
@@ -4277,7 +4277,7 @@
       "actions": [
         {
           "name": "Giro Arrasador",
-          "note": "Conjurar, Aura Próxima | Resistência",
+          "note": "Conjurar, Aura Próxima | Resistir",
           "extraInfo": "causa metade do dano se passar no teste e cura esta Criatura pela rolagem de dano. (Só pode usar esta Ação enquanto estiver com metade dos PV ou menos)"
         },
         {
@@ -4310,7 +4310,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Garra",
@@ -4334,7 +4334,7 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "2xGarra e 1xBico"
+          "extraInfo": "2x Garra e 1x Bico"
         },
         {
           "name": "Bico",
@@ -4363,7 +4363,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xCasco"
+          "extraInfo": "2x Casco"
         },
         {
           "name": "Casco",
@@ -4401,7 +4401,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xCasco"
+          "extraInfo": "2x Casco"
         },
         {
           "name": "Casco",
@@ -4420,7 +4420,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xMordida e 1xFerroada"
+          "extraInfo": "1x Mordida e 1x Ferroada"
         },
         {
           "name": "Mordida",
@@ -4430,7 +4430,7 @@
         {
           "name": "Ferroada",
           "note": "Ataque Corpo a Corpo, Próximo à sua cauda",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (+1 Fadiga por Cd12)."
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (+1 Fadiga por Cd12)."
         }
       ],
       "abilities": [
@@ -4453,7 +4453,7 @@
         {
           "name": "Toque Amaldiçoado",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passe em [Resistência] ou fique Amaldiçoado (não pode recuperar PV nem remover Fadiga, e perde 3 (d6) PV por dia)"
+          "extraInfo": "e passe em [Resistir] ou fique Amaldiçoado (não pode recuperar PV nem remover Fadiga, e perde 3 (d6) PV por dia)"
         }
       ],
       "abilities": [
@@ -4542,7 +4542,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarras e 1xBico"
+          "extraInfo": "2x Garras e 1x Bico"
         },
         {
           "name": "Bico",
@@ -4626,7 +4626,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarras e 1xMordida"
+          "extraInfo": "2x Garras e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -4658,13 +4658,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Cone Próximo | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Cone Próximo | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Atordoado (Cd4, Velocidade reduzida em 15') se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -4748,12 +4748,12 @@
         },
         {
           "name": "1 - Dreno Anti-Vida",
-          "note": "Conjurar, Remoto | Resistência",
+          "note": "Conjurar, Remoto | Resistir",
           "extraInfo": "e esta Criatura é curada em quantidade igual ao dano"
         },
         {
           "name": "2 - Desintegrar",
-          "note": "Conjurar, Remoto | Resistência",
+          "note": "Conjurar, Remoto | Resistir",
           "extraInfo": "e desintegrado se morto desta forma"
         },
         {
@@ -4763,7 +4763,7 @@
         },
         {
           "name": "4 - Toque da Morte",
-          "note": "Conjurar, Remoto | Resistência",
+          "note": "Conjurar, Remoto | Resistir",
           "extraInfo": "e Paralisado (Cd6)"
         },
         {
@@ -4773,7 +4773,7 @@
         },
         {
           "name": "6 - Disrupção Vital",
-          "note": "Conjurar, Aura Próxima | Resistência",
+          "note": "Conjurar, Aura Próxima | Resistir",
           "extraInfo": ", (metade se passar) e +1 Fadiga"
         }
       ],
@@ -4810,7 +4810,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4, Vulnerável e deve abrir mão do seu Movimento para dançar no lugar, causando uma penalidade de -4 aos Testes de Ataque e lhe dando +1 Fadiga a cada Rodada. Qualquer um que testemunhe essa dança deve passar em [Vontade] ou também ficar Enfeitiçado desta forma por (Cd4))."
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd4, Vulnerável e deve abrir mão do seu Movimento para dançar no lugar, causando uma penalidade de -4 aos Testes de Ataque e lhe dando +1 Fadiga a cada Rodada. Qualquer um que testemunhe essa dança deve passar em [Vontade] ou também ficar Enfeitiçado desta forma por (Cd4))."
         }
       ],
       "abilities": []
@@ -4824,7 +4824,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xBico"
+          "extraInfo": "2x Garra e 1x Bico"
         },
         {
           "name": "Bico",
@@ -4847,13 +4847,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Cone Distante | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Cone Distante | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Atordoado (Cd6, Velocidade reduzida em 20') se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -4894,13 +4894,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Linha Próxima | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Linha Próxima | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Atordoado (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -4923,13 +4923,13 @@
       "actions": [
         {
           "name": "Olhar Fixo",
-          "note": "Conjurar, uma Criatura que a esteja olhando | Resistência",
+          "note": "Conjurar, uma Criatura que a esteja olhando | Resistir",
           "extraInfo": "Amaldiçoado (transformado em pedra até esta Criatura morrer)"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em um teste de [Resistência] ou ficar Amaldiçoado (transformado em pedra até esta Criatura morrer)"
+          "extraInfo": "e passar em um teste de [Resistir] ou ficar Amaldiçoado (transformado em pedra até esta Criatura morrer)"
         }
       ],
       "abilities": []
@@ -4942,13 +4942,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Aura Próxima | Resistência | Metade do dano se passar",
+          "note": "Ataque, Aura Próxima | Resistir | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Doente (Cd4 de dano) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -4990,7 +4990,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd6 dias)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd6 dias)"
         }
       ],
       "abilities": [
@@ -5019,7 +5019,7 @@
       "abilities": [
         {
           "name": "Tático",
-          "description": "Alvos fazem Resistência contra seus ataques como se estivessem Vulneráveis se pelo menos um Aliado desta Criatura estiver a 5 pés do Alvo."
+          "description": "Alvos fazem Resistir contra seus ataques como se estivessem Vulneráveis se pelo menos um Aliado desta Criatura estiver a 5 pés do Alvo."
         }
       ]
     },
@@ -5032,7 +5032,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xSoco"
+          "extraInfo": "2x Soco"
         },
         {
           "name": "Soco",
@@ -5063,13 +5063,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Cone Distante | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Cone Distante | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Queimando (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -5116,7 +5116,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x Garra"
         },
         {
           "name": "Garra",
@@ -5139,13 +5139,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Linha Próxima, 5' de largura | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Linha Próxima, 5' de largura | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Queimando (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -5214,13 +5214,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Cone Próximo | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Cone Próximo | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Atordoado (Cd4, Velocidade reduzida em 15') se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -5262,7 +5262,7 @@
         {
           "name": "Estouro",
           "note": "Ação, Aura Próxima | Reflexo",
-          "extraInfo": "e passe em [Resistência] ou Doente (Cd4 de dano). Esta Criatura morre."
+          "extraInfo": "e passe em [Resistir] ou Doente (Cd4 de dano). Esta Criatura morre."
         }
       ],
       "abilities": [
@@ -5291,7 +5291,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xCasco e 1xChifre"
+          "extraInfo": "2x Casco e 1x Chifre"
         },
         {
           "name": "Casco",
@@ -5329,7 +5329,7 @@
         {
           "name": "Debandada",
           "note": "Multi-Ataque",
-          "extraInfo": "1xMordida e 1xPisão"
+          "extraInfo": "1x Mordida e 1x Pisão"
         },
         {
           "name": "Mordida",
@@ -5362,12 +5362,12 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xTentáculo e 1xMordida"
+          "extraInfo": "2x Tentáculo e 1x Mordida"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (até ser curado, Doença de Otyugh)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (até ser curado, Doença de Otyugh)"
         },
         {
           "name": "Tentáculo",
@@ -5376,14 +5376,14 @@
         },
         {
           "name": "Tentáculo (Imobilizando)",
-          "note": "Ataque Corpo a Corpo | Resistência",
-          "extraInfo": "Se o Alvo estiver Imobilizado, é arremessado contra algo e sofre 7 (2d6), devendo passar em um teste de [Resistência] ou ficar Atordoado por 1 Rodada."
+          "note": "Ataque Corpo a Corpo | Resistir",
+          "extraInfo": "Se o Alvo estiver Imobilizado, é arremessado contra algo e sofre 7 (2d6), devendo passar em um teste de [Resistir] ou ficar Atordoado por 1 Rodada."
         }
       ],
       "abilities": [
         {
           "name": "Doença de Otyugh",
-          "description": "Criaturas que não são otyughs e que ficarem Enjoadas dessa forma devem passar em um teste de [Resistência] todos os dias ou perder 3 (d6) de seus PV Máximos. Essa redução aos PV Máximos dura enquanto estiverem Enjoadas por essa doença."
+          "description": "Criaturas que não são otyughs e que ficarem Enjoadas dessa forma devem passar em um teste de [Resistir] todos os dias ou perder 3 (d6) de seus PV Máximos. Essa redução aos PV Máximos dura enquanto estiverem Enjoadas por essa doença."
         }
       ]
     },
@@ -5396,12 +5396,12 @@
         {
           "name": "Frenesi",
           "note": "Multi-Ataque",
-          "extraInfo": "2xMordida"
+          "extraInfo": "2x Mordida"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e Alvos de tamanho Médio ou menor devem passar em [Resistência] ou serem derrubados Caídos"
+          "extraInfo": "e Alvos de tamanho Médio ou menor devem passar em [Resistir] ou serem derrubados Caídos"
         },
         {
           "name": "Tagarelice",
@@ -5410,7 +5410,7 @@
         },
         {
           "name": "Cuspe",
-          "note": "Ataque à Distância, Próximo | Resistência",
+          "note": "Ataque à Distância, Próximo | Resistir",
           "extraInfo": "Cego (Cd4)"
         }
       ],
@@ -5430,7 +5430,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xTentáculo por (Tentáculos) e 1xMordida"
+          "extraInfo": "1x Tentáculo por (Tentáculos) e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -5458,7 +5458,7 @@
       "actions": [
         {
           "name": "Choque",
-          "note": "Ataque, Aura Adjacente | Resistência",
+          "note": "Ataque, Aura Adjacente | Resistir",
           "extraInfo": "Paralisado (Cd4) se falhar por 5 ou mais."
         },
         {
@@ -5512,7 +5512,7 @@
         },
         {
           "name": "5 - Morte",
-          "note": "Apenas Próximo | Resistência",
+          "note": "Apenas Próximo | Resistir",
           "extraInfo": ""
         },
         {
@@ -5527,7 +5527,7 @@
         },
         {
           "name": "8 - Paralisia",
-          "note": "Resistência",
+          "note": "Resistir",
           "extraInfo": "Paralisado (Cd4)"
         },
         {
@@ -5560,7 +5560,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra, 1xChifre, 1xMordida do Leão, e 1xSopro ou 1xMordida do Dragão"
+          "extraInfo": "2x Garra, 1x Chifre, 1x Mordida do Leão, e 1x Sopro ou 1x Mordida do Dragão"
         },
         {
           "name": "Garra",
@@ -5599,7 +5599,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xLíngua e 1xMordida"
+          "extraInfo": "1x Língua e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -5678,12 +5678,12 @@
         {
           "name": "Imobilizar",
           "note": "Multi-Ataque",
-          "extraInfo": "2xGarra e 1xFerroada"
+          "extraInfo": "2x Garra e 1x Ferroada"
         },
         {
           "name": "Ferroada",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] contra Doente ou ganhar 1 Fadiga"
+          "extraInfo": "e passar em [Resistir] contra Doente ou ganhar 1 Fadiga"
         },
         {
           "name": "Garra",
@@ -5725,7 +5725,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xPresa e 1xPisão"
+          "extraInfo": "1x Presa e 1x Pisão"
         },
         {
           "name": "Pisão",
@@ -5754,7 +5754,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4, +1 Fadiga a cada Rodada)."
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd4, +1 Fadiga a cada Rodada)."
         }
       ],
       "abilities": [
@@ -5870,7 +5870,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -5948,7 +5948,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "(+2) Garra",
@@ -6012,7 +6012,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xMordida por Cabeça (Multi-Cabeças)"
+          "extraInfo": "1x Mordida por Cabeça (Multi-Cabeças)"
         },
         {
           "name": "Mordida",
@@ -6074,7 +6074,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xLançamentos"
+          "extraInfo": "2x Lançamentos"
         },
         {
           "name": "Lançamento",
@@ -6093,7 +6093,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -6122,7 +6122,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd6 dias)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd6 dias)"
         }
       ],
       "abilities": [
@@ -6141,12 +6141,12 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e Mordida"
+          "extraInfo": "2x Garra e Mordida"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Enjoada (Cd6 de dano)"
+          "extraInfo": "e passar em [Resistir] ou ficar Enjoada (Cd6 de dano)"
         },
         {
           "name": "Garra",
@@ -6164,7 +6164,7 @@
       "actions": [
         {
           "name": "Gás Nocivo",
-          "note": "Ataque, Cone 10' | Resistência",
+          "note": "Ataque, Cone 10' | Resistir",
           "extraInfo": "metade em caso de sucesso e não é Crítico."
         },
         {
@@ -6189,7 +6189,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xTentáculo por (Tentáculos)"
+          "extraInfo": "1x Tentáculo por (Tentáculos)"
         },
         {
           "name": "Tentáculo",
@@ -6213,7 +6213,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xVentosa e 1xMordida"
+          "extraInfo": "1x Ventosa e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -6270,7 +6270,7 @@
         },
         {
           "name": "Pegajoso",
-          "description": "Dificulta tentativas de deixar de estar Imobilizado por ela. Criaturas que fazem contato físico com ela devem passar em [Resistência] ou ficar Imobilizadas."
+          "description": "Dificulta tentativas de deixar de estar Imobilizado por ela. Criaturas que fazem contato físico com ela devem passar em [Resistir] ou ficar Imobilizadas."
         }
       ]
     },
@@ -6282,13 +6282,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Linha Distante | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Linha Distante | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Atordoado (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -6344,7 +6344,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xAlfanje e 1xMordida"
+          "extraInfo": "1x Alfanje e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -6372,7 +6372,7 @@
       "actions": [
         {
           "name": "Sabotagem",
-          "note": "Conjurar, um Item que não seja Relíquia em Próximo | Resistência do portador",
+          "note": "Conjurar, um Item que não seja Relíquia em Próximo | Resistir do portador",
           "extraInfo": "Quebra-se em materiais."
         },
         {
@@ -6452,7 +6452,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -6500,11 +6500,11 @@
         {
           "name": "Multi-Ataque",
           "note": "",
-          "extraInfo": "2xGarras e 1xDrenar, ou 2xDrenar"
+          "extraInfo": "2x Garras e 1x Drenar, ou 2x Drenar"
         },
         {
           "name": "Drenar",
-          "note": "Ação, Criatura Imobilizada | Resistência",
+          "note": "Ação, Criatura Imobilizada | Resistir",
           "extraInfo": "PV é drenado do Alvo"
         },
         {
@@ -6551,13 +6551,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Linha Distante, 10' de largura | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Linha Distante, 10' de largura | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Queimando (Cd6) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -6599,12 +6599,12 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xLançamentos"
+          "extraInfo": "2x Lançamentos"
         },
         {
           "name": "Lançamento",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Queimando (Cd4)"
+          "extraInfo": "e passar em [Resistir] ou ficar Queimando (Cd4)"
         }
       ],
       "abilities": [
@@ -6627,7 +6627,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xMordida e 1xConstringir"
+          "extraInfo": "1x Mordida e 1x Constringir"
         },
         {
           "name": "Mordida",
@@ -6651,7 +6651,7 @@
         {
           "name": "Corta-Corta",
           "note": "Multi-Ataque",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x Garra"
         },
         {
           "name": "Garra",
@@ -6738,17 +6738,17 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xCauda e 1xRaio da Morte"
+          "extraInfo": "1x Cauda e 1x Raio da Morte"
         },
         {
           "name": "Raio da Morte",
-          "note": "Conjurar, Remoto | Resistência",
+          "note": "Conjurar, Remoto | Resistir",
           "extraInfo": "e +1 Fadiga"
         },
         {
           "name": "Cauda",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em um teste de [Resistência] ou ser derrubado Caído e ficar Atordoado por 1 Rodada."
+          "extraInfo": "e passar em um teste de [Resistir] ou ser derrubado Caído e ficar Atordoado por 1 Rodada."
         }
       ],
       "abilities": [
@@ -6800,12 +6800,12 @@
         },
         {
           "name": "Distorção da Realidade",
-          "note": "Conjurar, Cone Próximo | Resistência",
+          "note": "Conjurar, Cone Próximo | Resistir",
           "extraInfo": "Role 1d4:"
         },
         {
           "name": "1 - Portal",
-          "note": "Resistência",
+          "note": "Resistir",
           "extraInfo": "Puxado para Adjacente a esta Criatura"
         },
         {
@@ -6815,7 +6815,7 @@
         },
         {
           "name": "3 - Trava Temporal",
-          "note": "Resistência",
+          "note": "Resistir",
           "extraInfo": "Paralisado (Cd4)"
         },
         {
@@ -6837,7 +6837,7 @@
       "abilities": [
         {
           "name": "Visão do Futuro",
-          "description": "Causa Desvantagem em Resistências contra seus Ataques"
+          "description": "Causa Desvantagem em Salvaguardas contra seus Ataques"
         },
         {
           "name": "Resistência Mágica III",
@@ -6900,7 +6900,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -6945,7 +6945,7 @@
       "abilities": [
         {
           "name": "Visão do Futuro",
-          "description": "Causa Desvantagem em Resistências contra seus Ataques."
+          "description": "Causa Desvantagem em Salvaguardas contra seus Ataques."
         },
         {
           "name": "Resistência Mágica II",
@@ -6967,7 +6967,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xBico"
+          "extraInfo": "2x Garra e 1x Bico"
         },
         {
           "name": "Garra",
@@ -7039,17 +7039,17 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passe em [Resistência] ou fique Paralisado (Cd4)"
+          "extraInfo": "e passe em [Resistir] ou fique Paralisado (Cd4)"
         },
         {
           "name": "Garra",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passe em [Resistência] ou fique Paralisado (Cd4)"
+          "extraInfo": "e passe em [Resistir] ou fique Paralisado (Cd4)"
         }
       ],
       "abilities": [
@@ -7088,7 +7088,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xCasco"
+          "extraInfo": "2x Casco"
         },
         {
           "name": "Casco",
@@ -7140,7 +7140,7 @@
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd6 dias)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd6 dias)"
         }
       ],
       "abilities": [
@@ -7159,7 +7159,7 @@
         {
           "name": "Dilacerar",
           "note": "Multi-Ataque",
-          "extraInfo": "2xGarra"
+          "extraInfo": "2x Garra"
         },
         {
           "name": "Garra",
@@ -7212,12 +7212,12 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xMaça do Abismo, 1xMordida e 1xCauda"
+          "extraInfo": "1x Maça do Abismo, 1x Mordida e 1x Cauda"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] com -1 de penalidade ou ficar Doente (dano de Cd6)"
+          "extraInfo": "e passar em [Resistir] com -1 de penalidade ou ficar Doente (dano de Cd6)"
         },
         {
           "name": "(+2) Maça",
@@ -7231,7 +7231,7 @@
         },
         {
           "name": "Prender",
-          "note": "Conjurar, Remoto | Resistência",
+          "note": "Conjurar, Remoto | Resistir",
           "extraInfo": "Paralisado (Cd4)"
         },
         {
@@ -7267,13 +7267,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Linha Distante | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Linha Distante | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Atordoado (Cd4) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -7311,7 +7311,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xBico"
+          "extraInfo": "2x Garra e 1x Bico"
         },
         {
           "name": "Bico",
@@ -7335,12 +7335,12 @@
         {
           "name": "Fuga Enfumaçada",
           "note": "Correr, ao Fugir",
-          "extraInfo": "Preenche uma esfera de 10 pés com fumaça negra. Outras Criaturas na área devem passar em [Resistência] ou sofrer dano."
+          "extraInfo": "Preenche uma esfera de 10 pés com fumaça negra. Outras Criaturas na área devem passar em [Resistir] ou sofrer dano."
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarras e 1xBico"
+          "extraInfo": "2x Garras e 1x Bico"
         },
         {
           "name": "Bico",
@@ -7402,7 +7402,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xTentáculo por (Tentáculos) e 1xMordida"
+          "extraInfo": "1x Tentáculo por (Tentáculos) e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -7454,11 +7454,11 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xSopro Venenoso e 1xEspadão, ou 2xEspadão"
+          "extraInfo": "1x Sopro Venenoso e 1x Espadão, ou 2x Espadão"
         },
         {
           "name": "Sopro Venenoso",
-          "note": "Conjurar, Cubo Próximo de 10' | Resistência",
+          "note": "Conjurar, Cubo Próximo de 10' | Resistir",
           "extraInfo": "Fadiga"
         },
         {
@@ -7563,7 +7563,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xMordida ou 1xConstringir"
+          "extraInfo": "1x Mordida ou 1x Constringir"
         },
         {
           "name": "Mordida",
@@ -7595,7 +7595,7 @@
       "actions": [
         {
           "name": "Sopro de Fogo",
-          "note": "Conjurar, Cone Próximo | Reflexo ou Resistência",
+          "note": "Conjurar, Cone Próximo | Reflexo ou Resistir",
           "extraInfo": ""
         },
         {
@@ -7697,13 +7697,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Aura Adjacente | Resistência | Metade do dano se passar",
+          "note": "Ataque, Aura Adjacente | Resistir | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Doente (Cd4 de dano) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",
@@ -7755,7 +7755,7 @@
         {
           "name": "Toque Amaldiçoado",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passe em [Resistência] ou fique Amaldiçoado (não pode recuperar PV, e perde 10 (3d6) PV por dia)"
+          "extraInfo": "e passe em [Resistir] ou fique Amaldiçoado (não pode recuperar PV, e perde 10 (3d6) PV por dia)"
         }
       ],
       "abilities": [
@@ -7825,7 +7825,7 @@
         },
         {
           "name": "Redemoinho",
-          "description": "Criaturas Próximas de tamanho Médio ou menor devem passar em [Resistência] contra ficar Imobilizadas no início de seus Turnos ou serem arremessadas 25 (d10x5) pés pelo ar."
+          "description": "Criaturas Próximas de tamanho Médio ou menor devem passar em [Resistir] contra ficar Imobilizadas no início de seus Turnos ou serem arremessadas 25 (d10x5) pés pelo ar."
         }
       ]
     },
@@ -7857,7 +7857,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xPinça"
+          "extraInfo": "2x Pinça"
         },
         {
           "name": "Pinça",
@@ -7885,12 +7885,12 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xMordida e 1xArma"
+          "extraInfo": "1x Mordida e 1x Arma"
         },
         {
           "name": "Mordida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4, +1 Fadiga a cada Rodada)"
+          "extraInfo": "e passar em [Resistir] ou ficar Doente (Cd4, +1 Fadiga a cada Rodada)"
         },
         {
           "name": "Arma",
@@ -7956,7 +7956,7 @@
         {
           "name": "Dreno de Vida",
           "note": "Ataque Corpo a Corpo",
-          "extraInfo": "e passe em [Resistência] ou +1 Fadiga. Se isso a matar, ela ressurge como uma Sombra."
+          "extraInfo": "e passe em [Resistir] ou +1 Fadiga. Se isso a matar, ela ressurge como uma Sombra."
         }
       ],
       "abilities": [
@@ -7980,7 +7980,7 @@
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "1xPescar e 1xGarra, ou 2xGarra"
+          "extraInfo": "1x Pescar e 1x Garra, ou 2x Garra"
         },
         {
           "name": "Garra",
@@ -8027,13 +8027,13 @@
       "actions": [
         {
           "name": "Sopro",
-          "note": "Ataque, Linha Distante | Resistência ou Reflexo | Metade do dano se passar",
+          "note": "Ataque, Linha Distante | Resistir ou Reflexo | Metade do dano se passar",
           "extraInfo": "Gaste uma Ação para iniciar este Ataque, que ocorre no próximo Turno desta Criatura. Efeito: e Atordoado (Cd6) se falhar"
         },
         {
           "name": "Combo",
           "note": "",
-          "extraInfo": "2xGarra e 1xMordida"
+          "extraInfo": "2x Garra e 1x Mordida"
         },
         {
           "name": "Mordida",

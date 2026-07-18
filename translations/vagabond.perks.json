@@ -27,7 +27,7 @@
 		},
 		"Archaeologist": {
 			"name": "Arqueólogo",
-			"description": "<p><span class=\"fontstyle0\">Testes e Resistências que você faz contra armadilhas têm Vantagem e, se você for submetido a uma Maldição, pode fazer uma Resistência de Vontade para romper instantaneamente o domínio da maldição sobre você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Testes e Salvaguardas que você faz contra armadilhas têm Vantagem e, se você for submetido a uma Maldição, pode fazer uma Salvaguarda de Vontade para romper instantaneamente o domínio da maldição sobre você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Assured Healer": {
 			"name": "Curandeiro Infalível",
@@ -75,7 +75,7 @@
 		},
 		"Conjurer": {
 			"name": "Conjurador",
-			"description": "<p>Você pode usar a Ação de Conjurar para invocar um Servo, que é uma Criatura não-Humanoide que você derrotou anteriormente com DV igual ou inferior ao seu Nível, gastando Mana equivalente ao DV do Servo para isso. Você deve realizar um Ritual de 10 minutos para escolher qual Criatura será seu Servo antes de usar esta Ação.</p><p>As seguintes regras se aplicam ao seu Servo:</p><ul><li><p>Ele é um Aliado que obedece seus comandos, que você emite como uma Ação ou abrindo mão do seu Movimento.</p></li><li><p>Ele usa sua Perícia de Conjuração para Testes e Resistências.</p></li><li><p>Você deve se Concentrar no Servo, gastando 1 Mana por Turno enquanto ele estiver invocado. Caso contrário, o Servo é banido. Quando ele é reduzido a 0 PV ou se você invoca outro Servo, ele é banido.</p></li><li><p>Sempre que ele for banido, quaisquer Habilidades que terminariam com sua morte terminam.</p></li></ul>"
+			"description": "<p>Você pode usar a Ação de Conjurar para invocar um Servo, que é uma Criatura não-Humanoide que você derrotou anteriormente com DV igual ou inferior ao seu Nível, gastando Mana equivalente ao DV do Servo para isso. Você deve realizar um Ritual de 10 minutos para escolher qual Criatura será seu Servo antes de usar esta Ação.</p><p>As seguintes regras se aplicam ao seu Servo:</p><ul><li><p>Ele é um Aliado que obedece seus comandos, que você emite como uma Ação ou abrindo mão do seu Movimento.</p></li><li><p>Ele usa sua Perícia de Conjuração para Testes e Salvaguardas.</p></li><li><p>Você deve se Concentrar no Servo, gastando 1 Mana por Turno enquanto ele estiver invocado. Caso contrário, o Servo é banido. Quando ele é reduzido a 0 PV ou se você invoca outro Servo, ele é banido.</p></li><li><p>Sempre que ele for banido, quaisquer Habilidades que terminariam com sua morte terminam.</p></li></ul>"
 		},
 		"Deft Hands": {
 			"name": "Mãos Ágeis",
@@ -107,7 +107,7 @@
 		},
 		"Familiar": {
 			"name": "Familiar",
-			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos para invocar um familiar, um Aliado leal a você que você controla. O familiar pode ser qualquer Criatura Pequena com DV: 1. Ele usa sua Perícia de Conjuração para Testes e Resistências, e você pode Conjurar Magias usando o familiar como um conduto para sua Magia. Se fizer isso, pode entregar a Magia a partir do familiar como se ela tivesse se originado de você. O familiar é banido quando cai a 0 PV ou se você realizar este Ritual novamente para criar outro familiar.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos para invocar um familiar, um Aliado leal a você que você controla. O familiar pode ser qualquer Criatura Pequena com DV: 1. Ele usa sua Perícia de Conjuração para Testes e Salvaguardas, e você pode Conjurar Magias usando o familiar como um conduto para sua Magia. Se fizer isso, pode entregar a Magia a partir do familiar como se ela tivesse se originado de você. O familiar é banido quando cai a 0 PV ou se você realizar este Ritual novamente para criar outro familiar.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Full Swing": {
 			"name": "Golpe Total",
@@ -128,7 +128,7 @@
 		},
 		"Guardian Angel": {
 			"name": "Anjo da Guarda",
-			"description": "<p><span class=\"fontstyle0\">Uma vez por Rodada, se um de seus Aliados for Alvo de um Inimigo, você pode gastar 1 Sorte para fazer um ataque contra esse Inimigo. Se acertar, seu Aliado tem Vantagem em qualquer Resistência forçada por esse Inimigo neste Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Rodada, se um de seus Aliados for Alvo de um Inimigo, você pode gastar 1 Sorte para fazer um ataque contra esse Inimigo. Se acertar, seu Aliado tem Vantagem em qualquer Salvaguarda forçada por esse Inimigo neste Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Harmonic Resonance": {
 			"name": "Ressonância Harmônica",
@@ -210,7 +210,7 @@
 		},
 		"Master Breaker": {
 			"name": "Mestre Arrombador",
-			"description": "<p><span class=\"fontstyle0\">Se você falhar em um Teste de Sutileza para arrombar uma fechadura, sua gazua não se quebra e você faz Resistências contra armadilhas que ela acionar com Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Se você falhar em um Teste de Sutileza para arrombar uma fechadura, sua gazua não se quebra e você faz Salvaguardas contra armadilhas que ela acionar com Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Master Chef": {
 			"name": "Mestre Cozinheiro",
@@ -235,7 +235,7 @@
 		},
 		"Mithridatism": {
 			"name": "Mitridatismo",
-			"description": "<p><span class=\"fontstyle0\">Suas Resistências contra Doente têm Vantagem, e você reduz o dano baseado em Veneno que sofrer em 2 por dado do efeito.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Suas Salvaguardas contra Doente têm Vantagem, e você reduz o dano baseado em Veneno que sofrer em 2 por dado do efeito.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Moonlight Sonata": {
 			"name": "Sonata ao Luar",
@@ -272,11 +272,11 @@
 		},
 		"Panache": {
 			"name": "Panache",
-			"description": "<p><span class=\"fontstyle0\">Se você acertar um Inimigo Adjacente com um ataque, a próxima Resistência que você fizer contra um ataque antes do início do seu próximo Turno tem Vantagem.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Se você acertar um Inimigo Adjacente com um ataque, a próxima Salvaguarda que você fizer contra um ataque antes do início do seu próximo Turno tem Vantagem.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Patience": {
 			"name": "Paciência",
-			"description": "<p><span class=\"fontstyle0\">Quando você Segura para Atacar, sua próxima Resistência de Vigor para Bloquear antes do seu próximo Turno tem Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Quando você Segura para Atacar, sua próxima Salvaguarda de Resistir para Bloquear antes do seu próximo Turno tem Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Peerless Athlete": {
 			"name": "Atleta Incomparável",
@@ -292,11 +292,11 @@
 		},
 		"Protector": {
 			"name": "Protetor",
-			"description": "<p><span class=\"fontstyle0\">Você pode Bloquear em nome de um Aliado que falhar na Resistência contra o ataque de um Inimigo Adjacente a você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Você pode Bloquear em nome de um Aliado que falhar na Salvaguarda contra o ataque de um Inimigo Adjacente a você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Provoker": {
 			"name": "Provocador",
-			"description": "<p><span class=\"fontstyle0\">Você pode usar sua Ação para intimidar ou de outra forma provocar um Inimigo que possa vê-lo ou ouvi-lo. Ao fazê-lo, seus Aliados fazem todas as Resistências provocadas pelos Ataques daquele Inimigo com Vantagem até o início do próximo Turno do seu Grupo.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Você pode usar sua Ação para intimidar ou de outra forma provocar um Inimigo que possa vê-lo ou ouvi-lo. Ao fazê-lo, seus Aliados fazem todas as Salvaguardas provocadas pelos Ataques daquele Inimigo com Vantagem até o início do próximo Turno do seu Grupo.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Rally": {
 			"name": "Arregimentar",
@@ -304,7 +304,7 @@
 		},
 		"Reanimator": {
 			"name": "Reanimador",
-			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos com o cadáver de uma Criatura que não seja Artificial ou Morto-Vivo, e que tenha DV não superior ao seu Nível. Fazer isso a ergue como um Morto-Vivo, conforme a Magia Erguer. Ela fica sob seu controle por um Turno, ou até que você realize este Ritual novamente. Ela usa sua Perícia de Arcanismo, Ofício ou Misticismo para Testes e Resistências.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos com o cadáver de uma Criatura que não seja Artificial ou Morto-Vivo, e que tenha DV não superior ao seu Nível. Fazer isso a ergue como um Morto-Vivo, conforme a Magia Erguer. Ela fica sob seu controle por um Turno, ou até que você realize este Ritual novamente. Ela usa sua Perícia de Arcanismo, Ofício ou Misticismo para Testes e Salvaguardas.</span></p>"
 		},
 		"Resourceful": {
 			"name": "Engenhoso",
@@ -362,11 +362,11 @@
 		},
 		"Situational Awareness": {
 			"name": "Consciência Situacional",
-			"description": "<p><span class=\"fontstyle0\">Você tem Vantagem em Testes contra surpresa, e ser flanqueado não causa Desvantagem em suas Resistências.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Você tem Vantagem em Testes contra surpresa, e ser flanqueado não causa Desvantagem em suas Salvaguardas.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Sixth Sense": {
 			"name": "Sexto Sentido",
-			"description": "<p><span class=\"fontstyle0\">Você ignora o Status Cego para Testes e Resistências baseados em visão.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Você ignora o Status Cego para Testes e Salvaguardas baseados em visão.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Skirmisher": {
 			"name": "Escaramuçador",
@@ -402,7 +402,7 @@
 		},
 		"Tactician": {
 			"name": "Tático",
-			"description": "<p><span class=\"fontstyle0\">Você pode usar sua Ação ou abrir mão do seu Movimento para emitir uma ordem, escolhendo da lista a seguir. Os benefícios de uma ordem que você emitir duram pelo Combate ou até que emita outra ordem: <br /></span></p><p><span class=\"fontstyle0\"><strong>Atacar:</strong> Declare um Inimigo Alvo. Testes de Ataque e Conjuração contra ele ignoram Desvantagem. <br /><strong>Defender:</strong> Você e seus Aliados não podem ter Desvantagem em Resistências contra ataques. <br /><strong>Recuar:</strong> Seus Aliados que usarem sua Ação para Correr e terminarem o Turno mais distantes de quaisquer Inimigos do que começaram têm Vantagem em Resistências contra ataques naquela Rodada.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Você pode usar sua Ação ou abrir mão do seu Movimento para emitir uma ordem, escolhendo da lista a seguir. Os benefícios de uma ordem que você emitir duram pelo Combate ou até que emita outra ordem: <br /></span></p><p><span class=\"fontstyle0\"><strong>Atacar:</strong> Declare um Inimigo Alvo. Testes de Ataque e Conjuração contra ele ignoram Desvantagem. <br /><strong>Defender:</strong> Você e seus Aliados não podem ter Desvantagem em Salvaguardas contra ataques. <br /><strong>Recuar:</strong> Seus Aliados que usarem sua Ação para Correr e terminarem o Turno mais distantes de quaisquer Inimigos do que começaram têm Vantagem em Salvaguardas contra ataques naquela Rodada.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Telepath": {
 			"name": "Telepata",
@@ -427,7 +427,7 @@
 		},
 		"Unfailing Guidance": {
 			"name": "Orientação Infalível",
-			"description": "<p><span class=\"fontstyle0\">Se o Alvo da sua Magia Guiar forçar um de seus Aliados a fazer uma Resistência com Desvantagem, a Desvantagem é ignorada se o Aliado puder vê-lo.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Se o Alvo da sua Magia Guiar forçar um de seus Aliados a fazer uma Salvaguarda com Desvantagem, a Desvantagem é ignorada se o Aliado puder vê-lo.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Ungarmax": {
 			"name": "Ungarmax",
@@ -447,7 +447,7 @@
 		},
 		"Wander the Wooded": {
 			"name": "Andarilho do Bosque",
-			"description": "<p><span class=\"fontstyle0\">Terreno Difícil natural não impede sua Velocidade, e Resistências que você fizer contra perigos naturais (como avalanches ou calor extremo) têm Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Terreno Difícil natural não impede sua Velocidade, e Salvaguardas que você fizer contra perigos naturais (como avalanches ou calor extremo) têm Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Water Walker": {
 			"name": "Caminhante das Águas",

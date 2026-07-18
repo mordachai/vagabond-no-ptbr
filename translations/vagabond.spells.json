@@ -147,7 +147,7 @@
 		},
 		"Bless": {
 			"name": "Abençoar",
-			"description": "<p><span class=\"fontstyle0\">Durante a duração, Objetos Alvo contam como Prateados, e Criaturas Alvo à sua escolha recebem um bônus de d4 em Resistências.</span></p><p><span class=\"fontstyle0\">Além disso, se o Alvo for água livre, ela se torna permanentemente água benta.</span></p>",
+			"description": "<p><span class=\"fontstyle0\">Durante a duração, Objetos Alvo contam como Prateados, e Criaturas Alvo à sua escolha recebem um bônus de d4 em Salvaguardas.</span></p><p><span class=\"fontstyle0\">Além disso, se o Alvo for água livre, ela se torna permanentemente água benta.</span></p>",
 			"duration": "Até seu próximo turno",
 			"crit": ""
 		},
@@ -243,7 +243,7 @@
 		},
 		"Exalt": {
 			"name": "Exaltar",
-			"description": "<p><span class=\"fontstyle0\">Alvos recebem um bônus de +1 a cada dado de dano que causarem e às Resistências de Vontade contra Amedrontado. Esse bônus é dobrado se um Infernal ou Morto-Vivo for o Alvo do ataque ou aquele que estiver forçando a Resistência.</span></p>",
+			"description": "<p><span class=\"fontstyle0\">Alvos recebem um bônus de +1 a cada dado de dano que causarem e às Salvaguardas de Vontade contra Amedrontado. Esse bônus é dobrado se um Infernal ou Morto-Vivo for o Alvo do ataque ou aquele que estiver forçando a Salvaguarda.</span></p>",
 			"duration": "Até seu próximo turno",
 			"crit": ""
 		},

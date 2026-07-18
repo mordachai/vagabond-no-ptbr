@@ -23,7 +23,7 @@
 		},
 		"Candle, Restful": {
 			"name": "Vela, Repousante",
-			"description": "<p><span class=\"fontstyle0\">Emite luz até Adjacente por até 1 hora enquanto queima e enche o ar dentro de Próximo com um odor aconchegante. Uma vez por Turno, uma Criatura que Recupera o Fôlego nesta área ganha Vantagem em sua próxima Resistência de Vontade naquele Turno.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Emite luz até Adjacente por até 1 hora enquanto queima e enche o ar dentro de Próximo com um odor aconchegante. Uma vez por Turno, uma Criatura que Recupera o Fôlego nesta área ganha Vantagem em sua próxima Salvaguarda de Vontade naquele Turno.</span></p>"
 		},
 		"Oil, Crone’s Ire": {
 			"name": "Óleo, Ira da Bruxa",
@@ -35,7 +35,7 @@
 		},
 		"Potion, Invulnerability I": {
 			"name": "Poção, Invulnerabilidade I",
-			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Resistências igual ao Grau da poção (+1). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Salvaguardas igual ao Grau da poção (+1). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
 		},
 		"Alchemist’s Fire": {
 			"name": "Fogo do Alquimista",
@@ -83,7 +83,7 @@
 		},
 		"Potion, Cold Resistance": {
 			"name": "Poção, Resistência ao Frio",
-			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Não é ferido por Frio Glacial.</span></li><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Resistências contra ataques e magias baseados em Frio.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Frio que sofrer em 1 por dado usado no dano.</span></li></ul>"
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Não é ferido por Frio Glacial.</span></li><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Salvaguardas contra ataques e magias baseados em Frio.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Frio que sofrer em 1 por dado usado no dano.</span></li></ul>"
 		},
 		"Potion, Gaseous Form": {
 			"name": "Poção, Forma Gasosa",
@@ -91,7 +91,7 @@
 		},
 		"Potion, Shock Resistance": {
 			"name": "Poção, Resistência a Choque",
-			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Resistências contra ficar Atordoado, Paralisado, e contra ataques e magias baseados em Choque.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Choque que sofrer em 1 por dado usado no dano.</span></li></ul>"
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Salvaguardas contra ficar Atordoado, Paralisado, e contra ataques e magias baseados em Choque.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Choque que sofrer em 1 por dado usado no dano.</span></li></ul>"
 		},
 		"Shriek Paste": {
 			"name": "Pasta do Grito",
@@ -115,7 +115,7 @@
 		},
 		"Potion, Control Person": {
 			"name": "Poção, Controlar Pessoa",
-			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Resistência de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Pessoas (Anões, Elfos, Humanos, Goblins).</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Salvaguarda de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Pessoas (Anões, Elfos, Humanos, Goblins).</span></p>"
 		},
 		"Frigid Azote": {
 			"name": "Azoto Gélido",
@@ -163,7 +163,7 @@
 		},
 		"Potion, Invulnerability II": {
 			"name": "Poção, Invulnerabilidade II",
-			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Resistências igual ao Grau da poção (+2). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Salvaguardas igual ao Grau da poção (+2). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
 		},
 		"Acid, Oxidizing": {
 			"name": "Ácido, Oxidante",
@@ -247,7 +247,7 @@
 		},
 		"Potion, Invulnerability III": {
 			"name": "Poção, Invulnerabilidade III",
-			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Resistências igual ao Grau da poção (+3). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Salvaguardas igual ao Grau da poção (+3). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
 		},
 		"Adhesive": {
 			"name": "Adesivo",
@@ -255,7 +255,7 @@
 		},
 		"Candle, Calming": {
 			"name": "Vela, Calmante",
-			"description": "<p><span class=\"fontstyle0\">Age como uma tocha, mas sua Luz só se estende até Adjacente. O ar em sua Luz se enche de um odor fresco e revigorante. Aqueles em sua Luz ganham Vantagem em Resistências contra Furioso ou Amedrontado.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Age como uma tocha, mas sua Luz só se estende até Adjacente. O ar em sua Luz se enche de um odor fresco e revigorante. Aqueles em sua Luz ganham Vantagem em Salvaguardas contra Furioso ou Amedrontado.</span></p>"
 		},
 		"Potion, Mana II": {
 			"name": "Poção, Mana II",
@@ -271,7 +271,7 @@
 		},
 		"Potion, Control Monster": {
 			"name": "Poção, Controlar Monstro",
-			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Resistência de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Monstros (Dragão, Planta, Gigante, Morto-Vivo).</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Salvaguarda de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Monstros (Dragão, Planta, Gigante, Morto-Vivo).</span></p>"
 		},
 		"Potion, Flying": {
 			"name": "Poção, Voo",
@@ -279,7 +279,7 @@
 		},
 		"Potion, Control Beast": {
 			"name": "Poção, Controlar Fera",
-			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Resistência de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Feras.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Salvaguarda de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Feras.</span></p>"
 		},
 		"Acid, Green Slime": {
 			"name": "Ácido, Limo Verde",
@@ -295,7 +295,7 @@
 		},
 		"Potion, Fire Resistance": {
 			"name": "Poção, Resistência ao Fogo",
-			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Não é ferido por Calor Escaldante.</span></li><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Resistências contra ataques e magias baseados em Fogo.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Fogo que sofrer em 1 por dado usado no dano.</span></li></ul>"
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Não é ferido por Calor Escaldante.</span></li><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Salvaguardas contra ataques e magias baseados em Fogo.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Fogo que sofrer em 1 por dado usado no dano.</span></li></ul>"
 		},
 		"Acid, Basic": {
 			"name": "Ácido, Básico",
@@ -303,7 +303,7 @@
 		},
 		"Clearbreath": {
 			"name": "Fôlego Claro",
-			"description": "<p><span class=\"fontstyle0\">Vapores cinzentos e enfumaçados que embotam temporariamente o olfato quando inalados. Uma Criatura que inala o Fôlego Claro ganha Vantagem em Resistências contra odores fétidos e gases por 1 hora.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Vapores cinzentos e enfumaçados que embotam temporariamente o olfato quando inalados. Uma Criatura que inala o Fôlego Claro ganha Vantagem em Salvaguardas contra odores fétidos e gases por 1 hora.</span></p>"
 		},
 		"Potion, Clairaudience": {
 			"name": "Poção, Clariaudiência",

@@ -2,7 +2,7 @@
   "id": "vagabond-no-ptbr",
   "title": "Vagabond: Tradução pt-BR",
   "description": "Tradução (pt-BR) do conteúdo de compêndios do sistema Vagabond, via Babele. Tradução não oficial.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": 13,
     "verified": 14
@@ -30,6 +30,14 @@
   },
   "esmodules": [
     "scripts/register.mjs"
+  ],
+  "packs": [
+    {
+      "name": "macros",
+      "label": "Vagabond pt-BR: Macros",
+      "path": "packs/macros",
+      "type": "Macro"
+    }
   ],
   "url": "https://github.com/mordachai/vagabond-no-ptbr",
   "manifest": "https://github.com/mordachai/vagabond-no-ptbr/releases/latest/download/module.json",

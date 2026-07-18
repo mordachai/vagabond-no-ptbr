@@ -135,7 +135,7 @@
 		},
 		"Breath Attack - 2D6!": {
 			"name": "Ataque de Sopro - 2D6!",
-			"description": "<p>Você pode fazer um ataque de sopro em Cone de 15 pés. Ao fazer isso, faça um teste de Resistência ou Vontade. Em caso de sucesso, este ataque causa 2d6!. Depois disso, você não pode usar esta Habilidade novamente até Descansar, ou receber 1 Fadiga para fazê-lo novamente.</p>"
+			"description": "<p>Você pode fazer um ataque de sopro em Cone de 15 pés. Ao fazer isso, faça um Salvaguarda de Resistir ou Vontade. Em caso de sucesso, este ataque causa 2d6!. Depois disso, você não pode usar esta Habilidade novamente até Descansar, ou receber 1 Fadiga para fazê-lo novamente.</p>"
 		},
 		"Longbow": {
 			"name": "Arco Longo",
@@ -161,7 +161,7 @@
 		},
 		"Breath Attack": {
 			"name": "Ataque de Sopro",
-			"description": "<p>Você pode fazer um ataque de sopro em Cone de 15 pés. Ao fazer isso, faça um teste de Resistência ou Vontade. Em caso de sucesso, este ataque causa 2d6!. Depois disso, você não pode usar esta Habilidade novamente até Descansar, ou receber 1 Fadiga para fazê-lo novamente.</p>"
+			"description": "<p>Você pode fazer um ataque de sopro em Cone de 15 pés. Ao fazer isso, faça um Salvaguarda de Resistir ou Vontade. Em caso de sucesso, este ataque causa 2d6!. Depois disso, você não pode usar esta Habilidade novamente até Descansar, ou receber 1 Fadiga para fazê-lo novamente.</p>"
 		},
 		"Crossbow, light": {
 			"name": "Besta Leve"
