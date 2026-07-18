@@ -79,3 +79,8 @@ Todos os compêndios do sistema: ancestralidades, classes, perícias/perks, magi
 Tradução por Gus ([@mordachai](https://github.com/mordachai)), com auxílio do Claude Sonnet 5 (Anthropic).
 
 Sugestões e correções são bem-vindas — abra uma [issue](https://github.com/mordachai/vagabond-no-ptbr/issues).
+
+---
+
+“Vagabond for Foundry is an independent product published under the Land of the Blind Third-Party License and is not affiliated with Land of the Blind, LLC.
+Vagabond // Pulp Fantasy RPG © 2025 Land of theBlind, LLC.”
