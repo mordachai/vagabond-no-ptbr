@@ -1,0 +1,586 @@
+{
+	"label": "Humanlike",
+	"entries": {
+		"Brigand": {
+			"name": "Salteador",
+			"actions": [
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Cota de Malha"
+		},
+		"Thug": {
+			"name": "Capanga",
+			"actions": [
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				},
+				{
+					"name": "Besta Pesada",
+					"note": "Ataque à Distância",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		},
+		"Squire": {
+			"name": "Escudeiro",
+			"actions": [
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				},
+				{
+					"name": "Besta Pesada",
+					"note": "Ataque à Distância",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		},
+		"Bandit": {
+			"name": "Bandido",
+			"actions": [
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		},
+		"Necromancer": {
+			"name": "Necromante",
+			"actions": [
+				{
+					"name": "Comandar",
+					"note": "Ação (todos os Mortos-Vivos que controla)",
+					"extraInfo": "Ordena que Ataquem a Criatura mais próxima."
+				},
+				{
+					"name": "Animar",
+					"note": "Conjurar, Aura Próxima (todos os Cadáveres)",
+					"extraInfo": "Erguido como um Zumbi sob seu controle."
+				},
+				{
+					"name": "Explosão Necrótica",
+					"note": "Conjurar, Remoto",
+					"extraInfo": "e passar em [Resistência] ou ficar Doente (Cd4 de dano, Cego e Surdo)."
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		},
+		"Acolyte": {
+			"name": "Acólito",
+			"actions": [
+				{
+					"name": "Curar Ferimentos",
+					"note": "Conjurar, Toque (Aliado ferido)",
+					"extraInfo": "Recupera 3 (d6) PV"
+				},
+				{
+					"name": "Afugentar Mortos-Vivos",
+					"note": "Conjurar, Aura Próxima",
+					"extraInfo": "Alvos Mortos-Vivos ficam Amedrontados (Cd4), ignorando Imunidade"
+				},
+				{
+					"name": "Chama Sagrada",
+					"note": "Conjurar, Aura Próxima | Resistência",
+					"extraInfo": "e Cego (Cd4)"
+				},
+				{
+					"name": "Maça",
+					"note": "",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Sem Armadura"
+		},
+		"Archer": {
+			"name": "Arqueiro",
+			"actions": [
+				{
+					"name": "Arco Longo",
+					"note": "Ataque à Distância",
+					"extraInfo": ""
+				},
+				{
+					"name": "Adaga",
+					"note": "Ataque Corpo a Corpo, Arremessável",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [
+				{
+					"name": "Marca do Caçador",
+					"description": ""
+				}
+			],
+			"armorDescription": "como Couro"
+		},
+		"Scholar": {
+			"name": "Erudito",
+			"actions": [
+				{
+					"name": "Aconselhar",
+					"note": "Ação, Aliado",
+					"extraInfo": "Concede um dado de Estudado ao Aliado."
+				},
+				{
+					"name": "Besta",
+					"note": "Ataque à Distância",
+					"extraInfo": ""
+				},
+				{
+					"name": "Adaga",
+					"note": "Ataque Corpo a Corpo, Arremessável",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Sem Armadura"
+		},
+		"Guard": {
+			"name": "Guarda",
+			"actions": [
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Cota de Malha"
+		},
+		"Gladiator": {
+			"name": "Gladiador",
+			"actions": [
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				}
+			],
+			"abilities": [
+				{
+					"name": "Proeza",
+					"description": "+1 no dano de ataque que causa (já incluído)."
+				}
+			],
+			"armorDescription": "como Couro"
+		},
+		"Scout": {
+			"name": "Batedor",
+			"actions": [
+				{
+					"name": "Arco Longo",
+					"note": "Ataque à Distância",
+					"extraInfo": ""
+				},
+				{
+					"name": "Adaga",
+					"note": "Ataque Corpo a Corpo",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		},
+		"Mage, Fire": {
+			"name": "Mago, Fogo",
+			"actions": [
+				{
+					"name": "Bola de Fogo",
+					"note": "Conjurar, Esfera de 20 pés | Reflexo",
+					"extraInfo": "Queimando (Cd4)"
+				},
+				{
+					"name": "Rajada de Fogo",
+					"note": "Conjurar, Remoto (Foco) | Reflexo",
+					"extraInfo": "Queimando (Cd4)"
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Sem Armadura"
+		},
+		"Archmage": {
+			"name": "Arquimago",
+			"actions": [
+				{
+					"name": "Combo",
+					"note": "",
+					"extraInfo": "2 quaisquer Ações de Conjuração que possa usar"
+				},
+				{
+					"name": "Raio Elétrico",
+					"note": "Conjurar, Linha de 30 pés | Reflexo",
+					"extraInfo": "e Atordoado (Cd4, ou Cd6 se falhar tirando 1)"
+				},
+				{
+					"name": "Bola de Fogo",
+					"note": "Conjurar, Esfera de 20 pés | Reflexo",
+					"extraInfo": "e Queimando (Cd4, ou Cd6 se falhar tirando 1)"
+				},
+				{
+					"name": "Nevasca",
+					"note": "Conjurar, Esfera de 20 pés | Resistência | Foco",
+					"extraInfo": "preenchendo a área com neve (Terreno Difícil)"
+				},
+				{
+					"name": "Rajada de Fogo",
+					"note": "Conjurar, Remoto | Reflexo",
+					"extraInfo": "e Queimando (Cd4, ou Cd6 se falhar tirando 1)"
+				},
+				{
+					"name": "Faca de Gelo",
+					"note": "Conjurar, Remoto | Reflexo | Foco",
+					"extraInfo": "e sua Velocidade é reduzida à metade durante a duração"
+				},
+				{
+					"name": "Choque",
+					"note": "Conjurar, Remoto | Reflexo",
+					"extraInfo": "e Atordoado (Cd4, ou Cd6 se falhar tirando 1)"
+				}
+			],
+			"abilities": [
+				{
+					"name": "Proteção Mágica II",
+					"description": "Na primeira vez que for afetado involuntariamente por uma Magia a cada Rodada, o Conjurador deve gastar 2 Mana extra para afetá-lo."
+				}
+			],
+			"armorDescription": "como Cota de Malha"
+		},
+		"Watchman": {
+			"name": "Vigia",
+			"actions": [
+				{
+					"name": "Alabarda",
+					"note": "Ataque Corpo a Corpo, Cutilar de 10 pés",
+					"extraInfo": ""
+				},
+				{
+					"name": "Besta Leve",
+					"note": "Ataque à Distância",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Cota de Malha"
+		},
+		"Apothecary": {
+			"name": "Boticário",
+			"actions": [
+				{
+					"name": "Poção de Cura",
+					"note": "Usar",
+					"extraInfo": "PV."
+				},
+				{
+					"name": "Panaceia",
+					"note": "Usar",
+					"extraInfo": "Curado de Cego ou Doente."
+				},
+				{
+					"name": "Besta",
+					"note": "Ataque à Distância",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Sem Armadura"
+		},
+		"Jester": {
+			"name": "Bobo da Corte",
+			"actions": [
+				{
+					"name": "Mímica",
+					"note": "Ação (após um Aliado realizar uma Ação)",
+					"extraInfo": "Mimetiza a Ação que aquele Aliado realizou neste Turno, repetindo-a efetivamente."
+				},
+				{
+					"name": "Adaga",
+					"note": "Ataque Corpo a Corpo, Arremessável",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		},
+		"Warlord": {
+			"name": "Senhor da Guerra",
+			"actions": [
+				{
+					"name": "Malho",
+					"note": "Ataque Corpo a Corpo",
+					"extraInfo": ""
+				},
+				{
+					"name": "Conclamar",
+					"note": "Ação",
+					"extraInfo": "Concede aos Aliados que o ouçam um bônus de d4 em suas rolagens de dano e Testes de Vontade por 1 Rodada."
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Placas"
+		},
+		"Spy": {
+			"name": "Espião",
+			"actions": [
+				{
+					"name": "Garrote",
+					"note": "Ataque Corpo a Corpo",
+					"extraInfo": "Agarrado e Sufocando"
+				},
+				{
+					"name": "Adaga",
+					"note": "Ataque Corpo a Corpo, Arremessável",
+					"extraInfo": "e Ataque Furtivo"
+				}
+			],
+			"abilities": [
+				{
+					"name": "Combo",
+					"description": ""
+				},
+				{
+					"name": "Ataque Furtivo",
+					"description": ""
+				}
+			],
+			"armorDescription": "como Couro"
+		},
+		"Commander": {
+			"name": "Comandante",
+			"actions": [
+				{
+					"name": "Malho",
+					"note": "Ataque Corpo a Corpo",
+					"extraInfo": ""
+				},
+				{
+					"name": "Conclamar",
+					"note": "Ação",
+					"extraInfo": "Concede aos Aliados que o ouçam um bônus de d4 em suas rolagens de dano e Testes de Vontade por 1 Rodada."
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Placas"
+		},
+		"Cultist": {
+			"name": "Cultista",
+			"actions": [
+				{
+					"name": "Adaga",
+					"note": "Ataque Corpo a Corpo",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [
+				{
+					"name": "Fanático",
+					"description": "Não pode ficar Enfeitiçado nem Amedrontado."
+				}
+			],
+			"armorDescription": "como Couro"
+		},
+		"Knight": {
+			"name": "Cavaleiro",
+			"actions": [
+				{
+					"name": "Espadão",
+					"note": "Ataque Corpo a Corpo",
+					"extraInfo": ""
+				},
+				{
+					"name": "Conclamar",
+					"note": "Ação",
+					"extraInfo": "Concede aos Aliados que o ouçam um bônus de d4 em suas rolagens de dano e Testes de Vontade por 1 Rodada."
+				}
+			],
+			"abilities": [
+				{
+					"name": "Liderança",
+					"description": "Enquanto estiver vivo e à vista, seus Aliados sempre passam em Testes de Moral e não podem ficar Amedrontados."
+				}
+			],
+			"armorDescription": "como Placas"
+		},
+		"Bounty Hunter": {
+			"name": "Caçador de Recompensas",
+			"actions": [
+				{
+					"name": "Rifle",
+					"note": "Ataque à Distância",
+					"extraInfo": ""
+				},
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				}
+			],
+			"abilities": [
+				{
+					"name": "Marca do Caçador",
+					"description": ""
+				}
+			],
+			"armorDescription": "como Couro"
+		},
+		"Commoner": {
+			"name": "Plebeu",
+			"actions": [
+				{
+					"name": "Pedra",
+					"note": "Ataque Corpo a Corpo, Arremessável",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Sem Armadura"
+		},
+		"Mage, Shock": {
+			"name": "Mago, Choque",
+			"actions": [
+				{
+					"name": "Raio Elétrico",
+					"note": "Conjurar, Linha de 30 pés | Reflexo",
+					"extraInfo": "Atordoado (Cd4)"
+				},
+				{
+					"name": "Choque",
+					"note": "Conjurar, Remoto (Foco) | Reflexo",
+					"extraInfo": "Atordoado durante a duração."
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Sem Armadura"
+		},
+		"Assassin": {
+			"name": "Assassino",
+			"actions": [
+				{
+					"name": "Rajada de Golpes",
+					"note": "Multi-Ataque",
+					"extraInfo": "Duas Adagas"
+				},
+				{
+					"name": "Adaga",
+					"note": "",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [
+				{
+					"name": "Ataque Furtivo",
+					"description": "Uma vez por Turno, causa 2 (d4) de dano adicional com um ataque contra um Alvo Vulnerável. Esse ataque ignora Armadura e pode explodir."
+				}
+			],
+			"armorDescription": "como Couro"
+		},
+		"Noble": {
+			"name": "Nobre",
+			"actions": [
+				{
+					"name": "Rapieira",
+					"note": "Ataque",
+					"extraInfo": ""
+				},
+				{
+					"name": "Conclamar",
+					"note": "Ação",
+					"extraInfo": "Concede aos Aliados que o ouçam um bônus de d4 em suas rolagens de dano e Testes de Vontade por 1 Rodada."
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		},
+		"Mage, Frost": {
+			"name": "Mago, Gelo",
+			"actions": [
+				{
+					"name": "Nevasca",
+					"note": "Conjurar, Esfera de 20 pés (Foco) | Resistência",
+					"extraInfo": "preenchendo a área com neve (Terreno Difícil)."
+				},
+				{
+					"name": "Faca de Gelo",
+					"note": "Conjurar, Remoto (Foco) | Reflexo",
+					"extraInfo": "sua Velocidade é reduzida à metade durante a duração."
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Sem Armadura"
+		},
+		"Trader": {
+			"name": "Mercador",
+			"actions": [
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		},
+		"Veteran": {
+			"name": "Veterano",
+			"actions": [
+				{
+					"name": "Arma",
+					"note": "Ataque",
+					"extraInfo": "ou (pela Arma)"
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Placas"
+		},
+		"Berserker": {
+			"name": "Berserker",
+			"actions": [
+				{
+					"name": "Machado Grande",
+					"note": "Ataque Corpo a Corpo, Cutilar",
+					"extraInfo": "ou 13 (2d12!) se esta Criatura estiver Furiosa."
+				}
+			],
+			"abilities": [
+				{
+					"name": "Fúria",
+					"description": "Fica Furioso quando é atacado ou como parte de realizar um Ataque. Enquanto Furioso, por qualquer meio, reduz o dano recebido em 1 por dado de dano."
+				}
+			],
+			"armorDescription": "como Couro"
+		},
+		"Bard": {
+			"name": "Bardo",
+			"actions": [
+				{
+					"name": "Hino Inspirador",
+					"note": "Ação",
+					"extraInfo": "Concede a todos os Aliados que possam ouvi-lo um bônus de d4 em suas rolagens de dano e Testes de Vontade por 1 Rodada. Não pode usar essa Ação se não tiver um Instrumento Musical equipado."
+				},
+				{
+					"name": "Rapieira",
+					"note": "Ataque Corpo a Corpo",
+					"extraInfo": ""
+				}
+			],
+			"abilities": [],
+			"armorDescription": "como Couro"
+		}
+	}
+}

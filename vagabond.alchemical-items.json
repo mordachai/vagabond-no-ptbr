@@ -1,0 +1,341 @@
+{
+	"label": "Itens Alquímicos",
+	"entries": {
+		"Instant Wall": {
+			"name": "Muro Instantâneo",
+			"description": "<p><span class=\"fontstyle0\">Cria um muro de 10 pés de comprimento e altura, e 1 pé de largura. O muro aparece na orientação escolhida pelo usuário. Ele tem 20 PV e Armadura: 2. O muro desmorona em pó após 1 minuto ou se for destruído.</span></p>"
+		},
+		"Potion, Freedom": {
+			"name": "Poção, Liberdade",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome é Imune aos Status Imobilizado e Paralisado.</span></p>"
+		},
+		"Oil, Wyrmwound": {
+			"name": "Óleo, Ferida de Dragão",
+			"description": "<p><span class=\"fontstyle0\">Este óleo carmesim é um flagelo para os de natureza escamosa. Age como óleo básico. Porém, enquanto aplicado em uma arma que é então incendiada, seu dano contra Criaturas escamosas pode explodir e ignora 2 de Armadura.</span></p>"
+		},
+		"Torch, Repel Beast": {
+			"name": "Tocha, Repelir Feras",
+			"description": "<p><span class=\"fontstyle0\">Uma tocha que queima com uma chama carmesim anormal que perturba Feras. Enquanto queima, Feras na Luz que ela emite ficam Amedrontadas até sofrerem dano. Depois disso, não podem ficar Amedrontadas dessa forma por 1 Dia.</span></p>"
+		},
+		"Potion, Speed II": {
+			"name": "Poção, Velocidade II",
+			"description": "<p><span class=\"fontstyle0\">Este líquido azul fino contrai os músculos de quem o consome. Por 1 Hora, a Velocidade de quem o consome aumenta em 10 pés.</span></p>"
+		},
+		"Candle, Restful": {
+			"name": "Vela, Repousante",
+			"description": "<p><span class=\"fontstyle0\">Emite luz até Adjacente por até 1 hora enquanto queima e enche o ar dentro de Próximo com um odor aconchegante. Uma vez por Turno, uma Criatura que Recupera o Fôlego nesta área ganha Vantagem em sua próxima Resistência de Vontade naquele Turno.</span></p>"
+		},
+		"Oil, Crone’s Ire": {
+			"name": "Óleo, Ira da Bruxa",
+			"description": "<p><span class=\"fontstyle0\">Um óleo verde-esmeralda doentio que guincha quando aceso. Age como óleo básico. Porém, quando aplicado em uma Arma que é então incendiada, o dano de ataque causado por ela pode explodir se o Alvo puder Conjurar. Se o Alvo estiver Concentrando e algum dos dados explodir, sua Concentração termina.</span></p>"
+		},
+		"Potion, Levitation": {
+			"name": "Poção, Levitação",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome pode se Mover verticalmente para cima e para baixo no ar como se estivesse Voando, mas precisa ganhar impulso para se Mover horizontalmente.</span></p>"
+		},
+		"Potion, Invulnerability I": {
+			"name": "Poção, Invulnerabilidade I",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Resistências igual ao Grau da poção (+1). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
+		},
+		"Alchemist’s Fire": {
+			"name": "Fogo do Alquimista",
+			"description": "<p><span class=\"fontstyle0\">Um fluido inflamável, parecido com alcatrão, que se incendeia quando exposto ao oxigênio, causando 2d6 de dano e deixando um Alvo atingido Queimando (Cd6).</span></p>"
+		},
+		"Holy Water": {
+			"name": "Água Benta",
+			"description": "<p><span class=\"fontstyle0\">Usada em rituais sagrados, é conhecida por ser cáustica para Criaturas profanas. Mortos-Vivos e Infernais atingidos por ela sofrem d6 de dano e ficam Queimando (Cd4).</span></p>"
+		},
+		"Potion, Regeneration II": {
+			"name": "Poção, Regeneração II",
+			"description": "<p><span class=\"fontstyle0\">Quem consome o item recupera PV igual ao resultado de um dado decrescente (Cd6). O tamanho do dado é determinado pelo seu Grau.</span></p>"
+		},
+		"Soap": {
+			"name": "Sabão",
+			"description": "<p><span class=\"fontstyle0\">Barra perfumada de gordura e óleo, usada para o banho.</span></p>"
+		},
+		"Potion, Healing III": {
+			"name": "Poção, Cura III",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome recupera PV igual a um número de rolagens de d6 determinado pelo Grau da Poção, mais um modificador igual ao seu Grau (3d6+3).</span></p>"
+		},
+		"Splash Catalyst": {
+			"name": "Catalisador de Respingo",
+			"description": "<p><span class=\"fontstyle0\">Quando combinado com outro item alquímico usado para fazer ataques, o catalisador aumenta a volatilidade do item. Se o item normalmente tem como Alvo apenas uma única Criatura, você pode em vez disso ter como Alvo um ponto dentro do mesmo alcance. Se você tiver sucesso, todas as Criaturas Adjacentes ao ponto são submetidas aos seus efeitos como se tivessem sido atingidas por ele.</span></p>"
+		},
+		"Poison, Truth Serum": {
+			"name": "Veneno, Soro da Verdade",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Doente (Cd8, não consegue mentir conscientemente).</span></p><p><span class=\"fontstyle2\"><strong>Consumido:</strong> </span><span class=\"fontstyle0\">Afeta Alvos que o consomem.</span></p>"
+		},
+		"Torch, Frigidflame": {
+			"name": "Tocha, Chama Gélida",
+			"description": "<p><span class=\"fontstyle0\">Enquanto queima, emite Luar e conta como uma fonte de gelo em vez de fogo.</span></p>"
+		},
+		"Potion, Healing II": {
+			"name": "Poção, Cura II",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome recupera PV igual a um número de rolagens de d6 determinado pelo Grau da Poção, mais um modificador igual ao seu Grau (2d6+2).</span></p>"
+		},
+		"Antitoxin": {
+			"name": "Antitoxina",
+			"description": "<p><span class=\"fontstyle0\">Remove o Status Doente de quem o consome.</span></p>"
+		},
+		"Candle, Basic": {
+			"name": "Vela, Básica",
+			"description": "<p><span class=\"fontstyle0\">Age como uma tocha, mas sua Luz só se estende até Adjacente.</span></p>"
+		},
+		"Potion, Cold Resistance": {
+			"name": "Poção, Resistência ao Frio",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Não é ferido por Frio Glacial.</span></li><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Resistências contra ataques e magias baseados em Frio.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Frio que sofrer em 1 por dado usado no dano.</span></li></ul>"
+		},
+		"Potion, Gaseous Form": {
+			"name": "Poção, Forma Gasosa",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, o corpo de quem a consome se torna uma nuvem de gás e as seguintes regras se aplicam:</span></p><ul><li><span class=\"fontstyle0\">Deixa cair imediatamente tudo o que tiver equipado, e não pode equipar nada.</span></li><li><span class=\"fontstyle0\">Pode se Mover infiltrando-se em espaços minúsculos.</span></li><li><span class=\"fontstyle0\">Não pode Atacar ou Conjurar.</span></li><li><span class=\"fontstyle0\">É Imune a todo dano de ataques que não sejam feitos por Relíquias.</span></li></ul>"
+		},
+		"Potion, Shock Resistance": {
+			"name": "Poção, Resistência a Choque",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Resistências contra ficar Atordoado, Paralisado, e contra ataques e magias baseados em Choque.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Choque que sofrer em 1 por dado usado no dano.</span></li></ul>"
+		},
+		"Shriek Paste": {
+			"name": "Pasta do Grito",
+			"description": "<p><span class=\"fontstyle0\">A pasta pode cobrir um quadrado de 5 pés ou uma Criatura de tamanho Médio ou menor por até 1 semana. Quando luz é emitida Próximo à pasta, ela cristaliza rapidamente e emite um guincho audível dentro de 300 pés por 1 minuto. Se a luz sair do alcance, o guincho termina no fim do Turno. Depois disso, a pasta fica inerte.</span></p>"
+		},
+		"Oil, Anointing": {
+			"name": "Óleo, de Unção",
+			"description": "<p><span class=\"fontstyle0\">Usado em cerimônias religiosas, age como óleo básico. Porém, quando aplicado em uma Arma que é então incendiada, a arma passa a contar como Prateada.</span></p>"
+		},
+		"Thunderstone": {
+			"name": "Pedra do Trovão",
+			"description": "<p><span class=\"fontstyle0\">A pedra é conhecida por criar um estrondo ensurdecedor, e pode ser lançada contra uma Criatura ou um ponto. Tudo o que estiver Próximo ao Alvo fica incapaz de ouvir até o fim de seu próximo Turno.</span></p>"
+		},
+		"Potion, Regeneration III": {
+			"name": "Poção, Regeneração III",
+			"description": "<p><span class=\"fontstyle0\">Quem consome o item recupera PV igual ao resultado de um dado decrescente (Cd8). O tamanho do dado é determinado pelo seu Grau.</span></p>"
+		},
+		"Sunrod": {
+			"name": "Bastão Solar",
+			"description": "<p><span class=\"fontstyle0\">Esta haste de ferro com ponta dourada brilha intensamente quando golpeada. Ao fazer isso, ela emite Luz até Próximo por um Turno, e a Luz que emite dentro de Adjacente é Luz Solar.</span></p>"
+		},
+		"Potion, Control Person": {
+			"name": "Poção, Controlar Pessoa",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Resistência de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Pessoas (Anões, Elfos, Humanos, Goblins).</span></p>"
+		},
+		"Frigid Azote": {
+			"name": "Azoto Gélido",
+			"description": "<p><span class=\"fontstyle0\">Um líquido que congela rapidamente quando exposto ao oxigênio. Um Alvo atingido por este Item sofre d6 de dano e sua Velocidade é reduzida à metade até o fim de seu próximo Turno.</span></p>"
+		},
+		"Longbreath": {
+			"name": "Fôlego Longo",
+			"description": "<p><span class=\"fontstyle0\">Esta fumaça espessa, com tom acastanhado, é uma bênção para quem precisa ficar sem ar por mais do que algumas Rodadas. Por 1 hora após inalar o conteúdo do frasco, a Criatura pode prender a respiração indefinidamente enquanto não estiver Incapacitada.</span></p>"
+		},
+		"Ice Skin": {
+			"name": "Pele de Gelo",
+			"description": "<p><span class=\"fontstyle0\">Uma dose pode cobrir uma Criatura de tamanho Médio ou menor por um Turno. Durante esse Turno, essa Criatura fica protegida contra Frio Amargo.</span></p>"
+		},
+		"Smelling Salts": {
+			"name": "Sais Aromáticos",
+			"description": "<p><span class=\"fontstyle0\">Este fluido pungente pode ser administrado abanando o conteúdo sob o nariz de uma Criatura. Se a Criatura estiver Inconsciente por sono, ela acorda imediatamente.</span></p>"
+		},
+		"Homunculus Soup": {
+			"name": "Sopa de Homúnculo",
+			"description": "<p><span class=\"fontstyle0\">Uma mistura especial de argila, cinzas, raiz de mandrágora e o próprio sangue do alquimista. Esta sopa cria um homúnculo (p. 120) sob o controle do alquimista, que usa a Perícia de Ofício dele para quaisquer Testes que fizer. Se outro homúnculo for criado a partir do sangue do mesmo alquimista, o homúnculo mais antigo morre.</span></p>"
+		},
+		"Candle, Insectbane": {
+			"name": "Vela, Repele Insetos",
+			"description": "<p><span class=\"fontstyle0\">Emite luz até Adjacente por até 1 hora enquanto queima. Insetos agem como Amedrontados enquanto estiverem dentro da luz que ela emite.</span></p>"
+		},
+		"Torch, Tindertwig": {
+			"name": "Tocha, Graveto Incendiário",
+			"description": "<p><span class=\"fontstyle0\">Este pequeno graveto de madeira se acende quando riscado contra uma superfície áspera. Gravetos incendiários não se apagam com o tempo, o que significa que podem ser reutilizados com a frequência e pela duração que o usuário desejar.</span></p>"
+		},
+		"Tanglefoot Bag": {
+			"name": "Saco Emaranhador",
+			"description": "<p><span class=\"fontstyle0\">Um saco cheio de alcatrão preto pegajoso que se rompe ao impacto. Um Alvo atingido por este Item fica Imobilizado (Cd4 Rodadas). Isso não tem efeito debaixo d'água.</span></p>"
+		},
+		"Oil, Ghostflame": {
+			"name": "Óleo, Chama Fantasma",
+			"description": "<p><span class=\"fontstyle0\">Óleo transparente com tons de fumaça cinzenta que parecem rodopiar em seu interior. Age como óleo básico. Porém, enquanto aplicado em uma arma que é então incendiada, seus ataques podem acertar Criaturas incorpóreas (como fantasmas).</span></p>"
+		},
+		"Gravebane": {
+			"name": "Flagelo da Sepultura",
+			"description": "<p><span class=\"fontstyle0\">Este líquido branco e espesso evapora quase instantaneamente ao entrar em contato com o ar, criando uma fumaça fina e quase invisível. A fumaça é quase inodora e não tem efeito na maioria das Criaturas. Mortos-Vivos, porém, são repelidos por ela. Uma vez usada, a fumaça preenche a área até Próximo por 1 minuto, ou até ser dispersada por um vento forte. Mortos-Vivos ficam Atordoados enquanto estiverem na fumaça, ignorando Imunidades.</span></p>"
+		},
+		"Potion, Polymorph": {
+			"name": "Poção, Metamorfose",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome se transforma conforme a Magia Metamorfose (p. 97) por 1 Hora. Se quem a consome não sabe que está bebendo a poção ou não escolhe uma forma, role d66:</span></p><table class=\"NormalTable\"><tbody><tr><td>d66</td><td>Fera</td><td>d66</td><td>Fera</td><td>d66</td><td>Fera</td></tr><tr><td>1 1</td><td>Sapo</td><td>3 1</td><td>Camelo</td><td>5 1</td><td>Golfinho</td></tr><tr><td>2</td><td>Ovelha</td><td>2</td><td>Cavalo</td><td>2</td><td>Pombo</td></tr><tr><td>3</td><td>Galinha</td><td>3</td><td>Lhama</td><td>3</td><td>Tigre</td></tr><tr><td>4</td><td>Raposa</td><td>4</td><td>Gato</td><td>4</td><td>Leão</td></tr><tr><td>5</td><td>Javali</td><td>5</td><td>Crocodilo</td><td>5</td><td>Touro</td></tr><tr><td>6</td><td>Falcão</td><td>6</td><td>Vaca</td><td>6</td><td>Tubarão</td></tr><tr><td>2 1</td><td>Cabra</td><td>4 1</td><td>Alce</td><td>6 1</td><td>Águia</td></tr><tr><td>2</td><td>Rato</td><td>2</td><td>Cervo</td><td>2</td><td>Urso</td></tr><tr><td>3</td><td>Texugo</td><td>3</td><td>Aranha Gigante</td><td>3</td><td>Elefante</td></tr><tr><td>4</td><td>Polvo</td><td>4</td><td>Víbora</td><td>4</td><td>Caranguejo</td></tr><tr><td>5</td><td>Coelho</td><td>5</td><td>Lobo</td><td>5</td><td>Enguia Elétrica</td></tr><tr><td>6</td><td>Coruja</td><td>6</td><td>Símio</td><td>6</td><td>T-rex</td></tr></tbody></table>"
+		},
+		"Potion, Invulnerability II": {
+			"name": "Poção, Invulnerabilidade II",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Resistências igual ao Grau da poção (+2). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
+		},
+		"Acid, Oxidizing": {
+			"name": "Ácido, Oxidante",
+			"description": "<p><span class=\"fontstyle0\">Ácido que enferruja rapidamente. Um Alvo atingido sofre d6 de dano, além de ficar Queimando (Cd6) se for feito de metal.</span></p><p><span class=\"fontstyle0\">Se o Alvo não for uma Relíquia, o ácido destrói um círculo de 1 pé dele, com 1 polegada de profundidade, causando o seguinte se for uma Armadura ou uma Arma:</span></p><ul><li><span class=\"fontstyle0\">A Armadura é reduzida em 1, quebrando ao chegar a 0.</span></li><li><span class=\"fontstyle0\">Armas reduzem seu dado de dano em um tamanho até serem reparadas. Se o dado de dano for um d4 quando isso acontecer, ela é destruída.</span></li></ul>"
+		},
+		"Potion, Diminution": {
+			"name": "Poção, Diminuição",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome se torna Pequeno. Durante esse tempo, seus dados de dano são reduzidos em um tamanho (mínimo d4).</span></p>"
+		},
+		"Torch, Sentry": {
+			"name": "Tocha, Sentinela",
+			"description": "<p><span class=\"fontstyle0\">Enquanto queima, efeitos que causam Invisibilidade ficam suspensos enquanto na sua Luz.</span></p>"
+		},
+		"Insect Repellent": {
+			"name": "Repelente de Insetos",
+			"description": "<p><span class=\"fontstyle0\">Cobre uma Criatura de tamanho Médio ou menor por um Turno, durante o qual, insetos Próximos a ela agem como Amedrontados.</span></p>"
+		},
+		"Oil, Basic": {
+			"name": "Óleo, Básico",
+			"description": "<p><span class=\"fontstyle0\">O óleo pode cobrir um quadrado de 5 pés ou um Alvo de tamanho Médio ou menor por até 1 semana, a menos que seja lavado. Enquanto coberto, o Alvo pode então ser incendiado, fazendo com que fique Queimando (Cd6, a menos que seja apagado). Outras Criaturas que tocarem as chamas sofrem d6 de dano, e ficam Queimando (d6) enquanto permanecerem em contato com a chama. Um frasco cheio alimenta uma lanterna acesa por um Turno.</span></p>"
+		},
+		"Potion, Clairvoyance": {
+			"name": "Poção, Clarividência",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome pode ver o que outra Criatura à sua escolha dentro de Longe pode ver. Esse sentido é obstruído por 1 polegada de chumbo ou mais de 2 pés de pedra.</span></p>"
+		},
+		"Potion, Anger I": {
+			"name": "Poção, Raiva I",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome fica Furioso por um número de Rodadas igual ao resultado de um dado decrescente (Cd4). O tamanho do dado é determinado pelo seu Grau.</span></p>"
+		},
+		"Levin Shell": {
+			"name": "Concha de Relâmpago",
+			"description": "<p><span class=\"fontstyle0\">Uma massa instável de energia elétrica que faísca ao ser exposta ao oxigênio. Um Alvo atingido por este Item sofre d6 de dano e quaisquer outras Criaturas Adjacentes sofrem metade. Uma Criatura que sofre esse dano fica Atordoada até o fim de seu próximo Turno.</span></p>"
+		},
+		"Smokestick": {
+			"name": "Bastão de Fumaça",
+			"description": "<p><span class=\"fontstyle0\">Um bastão de madeira tratada que pode produzir uma espessa nuvem de fumaça opaca. Por Cd6, cria uma coluna de fumaça espessa de 10 pés de largura, visível a até uma milha ao ar livre. Se lançado em ambiente fechado, a fumaça preenche uma esfera de até 60 pés.</span></p>"
+		},
+		"Potion, Giant Strength": {
+			"name": "Poção, Força de Gigante",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Seus ataques causam um dado de dano extra.</span></li><li><span class=\"fontstyle0\">Trata pedregulhos como Armas Corpo a Corpo com a Propriedade Arremessável (3d6 de dano).</span></li></ul><p><span class=\"fontstyle0\">Uma Criatura não pode se beneficiar de mais de uma dessas poções ao mesmo tempo.</span></p>"
+		},
+		"Oil, Bladefire": {
+			"name": "Óleo, Fogo da Lâmina",
+			"description": "<p><span class=\"fontstyle0\">Age como óleo básico. Porém, quando aplicado em uma Arma que é então incendiada, ela emite Luz até Próximo e ataques com ela fazem o Alvo ficar Queimando (Cd4).</span></p>"
+		},
+		"Potion, ESP": {
+			"name": "Poção, Percepção Extrassensorial",
+			"description": "<p>Por 1 Hora, quem a consome ganha Telepatia (Longe). Usar esse sentido exige Concentração, e é obstruído por 1 polegada de chumbo ou mais de 2 pés de pedra.</p>"
+		},
+		"Instant Rope": {
+			"name": "Corda Instantânea",
+			"description": "<p><span class=\"fontstyle0\">Quando derramado, o líquido cinzento e viscoso deste frasco se transforma instantaneamente em uma corda de 50 pés de comprimento por 1 minuto antes de desmoronar em pó.</span></p>"
+		},
+		"Potion, Anger III": {
+			"name": "Poção, Raiva III",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome fica Furioso por um número de Rodadas igual ao resultado de um dado decrescente (Cd8). O tamanho do dado é determinado pelo seu Grau.</span></p>"
+		},
+		"Potion, Healing I": {
+			"name": "Poção, Cura I",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome recupera PV igual a um número de rolagens de d6 determinado pelo Grau da Poção, mais um modificador igual ao seu Grau (d6+1).</span></p>"
+		},
+		"Dwarfblind Stone": {
+			"name": "Pedra Cega-Anão",
+			"description": "<p><span class=\"fontstyle0\">Pedras tratadas com um brilho arroxeado. Um Alvo atingido que tenha Visão no Escuro fica Cego (Cd6).</span></p>"
+		},
+		"Potion, Invisibility": {
+			"name": "Poção, Invisibilidade",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome e tudo o que estiver vestindo e carregando se tornam Invisíveis até que tentem causar dano a outra Criatura.</span></p>"
+		},
+		"Alkahest": {
+			"name": "Alcaeste",
+			"description": "<p><span class=\"fontstyle0\">Quando derramado sobre ou dentro de um Item Alquímico, o item é reduzido de volta aos seus materiais brutos após 1 minuto.</span></p>"
+		},
+		"Potion, Speed I": {
+			"name": "Poção, Velocidade I",
+			"description": "<p><span class=\"fontstyle0\">Este líquido azul fino contrai os músculos de quem o consome. Por 1 Hora, a Velocidade de quem o consome aumenta em 5 pés.</span></p>"
+		},
+		"Oil, Vicious": {
+			"name": "Óleo, Cruel",
+			"description": "<p><span class=\"fontstyle0\">Um óleo azul espesso que age como um poderoso anticoagulante. Age como óleo básico. Porém, enquanto aplicado em uma arma que é então incendiada, seu dano em ataques que acertem Criaturas com metade dos PV ou menos pode explodir e fazê-las sangrar profusamente durante o Turno, concedendo Vantagem em Testes de Sobrevivência para rastreá-las durante esse tempo.</span></p>"
+		},
+		"Potion, Invulnerability III": {
+			"name": "Poção, Invulnerabilidade III",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Minuto, quem a consome ganha um bônus à Armadura e às Resistências igual ao Grau da poção (+3). Depois disso, qualquer Poção de Invulnerabilidade que essa pessoa beber na semana seguinte concede esse bônus como penalidade em vez disso.</span></p>"
+		},
+		"Adhesive": {
+			"name": "Adesivo",
+			"description": "<p><span class=\"fontstyle0\">Uma substância pegajosa usada para colar materiais. O adesivo pode ser usado em um Objeto solto pesando 10 libras ou menos para uni-lo a algo que pese 10 libras ou mais, prendendo-o.</span></p>"
+		},
+		"Candle, Calming": {
+			"name": "Vela, Calmante",
+			"description": "<p><span class=\"fontstyle0\">Age como uma tocha, mas sua Luz só se estende até Adjacente. O ar em sua Luz se enche de um odor fresco e revigorante. Aqueles em sua Luz ganham Vantagem em Resistências contra Furioso ou Amedrontado.</span></p>"
+		},
+		"Potion, Mana II": {
+			"name": "Poção, Mana II",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome recupera Mana igual a um número de rolagens de d6 determinado pelo Grau da Poção, mais um modificador igual ao seu Grau (2d6+2). Uma vez que recuperar Mana com uma dessas poções, só poderá recuperar Mana novamente ao Descansar.</span></p>"
+		},
+		"Potion, Regeneration I": {
+			"name": "Poção, Regeneração I",
+			"description": "<p><span class=\"fontstyle0\">Quem consome o item recupera PV igual ao resultado de um dado decrescente (Cd4). O tamanho do dado é determinado pelo seu Grau.</span></p>"
+		},
+		"Darksight Powder": {
+			"name": "Pó de Visão no Escuro",
+			"description": "<p><span class=\"fontstyle0\">Não pode ser visto com visão normal ou além de Adjacente. Quando visto com Visão no Escuro, o pó brilha. Um frasco contém pó suficiente para escrever uma frase curta (10 palavras ou menos).</span></p>"
+		},
+		"Potion, Control Monster": {
+			"name": "Poção, Controlar Monstro",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Resistência de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Monstros (Dragão, Planta, Gigante, Morto-Vivo).</span></p>"
+		},
+		"Potion, Flying": {
+			"name": "Poção, Voo",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome tem 120 pés de Velocidade de Voo.</span></p>"
+		},
+		"Potion, Control Beast": {
+			"name": "Poção, Controlar Fera",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome ganha a habilidade de controlar um tipo de Criatura que possa ver por 1 Hora, o que exige sua Concentração. Uma vez escolhida uma Criatura, quem a consome deve fazer uma Resistência de Vontade. Em caso de sucesso, a Criatura fica Enfeitiçada e sob seu controle durante a duração. Uma Criatura controlada dessa forma não obedecerá comandos que claramente lhe causem dano. Após esse tempo, a Criatura se torna Hostil. Esta poção afeta Feras.</span></p>"
+		},
+		"Acid, Green Slime": {
+			"name": "Ácido, Limo Verde",
+			"description": "<p><span class=\"fontstyle0\">Contém um limo verde (p. 173).<br /><br />@UUID[Compendium.vagabond.bestiary.Actor.9rpGK7YO9OfbXJoh]{Limo Verde}</span></p>"
+		},
+		"Potion, Growth": {
+			"name": "Poção, Crescimento",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Seu tamanho aumenta em um grau.</span></li><li><span class=\"fontstyle0\">Seus ataques causam um dado de dano extra.</span></li></ul><p><span class=\"fontstyle0\">Uma Criatura não pode se beneficiar de mais de uma dessas poções ao mesmo tempo.</span></p>"
+		},
+		"Poison, Basic": {
+			"name": "Veneno, Básico",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Doente (Cd4 de dano).</span></p><p><span class=\"fontstyle2\"><strong>Consumido:</strong> </span><span class=\"fontstyle0\">Afeta Alvos que o consomem.</span></p><p><span class=\"fontstyle2\"><strong>Ferimento:</strong> </span><span class=\"fontstyle0\">Afeta Alvos que são feridos com armas cobertas com ele.</span></p>"
+		},
+		"Potion, Fire Resistance": {
+			"name": "Poção, Resistência ao Fogo",
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Não é ferido por Calor Escaldante.</span></li><li><span class=\"fontstyle0\">Ganha um bônus de +2 em Resistências contra ataques e magias baseados em Fogo.</span></li><li><span class=\"fontstyle0\">Reduz qualquer dano de Fogo que sofrer em 1 por dado usado no dano.</span></li></ul>"
+		},
+		"Acid, Basic": {
+			"name": "Ácido, Básico",
+			"description": "<p><span class=\"fontstyle0\">Líquido corrosivo que corrói a matéria. Um Alvo atingido por ele sofre d6 de dano e fica Queimando (Cd4).</span></p>"
+		},
+		"Clearbreath": {
+			"name": "Fôlego Claro",
+			"description": "<p><span class=\"fontstyle0\">Vapores cinzentos e enfumaçados que embotam temporariamente o olfato quando inalados. Uma Criatura que inala o Fôlego Claro ganha Vantagem em Resistências contra odores fétidos e gases por 1 hora.</span></p>"
+		},
+		"Potion, Clairaudience": {
+			"name": "Poção, Clariaudiência",
+			"description": "<p>Por 1 Hora, quem a consome pode ouvir o que outras Criaturas à sua escolha dentro de Longe ouvem. Esse sentido é obstruído por 1 polegada de chumbo ou mais de 2 pés de pedra.</p>"
+		},
+		"Potion, Speed III": {
+			"name": "Poção, Velocidade III",
+			"description": "<p><span class=\"fontstyle0\">Este líquido azul fino contrai os músculos de quem o consome. Por 1 Hora, a Velocidade de quem o consome aumenta em 15 pés.</span></p>"
+		},
+		"Acid, Defoliator": {
+			"name": "Ácido, Desfolhante",
+			"description": "<p><span class=\"fontstyle0\">Ácido vil e devastador. Um Alvo atingido sofre d6 de dano, além de ficar Queimando (Cd6) se for feito de madeira ou plantas. Se o Alvo for um ponto, todas as plantas naturais Adjacentes a ele morrem imediatamente.</span></p><p><span class=\"fontstyle0\">Se o Alvo não for uma Relíquia, o ácido destrói um círculo de 1 pé dele, com 1 polegada de profundidade, causando o seguinte se for uma Armadura ou uma Arma:</span></p><ul><li><span class=\"fontstyle0\">A Armadura é reduzida em 1, quebrando ao chegar a 0.</span></li><li><span class=\"fontstyle0\">Armas reduzem seu dado de dano em um tamanho até serem reparadas. Se o dado de dano for um d4 quando isso acontecer, ela é destruída.</span></li></ul>"
+		},
+		"Potion, Mana I": {
+			"name": "Poção, Mana I",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome recupera Mana igual a um número de rolagens de d6 determinado pelo Grau da Poção, mais um modificador igual ao seu Grau (d6+1). Uma vez que recuperar Mana com uma dessas poções, só poderá recuperar Mana novamente ao Descansar.</span></p>"
+		},
+		"Perfume (vial)": {
+			"name": "Perfume (frasco)",
+			"description": "<p><span class=\"fontstyle0\">Um spray perfumado e agradável.</span></p>"
+		},
+		"Poison, Deadly Nightshade": {
+			"name": "Veneno, Beladona Mortal",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Doente (Cd4 de dano) e, se estiver amaldiçoado com Licantropia, a maldição é removida. Além do custo de Material, este item requer 1o em acônito para ser Fabricado.</span></p><p><span class=\"fontstyle2\"><strong>Consumido:</strong> </span><span class=\"fontstyle0\">Afeta Alvos que o consomem.</span></p><p><span class=\"fontstyle2\"><strong>Ferimento:</strong> </span><span class=\"fontstyle0\">Afeta Alvos que são feridos com armas cobertas com ele.</span></p>"
+		},
+		"Potion, Anger II": {
+			"name": "Poção, Raiva II",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome fica Furioso por um número de Rodadas igual ao resultado de um dado decrescente (Cd6). O tamanho do dado é determinado pelo seu Grau.</span></p>"
+		},
+		"Potion, Mana III": {
+			"name": "Poção, Mana III",
+			"description": "<p><span class=\"fontstyle0\">Quem a consome recupera Mana igual a um número de rolagens de d6 determinado pelo Grau da Poção, mais um modificador igual ao seu Grau (3d6+3). Uma vez que recuperar Mana com uma dessas poções, só poderá recuperar Mana novamente ao Descansar.</span></p>"
+		}
+	}
+}

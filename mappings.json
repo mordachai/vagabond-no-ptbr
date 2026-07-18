@@ -1,0 +1,63 @@
+{
+  "Item": {
+    "name": "name",
+    "description": "system.description",
+    "gearCategory": "system.gearCategory",
+    "lore": "system.lore"
+  },
+  "Item.spell": {
+    "duration": "system.duration",
+    "crit": "system.crit"
+  },
+  "Item.ancestry": {
+    "traits": {
+      "path": "system.traits",
+      "converter": "structured",
+      "cardinality": "many",
+      "container": "array",
+      "mapping": {
+        "name": "name",
+        "description": "description"
+      }
+    }
+  },
+  "Item.class": {
+    "levelFeatures": {
+      "path": "system.levelFeatures",
+      "converter": "structured",
+      "cardinality": "many",
+      "container": "array",
+      "mapping": {
+        "name": "name",
+        "description": "description"
+      }
+    }
+  },
+  "Actor": {
+    "name": "name",
+    "description": "system.description",
+    "armorDescription": "system.armorDescription",
+    "senses": "system.senses",
+    "actions": {
+      "path": "system.actions",
+      "converter": "structured",
+      "cardinality": "many",
+      "container": "array",
+      "mapping": {
+        "name": "name",
+        "note": "note",
+        "extraInfo": "extraInfo"
+      }
+    },
+    "abilities": {
+      "path": "system.abilities",
+      "converter": "structured",
+      "cardinality": "many",
+      "container": "array",
+      "mapping": {
+        "name": "name",
+        "description": "description"
+      }
+    }
+  }
+}

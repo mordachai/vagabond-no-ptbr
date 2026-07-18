@@ -1,0 +1,236 @@
+{
+	"label": "Armas",
+	"entries": {
+		"Light hammer": {
+			"name": "Martelo Leve"
+		},
+		"Buckler": {
+			"name": "Broquel"
+		},
+		"Light hammer (Thrown)": {
+			"name": "Martelo Leve (Arremessável)"
+		},
+		"Battleaxe": {
+			"name": "Machado de Batalha"
+		},
+		"Greataxe": {
+			"name": "Grande Machado"
+		},
+		"Flail": {
+			"name": "Mangual"
+		},
+		"Pike": {
+			"name": "Pique",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Lance": {
+			"name": "Lança de Cavalaria",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Garotte wire": {
+			"name": "Fio de Garrote"
+		},
+		"Greatclub": {
+			"name": "Cacete Grande"
+		},
+		"Morningstar": {
+			"name": "Estrela da Manhã"
+		},
+		"Javelin (Thrown)": {
+			"name": "Azagaia (Arremessável)"
+		},
+		"Shortsword (Finesse)": {
+			"name": "Espada Curta (Sutileza)",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Javelin": {
+			"name": "Azagaia"
+		},
+		"Lucerne": {
+			"name": "Lucerna"
+		},
+		"Gauntlet": {
+			"name": "Manopla"
+		},
+		"Handaxe (Thrown)": {
+			"name": "Machadinha (Arremessável)"
+		},
+		"Arbalest": {
+			"name": "Balestra"
+		},
+		"Katar": {
+			"name": "Katar",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Dagger": {
+			"name": "Adaga",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Whip, leather": {
+			"name": "Chicote de Couro"
+		},
+		"Spear (Thrown)": {
+			"name": "Lança (Arremessável)"
+		},
+		"Unarmed (Finesse)": {
+			"name": "Desarmado (Sutileza)"
+		},
+		"Shotgun": {
+			"name": "Espingarda"
+		},
+		"Longsword": {
+			"name": "Espada Longa",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Rifle": {
+			"name": "Rifle",
+			"effects": {
+				"Keen (Property)": {
+					"name": "Afiada (Propriedade)"
+				}
+			}
+		},
+		"Shortsword": {
+			"name": "Espada Curta",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Sling": {
+			"name": "Funda"
+		},
+		"Warhammer": {
+			"name": "Martelo de Guerra",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			}
+		},
+		"Breath Attack - 2D6!": {
+			"name": "Ataque de Sopro - 2D6!",
+			"description": "<p>Você pode fazer um ataque de sopro em Cone de 15 pés. Ao fazer isso, faça um teste de Resistência ou Vontade. Em caso de sucesso, este ataque causa 2d6!. Depois disso, você não pode usar esta Habilidade novamente até Descansar, ou receber 1 Fadiga para fazê-lo novamente.</p>"
+		},
+		"Longbow": {
+			"name": "Arco Longo",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Handgun": {
+			"name": "Pistola"
+		},
+		"Dagger (Thrown)": {
+			"name": "Adaga (Arremessável)",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Shotgun, sawed-off": {
+			"name": "Espingarda Serrada"
+		},
+		"Breath Attack": {
+			"name": "Ataque de Sopro",
+			"description": "<p>Você pode fazer um ataque de sopro em Cone de 15 pés. Ao fazer isso, faça um teste de Resistência ou Vontade. Em caso de sucesso, este ataque causa 2d6!. Depois disso, você não pode usar esta Habilidade novamente até Descansar, ou receber 1 Fadiga para fazê-lo novamente.</p>"
+		},
+		"Crossbow, light": {
+			"name": "Besta Leve"
+		},
+		"Handaxe": {
+			"name": "Machadinha"
+		},
+		"Caestus": {
+			"name": "Caestus"
+		},
+		"Crossbow": {
+			"name": "Besta"
+		},
+		"Standard shield": {
+			"name": "Escudo Padrão"
+		},
+		"Greatshield": {
+			"name": "Escudo Grande"
+		},
+		"Poleblade": {
+			"name": "Lâmina de Haste"
+		},
+		"Mace": {
+			"name": "Maça"
+		},
+		"Net": {
+			"name": "Rede"
+		},
+		"Dagger (Finesse)": {
+			"name": "Adaga (Sutileza)",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Unarmed (Brawl)": {
+			"name": "Desarmado (Briga)"
+		},
+		"Greatsword": {
+			"name": "Espada Grande",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Whip, chain": {
+			"name": "Chicote de Corrente"
+		},
+		"Staff": {
+			"name": "Bastão"
+		},
+		"Club": {
+			"name": "Cacete"
+		},
+		"Shortbow": {
+			"name": "Arco Curto",
+			"effects": {
+				"Keen Property": {
+					"name": "Propriedade Afiada"
+				}
+			}
+		},
+		"Bottle, glass": {
+			"name": "Garrafa de Vidro"
+		},
+		"Spear": {
+			"name": "Lança"
+		}
+	}
+}

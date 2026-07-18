@@ -1,0 +1,944 @@
+{
+  "label": "Classes",
+  "entries": {
+    "Hunter": {
+      "name": "Caçador",
+      "description": "<p><strong>Eu vou procurar por você, eu vou te encontrar, e eu vou te matar.</strong></p><p><em>– Liam Neeson, Taken</em></p><p>Guardiões do velho costume, caçadores são especialistas em sobrevivência, especializados em explorar as fraquezas de seus inimigos.</p><h3>Caçadores Icônicos</h3><ul><li><strong>Aloy</strong>, <em>série Horizon</em></li><li><strong>Aragorn</strong>, <em>série O Senhor dos Anéis</em></li><li><strong>Samus Aran</strong>, <em>Metroid</em></li><li><strong>San</strong>, <em>Princesa Mononoke</em></li></ul><h3>Jogando de Caçador</h3><p>O caçador é um atacante de defesa baixa e alto potencial de Crítico. Pode ser construído para posições Corpo a Corpo ou À Distância.</p><p><strong>Ação:</strong> Ataque<br /><strong>Movimento:</strong> Linha do Meio ou Linha de Trás<br /><strong>Pacote Inicial:</strong> Batedor ou Guerreiro<br /><strong>Atributo-Chave:</strong> Percepção<br /><strong>Complexidade:</strong> ★★☆☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> Corpo a Corpo, À Distância<br /><strong>Perícias:</strong> Sobrevivência e mais 4 outras</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Marca do Caçador, Sobrevivencialista</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Andarilho</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Vigilância</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Presa</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Precisão Letal</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Superpredador</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Marca do Caçador",
+          "description": "<p><span class=\"fontstyle0\">Você pode marcar uma Criatura quando a ataca, ou ao pular seu Movimento se puder senti-la. Quando fizer isso, as seguintes regras se aplicam:</span></p><p><span class=\"fontstyle0\">• Você deve manter Concentração na marca.</span></p><p><span class=\"fontstyle0\">• Quando a ataca, role dois d20 e use o maior resultado para o Teste.</span></p>"
+        },
+        {
+          "name": "Sobrevivencialista",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Pé-Silencioso (p. 70), tem Vantagem em Testes para rastrear e navegar, e pode Forragear enquanto Viaja em Ritmo Normal.</span></p><p></p>"
+        },
+        {
+          "name": "Andarilho",
+          "description": "<p><span class=\"fontstyle0\">Terreno Difícil não reduz sua Velocidade de caminhada, e você tem Escalar e Nadar.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Vigilância",
+          "description": "<p><span class=\"fontstyle0\">Seu d20 adicional para ataques com sua Marca do Caçador também se aplica às suas Resistências provocadas pelo Alvo marcado.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Presa",
+          "description": "<p><span class=\"fontstyle0\">Você pode sentir Criaturas dentro de Longe como se tivesse Percepção às Cegas, se estiverem com PV reduzido ou marcadas pela sua Marca do Caçador.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Precisão Letal",
+          "description": "<p><span class=\"fontstyle0\">Você agora rola três d20 com suas Características Marca do Caçador e Vigilância, e usa o maior resultado.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Superpredador",
+          "description": "<p><span class=\"fontstyle0\">O dano que você causa ao Alvo da sua Marca do Caçador ignora Imunidade e Armadura.</span></p>"
+        }
+      ]
+    },
+    "Sorcerer": {
+      "name": "Feiticeiro",
+      "description": "<p><strong>Ela disse que a feitiçaria é uma espada sem cabo. Não há forma segura de empunhá-la.</strong></p>\n<p><em>– George R.R. Martin, A Dance with Dragons</em></p>\n<p>Arcanistas agraciados com um dom precioso de proeza mágica, feiticeiros podem recorrer às suas próprias reservas internas para prover mais Mana para conjurar.</p>\n\n<h3>Feiticeiros Icônicos</h3>\n<ul>\n<li><strong>Aang</strong>, <em>Avatar: A Lenda de Aang</em></li>\n<li><strong>Elsa</strong>, <em>Frozen</em></li>\n<li><strong>Ganondorf</strong>, <em>The Legend of Zelda</em></li>\n<li><strong>Storm</strong>, <em>X-Men</em></li>\n</ul>\n\n<h3>Jogando de Feiticeiro</h3>\n<p>O feiticeiro é um atirador frágil focado em Conjurar Magias para dano instantâneo em rajada. Você deve permanecer em segurança para Conjurar.</p>\n<p><strong>Ação:</strong> Conjurar<br />\n<strong>Movimento:</strong> Linha de Trás<br />\n<strong>Pacote Inicial:</strong> Mago ou Ocultista<br />\n<strong>Atributo-Chave:</strong> Presença<br />\n<strong>Complexidade:</strong> ★★★☆☆</p>\n\n<h3>Treinamento</h3>\n<p><strong>Armas:</strong> –<br />\n<strong>Perícias:</strong> Influência, e 3 dentre Arcanismo, Briga, Misticismo, ou Atuação</p>\n\n<p></p>\n\n<h3><span class=\"fontstyle0\">Características de Classe</span></h3>\n<table class=\"NormalTable\"><tbody>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Mana</span></p></td>\n  <td><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Magias</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Glamour, Drenagem</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">4</span></p></td>\n  <td><p><span class=\"fontstyle2\">4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Lança-Feitiços</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">8</span></p></td>\n  <td><p><span class=\"fontstyle2\">4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">12</span></p></td>\n  <td><p><span class=\"fontstyle2\">5</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Aceleração</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">16</span></p></td>\n  <td><p><span class=\"fontstyle2\">5</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">20</span></p></td>\n  <td><p><span class=\"fontstyle2\">6</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Anomalia Arcana</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">24</span></p></td>\n  <td><p><span class=\"fontstyle2\">6</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">28</span></p></td>\n  <td><p><span class=\"fontstyle2\">7</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Feitiço Geminado</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">32</span></p></td>\n  <td><p><span class=\"fontstyle2\">7</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">36</span></p></td>\n  <td><p><span class=\"fontstyle2\">8</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Sobrecarga</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">40</span></p></td>\n  <td><p><span class=\"fontstyle2\">8</span></p></td>\n</tr>\n</tbody></table>\n<p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Glamour",
+          "description": "<p><span class=\"fontstyle0\">Você pode Conjurar Magias usando Influência.</span></p>\n<p><span class=\"fontstyle2\"><strong>Magias:</strong> </span><span class=\"fontstyle0\">Você aprende 4 Magias. Você aprende 1 outra Magia a cada 2 Níveis de Feiticeiro a partir de então.</span></p>\n<p><span class=\"fontstyle2\"><strong>Mana:</strong> </span><span class=\"fontstyle0\">Sua Mana Máxima é igual a (4 × seu Nível de Feiticeiro), e a maior quantidade de Mana que você pode gastar para Conjurar uma Magia é igual a (Presença + metade do seu Nível de Feiticeiro, arredondado para cima). Você recupera a Mana gasta ao Descansar.</span></p>"
+        },
+        {
+          "name": "Drenagem",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Metamagia (p. 70). Além disso, quando Conjura, pode reduzir seus PV Máximos para recuperar Mana igual a (2 × a redução). Essa redução termina quando você Descansa. Se você morrer por causa dessa redução, a Conjuração se resolve antes da sua morte, e seu corpo é vaporizado.</span></p><p></p>"
+        },
+        {
+          "name": "Lança-Feitiços",
+          "description": "<p><span class=\"fontstyle0\">Você tem Crítico em Testes de Conjuração com uma rolagem de 19 a 20, e suas Magias usam um dado de dano d8, em vez de d6.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Aceleração",
+          "description": "<p><span class=\"fontstyle0\">Você pode pular seu Movimento para Conjurar uma Magia. Nenhuma Mana pode ser gasta nessa Conjuração.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Anomalia Arcana",
+          "description": "<p><span class=\"fontstyle0\">Você reduz pela metade o dano Mágico que sofre.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Feitiço Geminado",
+          "description": "<p><span class=\"fontstyle0\">Se você Conjurar a mesma Magia duas vezes em um Turno, o segundo Teste de Conjuração tem Vantagem.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Sobrecarga",
+          "description": "<p><span class=\"fontstyle0\">Você tem Crítico em Testes de Conjuração com uma rolagem de 18 a 20. Além disso, quando Conjura, pode escolher sofrer 2 de Fadiga. Se fizer isso, recupera Cd6 de Mana no início dos seus Turnos, e pode gastar quanta Mana quiser para Conjurar.</span></p>"
+        }
+      ],
+      "effects": {
+        "lv2 - Spell-Slinger": {
+          "name": "Nível 2 - Lança-Feitiços",
+          "description": "<p>Você tem Crítico em Testes de Conjuração com uma rolagem de 19 a 20, e suas Magias usam um dado de dano d8, em vez de d6.</p>"
+        },
+        "lv10 - Spell-Slinger": {
+          "name": "Nível 10 - Lança-Feitiços",
+          "description": "<p>Você tem Crítico em Testes de Conjuração com uma rolagem de 18 a 20. Além disso, quando Conjura, pode escolher sofrer 2 de Fadiga. Se fizer isso, recupera Cd6 de Mana no início dos seus Turnos, e pode gastar quanta Mana quiser para Conjurar.</p>"
+        }
+      }
+    },
+    "Bard": {
+      "name": "Bardo",
+      "description": "<p><strong>Bardos eram péssimos em guardar segredos. Eles insistiam em transformá-los em música.</strong></p><p><em>– Tanya Huff, Sing the Four Quarters</em></p><p>Arautos da beleza inspiradora da criação. Enquanto o pintor e o escultor decoram o espaço, um Bardo decora o tempo.</p><h3>Bardos Icônicos</h3><ul><li><strong>Edward Chris von Muir</strong>, <em>Final Fantasy IV</em></li><li><strong>Jaskier</strong>, <em>série The Witcher</em></li><li><strong>Kvothe</strong>, <em>The Kingkiller Chronicles</em></li><li><strong>Sylvando</strong>, <em>Dragon Quest 11</em></li></ul><h3>Jogando de Bardo</h3><p>O bardo é uma classe de defesa baixa/média e alto suporte, focada em otimizar as rolagens de d20 do seu Grupo. Recomenda-se evitar o corpo a corpo na maioria das construções de Bardo.</p><p><strong>Ação:</strong> Virtuosismo<br /><strong>Movimento:</strong> Linha do Meio/Linha de Trás<br /><strong>Pacote Inicial:</strong> Músico<br /><strong>Atributo-Chave:</strong> Presença<br /><strong>Complexidade:</strong> ★★☆☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> –<br /><strong>Perícias:</strong> Atuação e mais 4 outras</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Virtuosismo, Versado</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Canção de Descanso</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Deslumbrante</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Bravata</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Clímax</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Deslumbrante Aprimorado</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Virtuosismo",
+          "description": "<p>Você pode usar sua Ação ou pular seu Movimento para fazer um Teste de Atuação. Se passar, seu Grupo ganha um dos seguintes benefícios à sua escolha durante aquela Rodada:</p><ul><li><p><strong>Inspiração:</strong> bônus de d6 em rolagens de Cura</p></li><li><p><strong>Resolução:</strong> Vantagem em Resistências</p></li><li><p><strong>Valor:</strong> Vantagem em Testes de Ataque e de Conjuração</p></li></ul>"
+        },
+        {
+          "name": "Versado",
+          "description": "<p><span class=\"fontstyle0\">Você ignora Pré-requisitos para Talentos, e ganha um Talento à sua escolha.</span> <br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>"
+        },
+        {
+          "name": "Canção de Descanso",
+          "description": "<p><span class=\"fontstyle0\">Durante uma Recuperação de Fôlego enquanto não estiver Incapacitado, você e seus Aliados ganham um dado Estudado e recuperam PV adicionais iguais a (sua Presença + seu Nível de Bardo).</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, você não precisa cumprir o Pré-requisito para se beneficiar dele.</p>"
+        },
+        {
+          "name": "Deslumbrante",
+          "description": "<p><span class=\"fontstyle0\">Quando você realiza Virtuosismo, pode escolher um Inimigo Próximo que ouça a apresentação e fazer um Teste de Atuação. Se passar, pode escolher um dos seguintes Status para afetá-lo por Cd4 Rodadas: Furioso, Enfeitiçado, Confuso, Amedrontado.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, você não precisa cumprir o Pré-requisito para se beneficiar dele.</p>"
+        },
+        {
+          "name": "Bravata",
+          "description": "<p><span class=\"fontstyle0\">Suas Resistências de Vontade não podem ter Desvantagem enquanto você não estiver Incapacitado, e você pode ignorar efeitos que dependem de você ouvi-los para ser afetado (como o grito de uma banshee).</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, você não precisa cumprir o Pré-requisito para se beneficiar dele.</p>"
+        },
+        {
+          "name": "Clímax",
+          "description": "<p><span class=\"fontstyle0\">Vantagem e dados de bônus que você concede podem Explodir.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, você não precisa cumprir o Pré-requisito para se beneficiar dele.</p>"
+        },
+        {
+          "name": "Deslumbrante Aprimorado",
+          "description": "<p><span class=\"fontstyle0\">Sua Característica Deslumbrante agora pode afetar todos os Inimigos Próximos.</span></p>"
+        }
+      ]
+    },
+    "Alchemist": {
+      "name": "Alquimista",
+      "description": "<p><strong>Por que respeitar cavaleiros quando minhas poções podem fazer tudo que você pode?</strong></p><p><em>— Justin Kuritzkes, Potion Seller</em></p><p>Frequentemente reclusos em um laboratório, alquimistas estudam a essência da criação. São tão curiosos quanto engenhosos, e sempre têm \"exatamente a coisa certa para isso\".</p><h3>Alquimistas Icônicos</h3><ul><li><strong>The Colorman</strong>, <em>Sacré Bleu</em></li><li><strong>Diablo</strong>, <em>Quadrinhos da Marvel</em></li><li><strong>Dr. Jekyll</strong>, <em>Dr. Jekyll and Mr. Hyde</em></li><li><strong>Tessa Cade</strong>, <em>Defy the Night</em></li></ul><h3>Jogando de Alquimista</h3><p>O alquimista é um atirador de defesa baixa, com alto dano e utilidade. Recomenda-se manter-se Longe dos Inimigos para usar itens alquímicos.</p><p><strong>Ação:</strong> Usar (Ofício e Ataque)<br /><strong>Movimento:</strong> Linha de Trás<br /><strong>Pacote Inicial:</strong> Alquimista ou Assassino<br /><strong>Atributo-Chave:</strong> Raciocínio<br /><strong>Complexidade:</strong> ★★★★☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> –<br /><strong>Perícias:</strong> Ofício e mais 4 outras</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\" colspan=\"2\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Fórmulas</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\"></span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\"></span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Conhecidas</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Valor</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Alquimia, Catalisar</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">4</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">50p</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Eureca</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">4</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">1o</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">5</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">1o 50p</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Potência</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">5</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">2o</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">6</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">2o 50p</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Misturar</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">6</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">3o</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">7</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">3o 50p</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Grande Explosão</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">7</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">4o</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">8</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">4o 50p</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Prima Matéria</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">8</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"41\"><p><span class=\"fontstyle2\">5o</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Alquimia",
+          "description": "<p>Escolha 4 Itens Alquímicos com valor não superior a (seu Nível de Alquimista × 50p). Você só precisa de 5p em Materiais e Ferramentas de Alquimia equipados para Fabricá-los. Você aprende a Fabricar 1 outro Item Alquímico dessa forma a cada 2 Níveis nesta Classe a partir de então.</p>"
+        },
+        {
+          "name": "Catalisar",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Mãos Ágeis (p. 68), e pode Fabricar itens alquímicos com a Ação Usar.</span></p>"
+        },
+        {
+          "name": "Eureca",
+          "description": "<p><span class=\"fontstyle0\">Você ganha um dado Estudado (p. 19) quando tem Crítico em um Teste de Ofício.</span> <br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Potência",
+          "description": "<p><span class=\"fontstyle0\">Os dados de dano e cura dos seus itens alquímicos podem Explodir.</span> <br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>"
+        },
+        {
+          "name": "Misturar",
+          "description": "<p><span class=\"fontstyle0\">Você pode usar a Ação Usar para combinar dois itens alquímicos, fazendo com que os efeitos de ambos ocorram quando você Usar o item combinado. Esse item combinado dura até o fim da Rodada, depois se torna inerte.</span> <br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>"
+        },
+        {
+          "name": "Grande Explosão",
+          "description": "<p>Você ganha um bônus de d6 ao dano e cura dos seus itens alquímicos, e eles podem Explodir com uma rolagem de seus dois maiores valores.</p>"
+        },
+        {
+          "name": "Prima Matéria",
+          "description": "<p>Uma vez por Dia, você pode usar sua Ação ou pular seu Movimento para Fabricar um item alquímico com valor de até 10o sem materiais.</p>"
+        }
+      ]
+    },
+    "Dancer": {
+      "name": "Dançarino",
+      "description": "<p><strong>Ela se move abstrata como uma sombra dançando à beira do abismo, como uma tempestade passando por cima, me hipnotizando.</strong></p><p><em>– Dillinger Escape Plan, One of Us is the Killer</em></p><p>Praticantes da arte sedutora da dança. Têm o talento de animar sua plateia, atrair atenção, e oferecer espetáculos de tirar o fôlego.</p><h3>Dançarinos Icônicos</h3><ul><li><strong>Apsalar</strong>, <em>Malazan Book of the Fallen</em></li><li><strong>Azura</strong>, <em>Fire Emblem Fates</em></li><li><strong>Sandilene fa Toren</strong>, <em>The Circle Opens</em></li></ul><h3>Jogando de Dançarino</h3><p>O dançarino é um suporte de defesa baixa focado em eficiência de Ações. Conceda Ações através de Passo Adiante, já que suas principais ofensivas ocorrerão quando você tiver Crítico em Resistências de Reflexo.</p><p><strong>Ação:</strong> Passo Adiante<br /><strong>Movimento:</strong> Linha do Meio<br /><strong>Pacote Inicial:</strong> Cortesã ou Músico<br /><strong>Atributo-Chave:</strong> Destreza<br /><strong>Complexidade:</strong> ★★☆☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> –<br /><strong>Perícias:</strong> Sutileza e Atuação, e 2 dentre Briga, Influência, ou Furtividade</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Pés Ligeiros, Passo Adiante</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Evasivo</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Não Me Pare Agora</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Coreógrafo</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Lampejo de Beleza</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Tempo Duplo</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Pés Ligeiros",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Passos Leves (p. 73), e a rolagem necessária para ter Crítico em Resistências de Reflexo é reduzida em um valor igual a (seu Nível de Dançarino dividido por 4, arredondado para cima).</span></p>"
+        },
+        {
+          "name": "Passo Adiante",
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Turno, você pode usar sua Ação para realizar uma dança animadora. Ao fazer isso, você pode rolar um segundo d20 em Resistências de Reflexo até o início do seu próximo Turno e usar o maior resultado, e concede a um Aliado à sua escolha que o veja uma segunda Ação neste Turno.</span></p>"
+        },
+        {
+          "name": "Evasivo",
+          "description": "<p><span class=\"fontstyle0\">Enquanto não estiver Incapacitado, você ignora Desvantagem em Resistências de Reflexo e ignora dois dos dados de dano de um ataque Esquivado em uma Resistência bem-sucedida, em vez de um.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Não Me Pare Agora",
+          "description": "<p><span class=\"fontstyle0\">Sua Velocidade não é afetada por Terreno Difícil e você tem Vantagem em Resistências contra ficar Paralisado, Imobilizado, ou ser movido.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Coreógrafo",
+          "description": "<p><span class=\"fontstyle0\">Quando você usa sua Característica Passo Adiante, o Aliado ganha Vantagem no primeiro Teste que fizer com a Ação que você lhe concedeu, e ambos ganham um bônus de 10 pés de Velocidade durante a Rodada.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Lampejo de Beleza",
+          "description": "<p><span class=\"fontstyle0\">Quando você tem Crítico em uma Resistência, pode realizar duas Ações, em vez de uma.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Tempo Duplo",
+          "description": "<p><span class=\"fontstyle0\">Você pode ter dois Aliados como Alvo com sua Característica Passo Adiante, em vez de um.</span></p>"
+        }
+      ]
+    },
+    "Vanguard": {
+      "name": "Vanguarda",
+      "description": "<p><strong>Sai do caminho, vagabundo.</strong></p>\n<p><em>– Ludacris, Move Bitch</em></p>\n<p>Sentinelas aterrorizantes de armadura pesada que usam escudos para devastar Inimigos. Vanguardas são bastiões móveis de fortitude e força.</p>\n\n<h3>Vanguardas Icônicos</h3>\n<ul>\n<li><strong>Groot</strong>, <em>Guardiões da Galáxia</em></li>\n<li><strong>Havel</strong>, <em>série Dark Souls</em></li>\n<li><strong>Juggernaut</strong>, <em>X-Men</em></li>\n<li><strong>Reinhardt</strong>, <em>Overwatch</em></li>\n</ul>\n\n<h3>Jogando de Vanguarda</h3>\n<p>A vanguarda é um tanque de defesa alta, trocando dano bruto por controle e defesa massivos. Esta classe permite tanquear ativamente ao focar em defender através da Ação Investida e de empurrões.</p>\n<p><strong>Ação:</strong> Empurrar (Ataque)<br />\n<strong>Movimento:</strong> Linha de Frente<br />\n<strong>Pacote Inicial:</strong> Sentinela<br />\n<strong>Atributo-Chave:</strong> Força<br />\n<strong>Complexidade:</strong> ★★★☆☆</p>\n\n<h3>Treinamento</h3>\n<p><strong>Armas:</strong> Corpo a Corpo<br />\n<strong>Perícias:</strong> Briga e mais 3 dentre Detectar, Liderança, Medicina, ou Sobrevivência</p>\n\n<p></p>\n\n<h3><span class=\"fontstyle0\">Características de Classe</span></h3>\n<table class=\"NormalTable\"><tbody>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Firme, Guarda</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Investida Furiosa</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Muralha (Grande)</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Imparável</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Muralha (Enorme)</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Indestrutível</span></p></td>\n</tr>\n</tbody></table>\n<p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Firme",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Protetor (p. 71) e, ao usar a Ação Aguardar, pode usar a Ação ou Movimento guardado até o fim do seu próximo Turno.</span></p><p></p><p></p>"
+        },
+        {
+          "name": "Guarda",
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Rodada, você pode tentar Empurrar um Alvo Adjacente (sem Ação) quando ele se tornar Adjacente a você, ou se você Bloquear com sucesso o Ataque dele.</span></p>"
+        },
+        {
+          "name": "Investida Furiosa",
+          "description": "<p><span class=\"fontstyle0\">Você pode empurrar Alvos que Empurra à sua frente enquanto se Move durante o mesmo Turno, deixando-os Caídos quando você parar ou empurrando-os para um espaço ocupado. Se você empurrar um Alvo para um espaço ocupado, ele causa o dano da sua arma tanto ao Alvo quanto ao que ocupava o espaço.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Muralha (Grande)",
+          "description": "<p><span class=\"fontstyle0\">Você é considerado Grande para Empurrões.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Imparável",
+          "description": "<p><span class=\"fontstyle0\">Se você usar Investida Furiosa e empurrar uma Criatura contra outra Criatura, pode fazer outra tentativa de empurrão para empurrar a Criatura adicional à sua frente também.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Muralha (Enorme)",
+          "description": "<p><span class=\"fontstyle0\">Você é considerado Enorme para Empurrões.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Indestrutível",
+          "description": "<p><span class=\"fontstyle0\">Enquanto não estiver Incapacitado e tiver Classe de Armadura 1 ou maior, você é Imune a dano Físico.</span></p>"
+        }
+      ]
+    },
+    "Merchant": {
+      "name": "Mercador",
+      "description": "<p><strong>Óleo de lamparina? Corda? Bombas? Você quer? É seu, meu amigo, contanto que tenha rubis suficientes.</strong></p><p><em>– Morshu, Link: The Faces of Evil</em></p><p>Sejam avaliadores de itens mágicos raros, vendedores de substâncias ilícitas, ou contadores da corte, mercadores são mestres da troca.</p><h3>Mercadores Icônicos</h3><ul><li><strong>Anna</strong>, <em>série Fire Emblem</em></li><li><strong>Marco Polo</strong>, <em>mercador veneziano</em></li><li><strong>Torneko Taloon</strong>, <em>Dragon Quest IV</em></li><li><strong>Tressa Colzione</strong>, <em>Octopath Traveler</em></li></ul><h3>Jogando de Mercador</h3><p>O mercador é de defesa e dano baixos, com alto suporte através de um inventário mais amplo e da otimização dos recursos do seu grupo. Em combate, você deve observar aliados que precisem de ajuda e planejar quais itens usar.</p><p><strong>Ação:</strong> Usar<br /><strong>Movimento:</strong> Flexível (pule para Usar)<br /><strong>Pacote Inicial:</strong> Ferreiro, Cozinheiro, ou Consertador<br /><strong>Atributo-Chave:</strong> Raciocínio ou Presença<br /><strong>Complexidade:</strong> ★★★☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> –<br /><strong>Perícias:</strong> Ofício e Influência, e mais 3 outras</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Ralo de Ouro, Bolsos Fundos</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Custo-Benefício (d10)</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Mãos de Diamante</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Caçador de Tesouros</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Custo-Benefício (d8)</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Prateleira Alta</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Ralo de Ouro",
+          "description": "<p>Você ganha o Talento Mãos Ágeis (p. 68), e pode usar a Ação Usar para colocar valores não mágicos dentro de um recipiente e fechá-lo. Você pode então abrir esse recipiente para substituir os valores por um Item de valor igual ou menor ao valor colocado nele. Esse Item não pode ser uma Relíquia ou item mágico similar.</p>"
+        },
+        {
+          "name": "Bolsos Fundos",
+          "description": "<p>Você tem um número extra de Espaços de Item igual a (metade do seu Nível de Mercador, arredondado para cima).</p>"
+        },
+        {
+          "name": "Custo-Benefício",
+          "description": "<p>Quando você usa um Item com usos limitados, pode gastar 1 Sorte e rolar um d10. Se o resultado for menor que sua Sorte restante, o Item não é consumido. Ao se tornar um Mercador de 8º Nível, o d10 passa a ser um d8.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Mãos de Diamante",
+          "description": "<p>Você pode gastar um Turno (bloco de tempo) para remover um Poder de uma Relíquia não-Lendária ou gastar valores em sua posse de valor igual ou maior ao Poder para adicioná-lo a um Item.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Caçador de Tesouros",
+          "description": "<p>Você pode sentir ouro, gemas, e Relíquias dentro de Próximo como se tivesse Telepatia. Esse sentido é específico o bastante para dizer onde estão, mas não o que são.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Custo-Benefício",
+          "description": "<p>Quando você usa um Item com usos limitados, pode gastar 1 Sorte e rolar um d8. Se o resultado for menor que sua Sorte restante, o Item não é consumido.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Prateleira Alta",
+          "description": "<p>Uma vez por semana, você pode extrair uma Relíquia da sua Característica Ralo de Ouro com valor não superior a (seu Nível de Mercador × 200o), seguindo as demais regras dessa Característica.</p>"
+        }
+      ],
+      "effects": {
+        "Deep Pockets (Feature)": {
+          "name": "Bolsos Fundos (Característica)"
+        }
+      }
+    },
+    "Witch": {
+      "name": "Bruxa",
+      "description": "<p><strong>Gostaria de viver deliciosamente?</strong></p>\n<p><em>– Robert Eggers, The VVitch</em></p>\n<p>Intermediárias de segredos mágicos. Alguém pode se tornar uma bruxa através dos sussurros de um familiar ou do favor de um ser de além.</p>\n\n<h3>Bruxas Icônicas</h3>\n<ul>\n<li><strong>Dr. Facilier</strong>, <em>Princess and the Frog</em></li>\n<li><strong>Morgan le Fay</strong>, <em>lenda arturiana</em></li>\n<li><strong>Yennefer</strong>, <em>série The Witcher</em></li>\n</ul>\n\n<h3>Jogando de Bruxa</h3>\n<p>A bruxa é uma debuffadora focada em Conjurar Magias para empilhar prejuízos. Fique nas sombras e acumule Status através de Maldição.</p>\n<p><strong>Ação:</strong> Conjurar<br />\n<strong>Movimento:</strong> Linha de Trás<br />\n<strong>Pacote Inicial:</strong> Vidente ou Mago<br />\n<strong>Atributo-Chave:</strong> Percepção<br />\n<strong>Complexidade:</strong> ★★★☆☆</p>\n\n<h3>Treinamento</h3>\n<p><strong>Armas:</strong> –<br />\n<strong>Perícias:</strong> Misticismo, e 3 dentre Arcanismo, Ofício, Medicina, ou Sobrevivência</p>\n\n<p></p>\n\n<h3><span class=\"fontstyle0\">Características de Classe</span></h3>\n<table class=\"NormalTable\"><tbody>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Mana</span></p></td>\n  <td><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Magias</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Ocultista, Maldição</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">4</span></p></td>\n  <td><p><span class=\"fontstyle2\">4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Ritualismo</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">8</span></p></td>\n  <td><p><span class=\"fontstyle2\">4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">12</span></p></td>\n  <td><p><span class=\"fontstyle2\">5</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Entre Mundos</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">16</span></p></td>\n  <td><p><span class=\"fontstyle2\">5</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">20</span></p></td>\n  <td><p><span class=\"fontstyle2\">6</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Convento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">24</span></p></td>\n  <td><p><span class=\"fontstyle2\">6</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">28</span></p></td>\n  <td><p><span class=\"fontstyle2\">7</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Contramão</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">32</span></p></td>\n  <td><p><span class=\"fontstyle2\">7</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">36</span></p></td>\n  <td><p><span class=\"fontstyle2\">8</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Ritualismo (2 usos)</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">40</span></p></td>\n  <td><p><span class=\"fontstyle2\">8</span></p></td>\n</tr>\n</tbody></table>\n<p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Ocultista",
+          "description": "<p><span class=\"fontstyle0\">Você ganha um Talento com pré-requisito de ser Treinado em Misticismo, e pode Conjurar Magias usando Misticismo.</span></p><p><strong>Magias:</strong> Você aprende 4 Magias. Você aprende 1 outra Magia a cada 2 Níveis de Bruxa a partir de então.</p><p><strong>Mana:</strong> Sua Mana Máxima é igual a (4 × seu Nível de Bruxa), e a maior quantidade de Mana que você pode gastar para Conjurar uma Magia é igual a (Percepção + metade do seu Nível de Bruxa, arredondado para cima). Você recupera a Mana gasta ao Descansar.</p>"
+        },
+        {
+          "name": "Maldição",
+          "description": "<p><span class=\"fontstyle0\">Você pode escolher que os efeitos de uma Magia que Conjura (não o dano) se tornem contínuos (p. 90) para um dos Alvos, até que você use essa Característica em um Alvo diferente. Isso não exige sua Concentração. O número de Magias que você pode manter contínuas dessa forma ao mesmo tempo é igual a (metade do seu Nível de Bruxa, arredondado para cima).</span></p>"
+        },
+        {
+          "name": "Ritualismo",
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Turno (bloco de tempo), você pode conduzir um Ritual de 10 minutos como uma Ação. Ao se tornar uma Bruxa de 10º Nível, você pode fazer isso duas vezes por Turno (bloco de tempo).</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Entre Mundos",
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Cena, você pode usar sua Ação ou pular seu Movimento para ficar invisível até o seu próximo Turno. Isso exige sua Concentração.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Convento",
+          "description": "<p><span class=\"fontstyle0\">Você pode Conjurar Magias que Aliados Próximos possam Conjurar.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Contramão",
+          "description": "<p><span class=\"fontstyle0\">O Alvo da sua Maldição é Fraco ao dano que você causa. Isso não ignora Imunidade. Além disso, suas Magias ignoram Imunidades a Status do Alvo da sua Maldição.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Ritualismo (2 usos)",
+          "description": "<p><span class=\"fontstyle0\">Esta característica modifica a característica Ritualismo. Ao se tornar uma Bruxa de 10º Nível, você pode concluir como uma Ação, duas vezes por Turno (bloco de tempo), um Ritual que exija uma Cena.</span></p>"
+        }
+      ]
+    },
+    "Luminary": {
+      "name": "Luminar",
+      "description": "<p><strong>Fé é sobre o que você faz. É sobre aspirar a ser melhor, mais nobre, e mais gentil do que você é.</strong></p><p><em>– Jim Butcher, Changes</em></p><p>Canalizadores da magia da criação, luminares são filósofos, musas, e curandeiros do povo.</p><h3>Luminares Icônicos</h3><ul><li><strong>Aerith Gainsborough</strong>, <em>Final Fantasy VII</em></li><li><strong>Goldmoon</strong>, <em>Dragonlance</em></li><li><strong>Nynaeve Sedai</strong>, <em>série A Roda do Tempo</em></li><li><strong>Ophilia Clement</strong>, <em>Octopath Traveler</em></li></ul><h3>Jogando de Luminar</h3><p>Luminar é um curandeiro mágico de alto suporte. Recomenda-se evitar o combate corpo a corpo direto.</p><p><strong>Ação:</strong> Conjurar<br /><strong>Movimento:</strong> Linha do Meio/Linha de Trás<br /><strong>Pacote Inicial:</strong> Devoto<br /><strong>Atributo-Chave:</strong> Percepção<br /><strong>Complexidade:</strong> ★★★☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> –<br /><strong>Perícias:</strong> Misticismo, e 3 dentre Arcanismo, Detectar, Influência, Liderança, ou Medicina</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Mana</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Magias</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Teurgia, Curandeiro Radiante</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">4</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Cura Excedente</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">8</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">12</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">5</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Cura Eterna</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">16</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">5</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">20</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">6</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Reviver</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">24</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">6</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">28</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">7</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Graça Salvadora</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">32</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">7</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">36</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">8</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Doador de Vida</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">40</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">8</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Teurgia",
+          "description": "<p><span class=\"fontstyle0\">Você pode Conjurar Magias usando Misticismo.</span></p><p><span class=\"fontstyle2\"><strong>Magias:</strong> </span><span class=\"fontstyle0\">Você aprende 4 Magias, duas das quais devem sempre ser Vida e Luz. Você aprende 1 outra Magia a cada 2 Níveis de Luminar a partir de então.</span></p><p><span class=\"fontstyle2\"><strong>Mana:</strong> </span><span class=\"fontstyle0\">Sua Mana Máxima é igual a (4 × seu Nível de Luminar), e a maior quantidade de Mana que você pode gastar para Conjurar uma Magia é igual a (Percepção + metade do seu Nível de Luminar, arredondado para cima). Você recupera a Mana gasta ao Descansar.</span></p>"
+        },
+        {
+          "name": "Curandeiro Radiante",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Curandeiro Certeiro (p. 67), e as rolagens de cura das suas Magias também podem Explodir com seu valor mais alto.</span></p><p></p>"
+        },
+        {
+          "name": "Cura Excedente",
+          "description": "<p><span class=\"fontstyle0\">Se você restaurar PV que exceda o PV Máximo da Criatura, pode dar o excedente a si mesmo ou a uma Criatura que você possa ver.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Cura Eterna",
+          "description": "<p><span class=\"fontstyle0\">Quando você restaura PV, pode encerrar um Status de Enfeitiçado, Confuso, Atordoado, Amedrontado, ou Doente que afete o Alvo.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Reviver",
+          "description": "<p><span class=\"fontstyle0\">Você pode reviver uma Criatura com a Magia Vida se ela estiver morta há no máximo 1 hora. Se você morrer, é revivido automaticamente. Depois disso, você não pode ser revivido por esta Característica por 1 dia.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Graça Salvadora",
+          "description": "<p><span class=\"fontstyle0\">Suas rolagens de cura também podem Explodir com um 2.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Doador de Vida",
+          "description": "<p><span class=\"fontstyle0\">Criaturas que você revive são revividas com 4 de Fadiga caso a Fadiga delas fosse maior antes, e não ganham Fadiga com sua Magia Vida.</span></p>"
+        }
+      ]
+    },
+    "Fighter": {
+      "name": "Guerreiro",
+      "description": "<p><strong>O homem empunha a espada para proteger a pequena ferida em seu coração, sofrida em um tempo distante além da memória.</strong></p><p><em>– Kentaro Miura, Berserk</em></p><p>Estudiosos da arte da violência. Um guerreiro é definido por sua habilidade com armas, e pela grande variedade de técnicas marciais.</p><h3>Guerreiros Icônicos</h3><ul><li><strong>Beowulf</strong>, <em>mitologia inglesa</em></li><li><strong>Gilgamesh</strong>, <em>lenda mesopotâmica</em></li><li><strong>Sir Lancelot</strong>, <em>lenda arturiana</em></li></ul><h3>Jogando de Guerreiro</h3><p>O guerreiro é um atacante de defesa média. Em combate, alcance a distância eficaz para ofensiva e foque na Ação Ataque.</p><p><strong>Ação:</strong> Ataque<br /><strong>Movimento:</strong> Flexível<br /><strong>Pacote Inicial:</strong> Gladiador, Cavaleiro, Guerreiro, ou Guarda<br /><strong>Atributo-Chave:</strong> Força ou Percepção<br /><strong>Complexidade:</strong> ★☆☆☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> Corpo a Corpo, À Distância<br /><strong>Perícias:</strong> Briga ou Sutileza, e 3 dentre Briga, Detectar, Sutileza, Liderança, ou Furtividade</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Estilo de Luta, Valor</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Ímpeto</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Valor (-2 no Crítico)</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Convocar para a Batalha</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Valor (-3 no Crítico)</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Assediar</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Estilo de Luta",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Percepção Situacional (p. 72) e outro Talento com o Pré-requisito de Treinamento Corpo a Corpo ou À Distância (p. 64). Você pode ignorar pré-requisitos de Atributo para este Talento.</span></p><p></p>"
+        },
+        {
+          "name": "Estilo de Luta (Talento Corpo a Corpo/À Distância)",
+          "description": "<p><span class=\"fontstyle0\">Escolha outro Talento com o Pré-requisito de Treinamento Corpo a Corpo ou À Distância (p. 64). Você pode ignorar pré-requisitos de Atributo para este Talento.</span></p>"
+        },
+        {
+          "name": "Valor",
+          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Resistências para Esquivar ou Bloquear Ataques, é reduzida em 1, e é reduzida em mais 1 quando você alcança o 4º e o 8º Nível nesta Classe.</span></p>"
+        },
+        {
+          "name": "Ímpeto",
+          "description": "<p><span class=\"fontstyle0\">Se você passar em uma Resistência contra um ataque, o próximo ataque que fizer antes do fim do seu próximo Turno tem Vantagem.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Valor",
+          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Resistências para Esquivar ou Bloquear Ataques, é reduzida em 2 no total.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Convocar para a Batalha",
+          "description": "<p><span class=\"fontstyle0\">Você tem duas Ações no seu primeiro Turno de Combate.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Valor",
+          "description": "<p><span class=\"fontstyle0\">A rolagem necessária para você ter Crítico em Testes de Ataque, e Resistências para Esquivar ou Bloquear Ataques, é reduzida em 3 no total.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Assediar",
+          "description": "<p><span class=\"fontstyle0\">Você pode atacar duas vezes com a Ação Ataque, em vez de apenas uma.</span></p>"
+        }
+      ],
+      "effects": {
+        "Valor (lvl. 1|4|8)": {
+          "name": "Valor (níveis 1|4|8)"
+        }
+      }
+    },
+    "Wizard": {
+      "name": "Mago",
+      "description": "<p><strong>De certa forma, somos magos. Somos alquimistas, feiticeiros e magos. Somos um grupo bem estranho. Mas há grande diversão em ser um mago.</strong></p><p><em>— Billy Joel</em></p><p>Estudiosos das artes arcanas, pesquisadores e desenvolvedores de magias como busca acadêmica.</p><h3>Magos Icônicos</h3><ul><li><strong>Harry Dresden</strong>, <em>Arquivos Dresden</em></li><li><strong>Merlyn</strong>, <em>lenda arturiana</em></li><li><strong>Sparrow</strong>, <em>série Earthsea</em></li><li><strong>Sypha Belnades</strong>, <em>Castlevania</em></li></ul><h3>Jogando de Mago</h3><p>O mago é um atirador frágil focado em Conjurar Magias. Fique em segurança para Conjurar suas Magias e descobrir as fraquezas dos Inimigos.</p><p><strong>Ação:</strong> Conjurar<br /><strong>Movimento:</strong> Linha de Trás<br /><strong>Talento Inicial:</strong> Astrônomo ou Mago<br /><strong>Atributo-Chave:</strong> Raciocínio<br /><strong>Complexidade:</strong> ★★★★☆</p><h3>Treinamento</h3><p><strong>Armas —</strong><br /><strong>Perícias:</strong> Arcanismo, e mais 4 outras</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Mana</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Magias</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Conjurador, Mestre das Páginas</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">4</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Escultor de Magias</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">8</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">12</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">5</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Mente Múltipla (2)</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">16</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">5</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">20</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">6</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Extracurricular</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">24</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">6</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">28</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">7</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Mente Múltipla (3)</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">32</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">7</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">36</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">8</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Arquimago</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">40</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">8</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Conjurador",
+          "description": "<p><span class=\"fontstyle0\">Você pode Conjurar Magias usando Arcanismo.</span></p><p><span class=\"fontstyle2\"><strong>Magias:</strong> </span><span class=\"fontstyle0\">Você aprende 4 Magias. Você aprende 1 outra Magia a cada 2 Níveis de Mago a partir de então.</span></p><p><span class=\"fontstyle2\"><strong>Mana:</strong> </span><span class=\"fontstyle0\">Sua Mana Máxima é igual a (4 × seu Nível de Mago), e a maior quantidade de Mana que você pode gastar para Conjurar uma Magia é igual a (Raciocínio + metade do seu Nível de Mago, arredondado para cima). Você recupera a Mana gasta ao Descansar ou Estudar.</span> </p>"
+        },
+        {
+          "name": "Escultor de Magias",
+          "description": "<p><span class=\"fontstyle0\">Você paga 1 Mana a menos pela entrega da Magia.</span> </p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, <span class=\"fontstyle0\">você não precisa cumprir o Pré-requisito para se beneficiar dele.</span> </p>"
+        },
+        {
+          "name": "Mestre das Páginas",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Rato de Biblioteca (p. 67). Além disso, quando você Conjura uma Magia com sucesso, pode gastar um dos seus dados Estudados e adicioná-lo à rolagem de dano ou cura.</span></p><p></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, <span class=\"fontstyle0\">você não precisa cumprir o Pré-requisito para se beneficiar dele.</span> </p>"
+        },
+        {
+          "name": "Mente Múltipla II",
+          "description": "<p><span class=\"fontstyle0\">Você pode manter Concentração em até três Magias ao mesmo tempo. </span><br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, <span class=\"fontstyle0\">você não precisa cumprir o Pré-requisito para se beneficiar dele.</span> </p>"
+        },
+        {
+          "name": "Extracurricular",
+          "description": "<p><span class=\"fontstyle0\">Quando você Conjura, pode gastar um dado Estudado para conjurar qualquer Magia com essa Conjuração, mesmo que não seja uma Magia que você conheça.</span> <br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>"
+        },
+        {
+          "name": "Mente Múltipla",
+          "description": "<p><span class=\"fontstyle0\">Você pode manter Concentração em até duas Magias ao mesmo tempo. Ao se tornar um Mago de 8º Nível, você pode manter Concentração em até três Magias ao mesmo tempo.</span> <br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, <span class=\"fontstyle0\">você não precisa cumprir o Pré-requisito para se beneficiar dele.</span> </p>"
+        },
+        {
+          "name": "Arquimago",
+          "description": "<p><span class=\"fontstyle0\">Você paga 2 Mana a menos pela entrega da Magia</span>.</p>"
+        }
+      ],
+      "effects": {
+        "lv2 - Sculpt Spell": {
+          "name": "Nível 2 - Escultor de Magias",
+          "description": "<p>Você paga 1 Mana a menos pela entrega da Magia.</p>"
+        },
+        "lv.10 - Sculpt-Spell": {
+          "name": "Nível 10 - Escultor de Magias",
+          "description": "<p>Você paga 2 Mana a menos pela entrega da Magia.</p>"
+        }
+      }
+    },
+    "Druid": {
+      "name": "Druida",
+      "description": "<p><strong>Por que os pássaros de repente aparecem, toda vez que você está perto?</strong></p><p><em>– Karen Carpenter, Close to You</em></p><p>Guardiões da natureza selvagem, druidas são místicos da natureza adotados pelo reino das feras.</p><h3>Druidas Icônicos</h3><ul><li><strong>Beast Boy</strong>, <em>Quadrinhos da DC</em></li><li><strong>Beorn</strong>, <em>série O Senhor dos Anéis</em></li><li><strong>Frank Zhang</strong>, <em>série Percy Jackson</em></li><li><strong>Poison Ivy</strong>, <em>Quadrinhos da DC</em></li></ul><h3>Jogando de Druida</h3><p>O druida é uma classe de defesa média, com suporte e controle mistos, focada em Conjurar Magias e se metamorfosear em bestas poderosas.</p><p><strong>Ação:</strong> Conjurar ou Ataques de Fera<br /><strong>Movimento:</strong> Linha do Meio<br /><strong>Pacote Inicial:</strong> Eremita<br /><strong>Atributo-Chave:</strong> Percepção<br /><strong>Complexidade:</strong> ★★★☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> –<br /><strong>Perícias:</strong> Misticismo, e 3 dentre Briga, Ofício, Detectar, Medicina, ou Sobrevivência</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Mana</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Magias</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Místico Primordial, Metamorfose Selvagem</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">4</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Tempestade Interior</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">8</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">12</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">5</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Inervar</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">16</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">5</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">20</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">6</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Crescimento Ancestral</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">24</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">6</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">28</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">7</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Selvageria</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">32</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">7</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">36</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">8</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Força da Natureza</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">40</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">8</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Místico Primordial",
+          "description": "<p><span class=\"fontstyle0\">Você pode Conjurar Magias usando Misticismo.</span></p><p><span class=\"fontstyle2\"><strong>Magias:</strong> </span><span class=\"fontstyle0\">Você aprende 4 Magias, uma das quais deve sempre ser Metamorfose. Você aprende 1 outra Magia a cada 2 Níveis nesta Classe a partir de então.</span></p><p><span class=\"fontstyle2\"><strong>Mana:</strong> </span><span class=\"fontstyle0\">Sua Mana Máxima é igual a (4 × seu Nível de Druida), e a maior quantidade de Mana que você pode gastar para Conjurar uma Magia é igual a (Percepção + metade do seu Nível de Druida, arredondado para cima). Você recupera a Mana gasta ao Descansar.</span></p>"
+        },
+        {
+          "name": "Metamorfose Selvagem",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Metamorfo (p. 72) e pode realizar uma Ação concedida pela Besta em que se transforma como parte da Ação Conjurar.</span></p>"
+        },
+        {
+          "name": "Tempestade Interior",
+          "description": "<p><span class=\"fontstyle0\">Você reduz o dano de Frio, Fogo, e Choque que sofre em (metade do seu Nível de Druida) por dado de dano.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Inervar",
+          "description": "<p><span class=\"fontstyle0\">Você pode usar sua Ação para dar a uma Criatura Adjacente parte da sua Mana, ou para encerrar um Status que a afete dentre Enfeitiçado, Confuso, Amedrontado, ou Doente. Isso pode ser você mesmo.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Crescimento Ancestral",
+          "description": "<p>Enquanto mantém Concentração em uma Conjuração de Metamorfose que tenha apenas você mesmo como Alvo, você pode manter Concentração em uma Magia adicional. Além disso, seus ataques como Bestas em que se metamorfoseia contam como Relíquias (+1). Esse bônus aumenta a cada 6 Níveis de Druida a partir de então.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Selvageria",
+          "description": "<p><span class=\"fontstyle0\">Enquanto estiver metamorfoseado em uma Besta, você tem um bônus de +1 à Armadura.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Força da Natureza",
+          "description": "<p><span class=\"fontstyle0\">Se você for reduzido a 0 PV, role um d10. Se o resultado for igual ou menor que sua Percepção, você fica com 1 PV em vez disso.</span></p>"
+        }
+      ]
+    },
+    "Magus": {
+      "name": "Magus",
+      "description": "<p><strong>Por que não os dois?</strong></p><p><em>– Mia Agraviador, comercial El Paso Taco</em></p><p>Lâminas mágicas, gishes, cavaleiros arcanos, e trapaceiros eldritch, todos em um. Magi são especialistas arcanos que combinam magia e destreza marcial.</p><h3>Magi Icônicos</h3><ul><li><strong>Alucard</strong>, <em>Castlevania</em></li><li><strong>Elric of Melniboné</strong>, <em>Stormbringer</em></li><li><strong>Geralt of Rivia</strong>, <em>série The Witcher</em></li><li><strong>Twilight Suzuka</strong>, <em>Outlaw Star</em></li></ul><h3>Jogando de Magus</h3><p>O magus pode ser um pouco mais desafiador para jogadores novatos. Seu estilo de jogo depende mais da construção do que as outras classes, sendo possível criar magi à distância ou corpo a corpo.</p><p><strong>Ação:</strong> Ataque/Conjurar<br /><strong>Movimento:</strong> Flexível<br /><strong>Pacote Inicial:</strong> Cavaleiro, Gladiador, ou Guerreiro<br /><strong>Atributo-Chave:</strong> Raciocínio<br /><strong>Complexidade:</strong> ★★★★☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> Corpo a Corpo<br /><strong>Perícias:</strong> Arcanismo, e 3 dentre Briga, Detectar, Sutileza, Influência, Misticismo, Furtividade</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Mana</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Magias</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Golpe Arcano, Olho Esotérico</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">2</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">2</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Aparar Magias</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">4</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">2</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">6</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">2</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Recordação Arcana</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">8</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">3</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">10</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">3</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Surto de Magia</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">12</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">3</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">14</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Égide Obscura</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">16</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">18</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">4</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Surto de Magia (8+)</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"82\"><p><span class=\"fontstyle2\">20</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">5</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Golpe Arcano",
+          "description": "<p>Você ganha o Talento Gish e pode Conjurar Magias usando Arcanismo. Magias: Você aprende 2 Magias, uma das quais deve sempre ser Proteção. Você aprende 1 outra Magia a cada 3 Níveis de Magus a partir de então. Mana: Sua Mana Máxima é igual a (2 × seu Nível de Magus), e a maior quantidade de Mana que você pode gastar para Conjurar uma Magia é igual a (Raciocínio + metade do seu Nível de Magus, arredondado para cima). Você recupera a Mana gasta ao Descansar.</p>"
+        },
+        {
+          "name": "Olho Esotérico",
+          "description": "<p>Se você puder ver um Alvo, pode usar sua Ação ou pular seu Movimento para saber se alguma magia o afeta atualmente. Você pode fazer isso uma vez por Turno (bloco de tempo), mas pode gastar 1 Mana para fazê-lo novamente.</p>"
+        },
+        {
+          "name": "Aparar Magias",
+          "description": "<p>Você pode Bloquear Conjurações que o incluam como Alvo, se exigirem uma Resistência de Reflexo ou tiverem entrega por Toque ou Remota. Se você tiver Crítico ao Bloquear uma Conjuração, pode dissipar o efeito.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, <span class=\"fontstyle0\">você não precisa cumprir o Pré-requisito para se beneficiar dele.</span></p>"
+        },
+        {
+          "name": "Recordação Arcana",
+          "description": "<p>Você pode usar sua Ação para abrir seu olho esotérico de recordação, permitindo trocar uma de suas Magias Conhecidas que não seja Proteção. Você não pode fazer isso novamente até Descansar ou sofrer 1 Fadiga para fazê-lo.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, <span class=\"fontstyle0\">você não precisa cumprir o Pré-requisito para se beneficiar dele.</span></p>"
+        },
+        {
+          "name": "Surto de Magia",
+          "description": "<p>Se você passar em um Teste para Bloquear uma Conjuração por 10 ou mais, pode refletir a Conjuração de volta ao Conjurador. Ao se tornar um Magus de 10º Nível, isso ocorre se você passar por 8 ou mais.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, <span class=\"fontstyle0\">você não precisa cumprir o Pré-requisito para se beneficiar dele.</span></p>"
+        },
+        {
+          "name": "Égide Obscura",
+          "description": "<p>Você e o Alvo da sua Magia Proteção têm Visão Total e sofrem metade do dano de fontes baseadas em magia.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo talento, <span class=\"fontstyle0\">você não precisa cumprir o Pré-requisito para se beneficiar dele.</span></p>"
+        },
+        {
+          "name": "Surto de Magia (8+)",
+          "description": "<p>Se você passar em um Teste para Bloquear uma Conjuração por 8 ou mais, pode refletir a Conjuração de volta ao Conjurador.</p>"
+        }
+      ]
+    },
+    "Rogue": {
+      "name": "Ladino",
+      "description": "<p><strong>Posso ser um arrombador... mas sou um honesto, espero eu, mais ou menos.</strong></p>\n<p><em>– J.R.R. Tolkien, The Hobbit</em></p>\n<p>Moleques de beco, ralé de sarjeta, assassinos criados nas sombras. Para martelos, todo problema parece um prego. Ladinos são lâminas, e todo problema é uma garganta.</p>\n\n<h3>Ladinos Icônicos</h3>\n<ul>\n<li><strong>Locke Lamora</strong>, <em>Gentleman Bastard Sequence</em></li>\n<li><strong>Nona Grey</strong>, <em>The Book of the Ancestor</em></li>\n<li><strong>Vin</strong>, <em>Mistborn</em></li>\n</ul>\n\n<h3>Jogando de Ladino</h3>\n<p>Ladinos são atormentadores de linha do meio e defesa baixa, focados em um único golpe letal e certeiro. Recebem Características que reforçam a tentativa de obter Vantagem em seus Ataques.</p>\n<p><strong>Ação:</strong> Ataque<br />\n<strong>Movimento:</strong> Linha do Meio<br />\n<strong>Pacote Inicial:</strong> Assassino, Vigarista, Investigador, ou Batedor<br />\n<strong>Atributo-Chave:</strong> Destreza ou Percepção, Sorte<br />\n<strong>Complexidade:</strong> ★★★☆☆</p>\n\n<h3>Treinamento</h3>\n<p><strong>Armas:</strong> À Distância<br />\n<strong>Perícias:</strong> Sutileza e Furtividade, e mais 3 outras</p>\n\n<p></p>\n\n<h3><span class=\"fontstyle0\">Características de Classe</span></h3>\n<table class=\"NormalTable\"><tbody>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Ataque Furtivo</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Ataque Furtivo, Infiltrador</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">1d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Sorte Inabalável (d12)</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">1d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">1d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Evasivo</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">2d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">2d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Arma Letal</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">2d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">3d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Sorte Inabalável (d10)</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">3d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">3d4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Emboscada Final</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">4d4</span></p></td>\n</tr>\n</tbody></table>\n<p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Ataque Furtivo",
+          "description": "<p><span class=\"fontstyle0\">Se seu primeiro ataque em um Turno tiver Vantagem, ele causa um d4 extra de dano e ignora uma quantidade de Armadura igual a esse número de dados extras.</span></p>\n<p><span class=\"fontstyle0\">O número de d4 extras aumenta em 1 a cada 3 Níveis de Ladino a partir de então.</span></p>"
+        },
+        {
+          "name": "Infiltrador",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Versátil (p. 71), e tem Vantagem em Testes e Resistências feitos para emboscar e contra armadilhas das quais você está ciente.</span></p>"
+        },
+        {
+          "name": "Sorte Inabalável (d12)",
+          "description": "<p><span class=\"fontstyle0\">Quando você gasta Sorte para ganhar Vantagem em um Teste, role um d12. Se o resultado for menor que sua Sorte restante, a Sorte não é gasta. Ao se tornar um Ladino de 8º Nível, o d12 passa a ser um d10.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Evasivo",
+          "description": "<p><span class=\"fontstyle0\">Suas Resistências de Reflexo não podem ter Desvantagem enquanto você não estiver Incapacitado, e você ignora dois dos dados de dano de um ataque Esquivado em uma Resistência bem-sucedida, em vez de um.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Arma Letal",
+          "description": "<p><span class=\"fontstyle0\">Seu Ataque Furtivo se aplica a quaisquer ataques com Vantagem que você faça em um Turno, não apenas ao primeiro.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Sorte Inabalável (d10)",
+          "description": "<p><span class=\"fontstyle0\">Esta característica modifica o efeito de Sorte Inabalável. Quando você gasta Sorte para ganhar Vantagem em um Teste, role um d10. Se o resultado for menor que sua Sorte restante, a Sorte não é gasta.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Emboscada Final",
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Rodada, se você matar um Inimigo durante um Turno, pode imediatamente realizar uma Ação.</span></p>"
+        }
+      ]
+    },
+    "Barbarian": {
+      "name": "Bárbaro",
+      "description": "<p><strong>O ódio sobrevive a quem odeia.</strong></p><p><em>– Brian Tinsman, texto de ambientação de Rancor (Magic the Gathering)</em></p><p>Guerreiros primitivos que lutam com o poder de uma raiva desenfreada. As lendas falam de suas mortes quase como feitos próprios, usando o nome do bárbaro como um verbo no passado.</p><h3>Bárbaros Icônicos</h3><ul><li><strong>Brock Samson</strong>, <em>The Venture Bros</em></li><li><strong>Conan</strong>, <em>série Conan, o Bárbaro</em></li><li><strong>Guts</strong>, <em>Berserk</em></li><li><strong>Logen Ninefingers</strong>, <em>trilogia First Law</em></li></ul><h3>Jogando de Bárbaro</h3><p>O bárbaro é um brigão de defesa média-alta. Fique colado no rosto de um Inimigo, e bata muito forte.</p><p><strong>Ação:</strong> Ataque (Corpo a Corpo)<br /><strong>Movimento:</strong> Linha de Frente<br /><strong>Pacote Inicial:</strong> Gladiador ou Guerreiro<br /><strong>Atributo-Chave:</strong> Força<br /><strong>Complexidade:</strong> ★★☆☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> Corpo a Corpo<br /><strong>Perícias:</strong> Briga e mais 3 dentre Detectar, Influência, Liderança, Misticismo, ou Sobrevivência</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Fúria, Ira</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Agressor</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Semeador de Medo</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Rancor Insensato</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Sedento por Sangue</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Rasgar e Despedaçar</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Fúria",
+          "description": "<p><span class=\"fontstyle0\">Enquanto estiver Furioso e vestindo Armadura Leve ou nenhuma Armadura, você reduz o dano que sofre em 1 por dado de dano, e seus dados de dano de ataque são um tamanho maior e podem Explodir.</span></p><p><span class=\"fontstyle0\">Além disso, você pode ficar Furioso após sofrer dano ou como parte de um ataque. Você permanece Furioso assim por 1 minuto, a menos que encerre o efeito (sem Ação) ou fique Inconsciente.</span></p>"
+        },
+        {
+          "name": "Ira",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Interceptador (p. 69), e pode fazer o ataque dele contra um Inimigo que faça um Ataque à Distância, Conjure, ou que cause dano a você ou a um Aliado.</span></p>"
+        },
+        {
+          "name": "Agressor",
+          "description": "<p><span class=\"fontstyle0\">Você tem um bônus de 10 pés de Velocidade durante a primeira Rodada de Combate, e ter 3 ou mais Fadiga não o impede de usar a Ação Investida.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Semeador de Medo",
+          "description": "<p><span class=\"fontstyle0\">Quando você mata um Inimigo, todo Inimigo Próximo com DV menor que seu Nível fica Amedrontado até o fim do seu próximo Turno.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Rancor Insensato",
+          "description": "<p><span class=\"fontstyle0\">Você não pode ficar Enfeitiçado, Confuso, ou ser compelido a agir contra sua vontade.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Sedento por Sangue",
+          "description": "<p><span class=\"fontstyle0\">Seus ataques contra Criaturas com PV reduzido têm Vantagem, e você pode senti-las dentro de Longe como se tivesse Percepção às Cegas.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Rasgar e Despedaçar",
+          "description": "<p><span class=\"fontstyle0\">Enquanto estiver Furioso, você reduz o dano que sofre em 2 por dado de dano, em vez de 1, e ganha um bônus de +1 em cada dado de dano que causa.</span></p>"
+        }
+      ],
+      "effects": {
+        "Rage feature": {
+          "name": "Característica de Fúria"
+        }
+      }
+    },
+    "Gunslinger": {
+      "name": "Pistoleiro",
+      "description": "<p><strong>Isto, é a minha BOOMSTICK!</strong></p><p><em>– Ash, Army of Darkness</em></p><p>Atitude e tenacidade são tão essenciais ao pistoleiro quanto munição. Encaram desafios através das miras de ferro, fortalecidos por sua garra interior.</p><h3>Pistoleiros Icônicos</h3><ul><li><strong>Arthur Morgan</strong>, <em>Red Dead Redemption 2</em></li><li><strong>Django</strong>, <em>Django Livre</em></li><li><strong>Roland Deschain</strong>, <em>Dark Tower</em></li></ul><h3>Jogando de Pistoleiro</h3><p>O pistoleiro é um atacante de defesa baixa e alto Crítico. Em combate, fique o mais atrás possível e mantenha o inimigo sob fogo constante.</p><p><strong>Ação:</strong> Ataque<br /><strong>Movimento:</strong> Linha de Trás<br /><strong>Pacote Inicial:</strong> Caçador de Recompensas ou Consertador<br /><strong>Atributo-Chave:</strong> Percepção<br /><strong>Complexidade:</strong> ★★★☆☆</p><h3>Treinamento</h3><p><strong>Armas:</strong> À Distância<br /><strong>Perícias:</strong> Detectar, e 3 dentre Briga, Sutileza, Influência, Furtividade, ou Sobrevivência</p><p></p><h3><span class=\"fontstyle0\">Características de Classe</span></h3><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Saque Rápido, Olho Certeiro</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Atirador de Argolas</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Garra</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Devastador</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Remédio Amargo</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\" data-colwidth=\"115\"><p><span class=\"fontstyle2\">Hora do Duelo</span></p></td></tr></tbody></table><p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Saque Rápido",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Pontaria e, quando o Combate começa, pode fazer um ataque À Distância antes do primeiro Turno, o qual tem Desvantagem se feito com uma Arma 2M.</span></p><p></p>"
+        },
+        {
+          "name": "Olho Certeiro",
+          "description": "<p><span class=\"fontstyle0\">Depois de passar em um Teste À Distância, você tem Crítico em ataques À Distância subsequentes com uma rolagem de d20 1 ponto menor, mas nunca menor que 17. Isso reseta para 0 no fim do seu Turno, se você não passar em um Teste À Distância desde o seu último Turno.</span></p>"
+        },
+        {
+          "name": "Atirador de Argolas",
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Rodada, você pode fazer um ataque À Distância Fora do Turno para ter como Alvo um projétil de um ataque que você possa ver. Se passar, reduza o dano do ataque que o provocou pelo dano que causaria com seu ataque. O projétil cai do ar se reduzido a 0.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Garra",
+          "description": "<p><span class=\"fontstyle0\">Quando você tem Crítico em um ataque À Distância, os dados de dano podem Explodir.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Devastador",
+          "description": "<p><span class=\"fontstyle0\">Quando você reduz um Inimigo a 0 PV, a rolagem de d20 para ter Crítico conforme sua Característica Olho Certeiro é imediatamente definida como 17.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Remédio Amargo",
+          "description": "<p><span class=\"fontstyle0\">Você causa um dado extra de dano quando tem Crítico com um Teste À Distância.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Hora do Duelo",
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Turno, se você tiver Crítico em um Teste À Distância, pode fazer um ataque adicional.</span></p>"
+        }
+      ]
+    },
+    "Revelator": {
+      "name": "Revelador",
+      "description": "<p><strong>Pois aquele que vem em nosso momento de necessidade não é de estirpe mortal, ele é o Destruidor, a mão direita do nosso Criador e aquele que traz medo onde não há esperança.</strong></p>\n<p><em>– Corrax Tablet 3:13, Doom Eternal</em></p>\n<p>Cavaleiros de juramento que sustentam um voto honrado que se torna seu próprio poder sagrado. Reveladores são guerreiros de radiância e justiça.</p>\n\n<h3>Reveladores Icônicos</h3>\n<ul>\n<li><strong>Luke Skywalker</strong>, <em>Star Wars</em></li>\n<li><strong>Michael Carpenter</strong>, <em>Arquivos Dresden</em></li>\n<li><strong>Wonder Woman</strong>, <em>Quadrinhos da DC</em></li>\n</ul>\n\n<h3>Jogando de Revelador</h3>\n<p>Reveladores são atacantes de linha de frente de defesa alta. Fique na linha de frente para ataques corpo a corpo, e fulmine os transgressores.</p>\n<p><strong>Ação:</strong> Ataque/Conjurar<br />\n<strong>Movimento:</strong> Linha de Frente<br />\n<strong>Pacote Inicial:</strong> Cavaleiro ou Guerreiro<br />\n<strong>Atributo-Chave:</strong> Força, Presença<br />\n<strong>Complexidade:</strong> ★★★☆☆</p>\n\n<h3>Treinamento</h3>\n<p><strong>Armas:</strong> Corpo a Corpo<br />\n<strong>Perícias:</strong> Liderança, e 3 dentre Briga, Detectar, Influência, ou Misticismo</p>\n\n<p></p>\n\n<h3><span class=\"fontstyle0\">Características de Classe</span></h3>\n<table class=\"NormalTable\"><tbody>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Mana</span></p></td>\n  <td><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Magias</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Justo, Altruísta</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">2</span></p></td>\n  <td><p><span class=\"fontstyle2\">2</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Imposição de Mãos</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">4</span></p></td>\n  <td><p><span class=\"fontstyle2\">2</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">6</span></p></td>\n  <td><p><span class=\"fontstyle2\">2</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Aura do Paragon</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">8</span></p></td>\n  <td><p><span class=\"fontstyle2\">3</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">10</span></p></td>\n  <td><p><span class=\"fontstyle2\">3</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Resolução Divina</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">12</span></p></td>\n  <td><p><span class=\"fontstyle2\">3</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">14</span></p></td>\n  <td><p><span class=\"fontstyle2\">4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Mergulho Sagrado</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">16</span></p></td>\n  <td><p><span class=\"fontstyle2\">4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">18</span></p></td>\n  <td><p><span class=\"fontstyle2\">4</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Sacrossanto</span></p></td>\n  <td data-colwidth=\"82\"><p><span class=\"fontstyle2\">20</span></p></td>\n  <td><p><span class=\"fontstyle2\">5</span></p></td>\n</tr>\n</tbody></table>\n<p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Justo",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Gish (p. 68) e pode Conjurar Magias usando Liderança.</span></p><p></p><p><span class=\"fontstyle2\"><strong>Magias:</strong> </span><span class=\"fontstyle0\">Você aprende 2 Magias, uma das quais deve sempre ser Exaltar. Você aprende 1 outra Magia a cada 3 Níveis de Revelador a partir de então.</span></p><p><span class=\"fontstyle2\"><strong>Mana:</strong> </span><span class=\"fontstyle0\">Sua Mana Máxima é igual a (2× seu Nível de Revelador), e a maior quantidade de Mana que você pode gastar para Conjurar uma Magia é igual a (Presença + metade do seu Nível de Revelador, arredondado para cima). Você recupera a Mana gasta ao Descansar.</span></p>"
+        },
+        {
+          "name": "Altruísta",
+          "description": "<p><span class=\"fontstyle0\">Uma vez por Turno, quando um Aliado que você possa ver sofre dano, você pode escolher sofrer o dano em seu lugar. Isso não pode ser reduzido de nenhuma forma.</span></p>"
+        },
+        {
+          "name": "Imposição de Mãos",
+          "description": "<p><span class=\"fontstyle0\">Você pode Tocar uma Criatura para restaurar (d6 + seu Nível) PV usando sua Ação ou pulando seu Movimento. Você pode fazer isso duas vezes, recuperando os usos gastos após Descansar.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Aura do Paragon",
+          "description": "<p><span class=\"fontstyle0\">Não custa Mana para você Conjurar uma Magia como uma Aura de 10 pés, e você pode manter Concentração em uma Magia como Aura e uma como Imbuir ao mesmo tempo.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Resolução Divina",
+          "description": "<p><span class=\"fontstyle0\">Você não pode ficar Cego, Paralisado, ou Doente. Além disso, quando você restaura o PV de uma Criatura com sua Característica Imposição de Mãos, ela também é curada desses Status.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Mergulho Sagrado",
+          "description": "<p><span class=\"fontstyle0\">Se você sofrer dano por um Aliado com sua Característica Altruísta, seu próximo ataque antes do fim do seu próximo Turno tem Vantagem e adiciona sua Presença ao dano.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Sacrossanto",
+          "description": "<p><span class=\"fontstyle0\">Você tem um bônus de +2 em todas as Resistências.</span></p>"
+        }
+      ]
+    },
+    "Pugilist": {
+      "name": "Pugilista",
+      "description": "<p><strong>Eu não ouvi sino nenhum.</strong></p>\n<p><em>– Rocky Balboa, Rocky V</em></p>\n<p>Brigões de determinação e atitude. Um asceta pode se dedicar a um único golpe focado, mas um pugilista vai quebrar os dedos e continuar socando com o coto ensanguentado.</p>\n\n<h3>Pugilistas Icônicos</h3>\n<ul>\n<li><strong>Carl</strong>, <em>série Dungeon Crawler Carl</em></li>\n<li><strong>Rocky Balboa</strong>, <em>série Rocky</em></li>\n<li><strong>Hellboy</strong>, <em>Hellboy</em></li>\n<li><strong>Stiffener Medick</strong>, <em>Redwall</em></li>\n<li><strong>Tifa Lockhart</strong>, <em>Final Fantasy VII</em></li>\n</ul>\n\n<h3>Jogando de Pugilista</h3>\n<p>Pugilistas são brigões de linha de frente. Fique na linha de frente, mesmo com PV baixo.</p>\n<p><strong>Ação:</strong> Ataque (Briga)<br />\n<strong>Movimento:</strong> Linha de Frente<br />\n<strong>Pacote Inicial:</strong> Brigão ou Monge<br />\n<strong>Atributo-Chave:</strong> Força<br />\n<strong>Complexidade:</strong> ★★★☆☆</p>\n\n<h3>Treinamento</h3>\n<p><strong>Armas:</strong> –<br />\n<strong>Perícias:</strong> Briga, e 3 dentre Detectar, Sutileza, Influência, Medicina, ou Furtividade</p>\n\n<p></p>\n\n<h3><span class=\"fontstyle0\">Características de Classe</span></h3>\n<table class=\"NormalTable\"><tbody>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Nível</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle0\" style=\"color:rgb(255,255,255);font-size:9pt\">Características</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">1º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Punhos, Rope-a-Dope</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">2º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Investida Percussiva</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">3º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">4º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Destreza</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">5º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">6º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Golpe Fulminante</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">7º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">8º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Impacto</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">9º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Talento</span></p></td>\n</tr>\n<tr>\n  <td data-colwidth=\"67\"><p><span class=\"fontstyle2\">10º</span></p></td>\n  <td data-colwidth=\"115\"><p><span class=\"fontstyle2\">Pancadaria</span></p></td>\n</tr>\n</tbody></table>\n<p><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+      "levelFeatures": [
+        {
+          "name": "Punhos",
+          "description": "<p><span class=\"fontstyle0\">Enquanto usar apenas Armas de Briga, você pode usar um d4 se o dano for menor do que isso e, uma vez por Rodada, pode gastar metade da sua Velocidade para fazer um segundo ataque em vez de pular seu Movimento.</span></p>\n<p><span class=\"fontstyle0\">Além disso, se tiver Vantagem em um Teste de Ataque de Briga e acertar um Alvo que possa viavelmente Agarrar ou Empurrar, você pode escolher Agarrá-lo ou Empurrá-lo.</span></p>"
+        },
+        {
+          "name": "Rope-a-Dope",
+          "description": "<p><span class=\"fontstyle0\">Você ganha o Talento Gancho Calculado (p. 67) e pode fazer dois ataques com ele, em vez de um.</span></p><p></p>"
+        },
+        {
+          "name": "Investida Percussiva",
+          "description": "<p><span class=\"fontstyle0\">Se você usar a Ação Investida, também pode fazer um ataque com uma Arma de Briga nessa Ação.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Destreza",
+          "description": "<p><span class=\"fontstyle0\">Se você passar em uma Resistência para Bloquear, ignora dois dos dados de dano mais altos rolados, em vez de um.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Golpe Fulminante",
+          "description": "<p>Se você passar em um Teste de Ataque de Briga por 10 ou mais, o Alvo fica Atordoado até seu próximo Turno. Ao se tornar um Pugilista de 10º Nível, isso ocorre se você rolar 8 ou mais.</p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Impacto",
+          "description": "<p><span class=\"fontstyle0\">Você usa um d6 como dado de dano das suas armas de Briga.</span></p>"
+        },
+        {
+          "name": "Talento",
+          "description": "<p>Escolha um novo Talento. Você deve cumprir os pré-requisitos para escolhê-lo, a menos que o Talento seja concedido por uma Característica de Classe.</p>"
+        },
+        {
+          "name": "Pancadaria",
+          "description": "<p><span class=\"fontstyle0\">Sua Característica Golpe Fulminante agora ocorre se você rolar 8 ou mais, em vez de 10 ou mais.</span></p>"
+        }
+      ]
+    }
+  }
+}

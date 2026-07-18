@@ -1,0 +1,365 @@
+{
+	"label": "Magias",
+	"entries": {
+		"Gas": {
+			"name": "Gás",
+			"description": "<p><span class=\"fontstyle0\">Você cria uma nuvem de gás em uma Área igual ao tamanho da entrega (mínimo um cubo de 5 pés). Alvos ficam Doentes (Vulnerável) enquanto estiverem na Área.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "O efeito dura 1 Hora, mas pode ser dispersado por ventos fortes."
+		},
+		"Moon": {
+			"name": "Lua",
+			"description": "<p><span class=\"fontstyle0\">O Alvo emite Luar até Próximo durante a duração. Metamorfos ficam Queimando (d6) enquanto iluminados por este Luar.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Shrink": {
+			"name": "Encolher",
+			"description": "<p><span class=\"fontstyle0\">O tamanho e os dados de dano do Alvo são reduzidos em um tamanho durante a duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é de 1 minuto (não requer Concentração)."
+		},
+		"Goop": {
+			"name": "Lodo",
+			"description": "<p><span class=\"fontstyle0\">Uma massa de lodo pegajoso e ácido cobre a superfície mais próxima do Alvo (mínimo um quadrado de 5 pés) durante a duração, tornando-a Terreno Difícil.</span></p><p><span class=\"fontstyle0\">Se também Conjurada para causar dano, o ácido corrosivo faz com que os que estiverem na Área fiquem Queimando (d6).</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "Alvos na Área também ficam Imobilizados."
+		},
+		"Dispel": {
+			"name": "Dissipar",
+			"description": "<p><span class=\"fontstyle0\">Você suspende um efeito mágico durante a duração, tratando-o como um Alvo relutante (p. 90).</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "O efeito é completamente dissipado, caso não seja um Poder de Relíquia."
+		},
+		"Knock": {
+			"name": "Bater",
+			"description": "<p><span class=\"fontstyle0\">Abre baús, portas e portões trancados, barrados ou emperrados que você consiga perceber. Isso é feito com uma batida audível que pode ser ouvida a até 300 pés. Isso afeta fechaduras e portas secretas e mágicas, mas você precisa ter conhecimento delas para afetá-las.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Leech": {
+			"name": "Sanguessuga",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Doente durante a duração. Enquanto Doente desta forma, qualquer cura que o afete cura você em vez dele. Quaisquer Conjurações subsequentes desta Magia que causem dano ao Alvo Doente também curam você pelo dano causado.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Fade": {
+			"name": "Desvanecer",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Invisível durante a duração, terminando antecipadamente se usar uma Ação.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Color": {
+			"name": "Cor",
+			"description": "<p><span class=\"fontstyle0\">Durante a duração, Criaturas Alvo ficam Cegas e Objetos têm sua cor alterada.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Control": {
+			"name": "Controlar",
+			"description": "<p><span class=\"fontstyle0\">Objetos Alvo podem ser manipulados de formas pequenas, como acionar uma alavanca ou derrubar um copo. Esta magia não consegue levantar um Objeto.</span></p><p><span class=\"fontstyle0\">Criaturas Alvo ficam Enfeitiçadas e obedecem a seus comandos durante a duração. Esta Magia falha automaticamente se o Nível ou DV do Alvo for igual ou maior que seu Nível, e termina automaticamente se você comandar que ela cause dano a si mesma.</span></p><p><span class=\"fontstyle0\">Você pode gastar Mana para aumentar seu Nível efetivo para a Conjuração em 1 para cada Mana gasto para isso.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Amplify": {
+			"name": "Amplificar",
+			"description": "<p><span class=\"fontstyle0\">Qualquer som produzido pelo Alvo é amplificado em dez vezes durante a duração. Durante esse tempo, Alvos não podem surpreender outros, e todos os Testes para encontrá-los com base nos sons que fazem têm Vantagem.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Truth": {
+			"name": "Verdade",
+			"description": "<p><span class=\"fontstyle0\">O Alvo não consegue mentir durante a duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "O Alvo é compelido a responder a qualquer pergunta que lhe seja feita."
+		},
+		"Raise": {
+			"name": "Reanimar",
+			"description": "<p>Cadáveres na Área de Criaturas não-Artificiais ou não-Mortas-Vivas com soma total de DV não superior ao seu Nível se erguem como Mortos-Vivos sob seu controle durante a duração. Depois disso, qualquer Morto-Vivo erguido desta forma morre e não pode ser reanimado novamente por esta Magia. Você pode comandar seu Morto-Vivo erguido quando se Concentrar nesta Conjuração, usando sua Perícia de Conjuração para os Testes que ele fizer. O Morto-Vivo erguido desta forma usa sua ficha original com as seguintes mudanças:</p><p>• É um Morto-Vivo</p><p>• Tem Visão no Escuro, é Imune a Veneno, Fraco a Armas Prateadas, e não pode ficar Doente.</p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Blink": {
+			"name": "Lampejo",
+			"description": "<p><span class=\"fontstyle0\">O Alvo pode abrir mão de seu Movimento para se teleportar a um espaço vazio que consiga ver dentro de Próximo. Ele pode se teleportar através de espaços ocupados por outras Criaturas, mas não pode se teleportar através de espaços pelos quais não conseguiria Mover-se normalmente.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Hold": {
+			"name": "Prender",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Paralisado durante a duração, se seu DV ou Nível for igual ou menor que seu Nível. Você pode gastar Mana para aumentar seu Nível para os fins desta conjuração em 1 para cada Mana gasto para isso.</span></p><p><span class=\"fontstyle0\">Se o Alvo for um Objeto, ele se torna fixado e efetivamente trancado, caso seja uma porta, baú ou outro meio de impedir entrada. Você deve passar em um Teste de Conjuração toda vez que houver uma tentativa de manipular o Objeto fixado para manter a Concentração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é de 1 minuto (não requer Concentração)."
+		},
+		"Gust": {
+			"name": "Rajada",
+			"description": "<p><span class=\"fontstyle0\">O Alvo é atingido por uma rajada de vento cisalhante das seguintes formas:</span></p><p><span class=\"fontstyle2\"><strong>Pena:</strong> </span><span class=\"fontstyle0\">Se Conjurada em um Alvo em queda, esta rajada pode reduzir a velocidade de queda de um Alvo Médio ou menor a uma Velocidade segura durante a duração.</span></p><p><span class=\"fontstyle2\"><strong>Alvo:</strong> </span><span class=\"fontstyle0\">Isso pode empurrar um Item que ocupe 1 Espaço ou menos, ou uma Criatura com Nível ou DV 1 ou menor. Você pode aumentar esse número gastando Mana adicional na Conjuração, aumentando-o em 1 para cada Mana gasto para isso.</span></p><p><span class=\"fontstyle2\"><strong>Distância:</strong> </span><span class=\"fontstyle0\">Isso empurra o Alvo em 5', e você pode aumentar a distância empurrada gastando Mana, aumentando a distância em 5' para cada Mana gasto para isso.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Forge": {
+			"name": "Forjar",
+			"description": "<p><span class=\"fontstyle0\">Você materializa um Item de 1 Espaço ou menos, no valor de no máximo 1o, em um espaço desocupado perto do Alvo, vestido pelo Alvo, ou um Item por cubo de 5 pés dentro da área do Alvo. Esta magia pode criar um Item sólido feito de cobre, ferro, vidro, pedra ou madeira. Por exemplo, isso poderia criar uma caneca de ferro, mas não uma caneca de cerveja. Se você Alvejar a si mesmo com esta Magia, pode Equipar o Item quando ele for criado (sem gastar Ação). Fazer isso não pode fazer com que um Item Equipado se torne desequipado. O Item é utilizável como uma cópia física durante a duração, então desaparece.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Guide": {
+			"name": "Guiar",
+			"description": "<p><span class=\"fontstyle0\">Testes que dependem de visão feitos contra o Alvo têm Vantagem durante a duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é de 1 minuto (não requer Concentração)."
+		},
+		"Polymorph": {
+			"name": "Polimorfizar",
+			"description": "<p><span class=\"fontstyle0\">O Alvo se torna uma Fera à sua escolha, com DV não superior ao seu Nível, durante a duração. Se o Alvo for relutante e seu DV for maior que seu Nível, a Magia falha. Durante esse tempo, o Alvo usa:</span></p><ul><li><span class=\"fontstyle0\">A Velocidade, Passivas, Sentidos, Armadura, Imunidades, Fraquezas, Ações e Habilidades da Fera.</span></li><li><span class=\"fontstyle0\">Os PV do Alvo e, se possível, suas Ações e Habilidades.</span></li></ul><p><span class=\"fontstyle0\">Você deve gastar 1 Mana em seus Turnos para se Concentrar nesta Magia, mesmo para Alvos dispostos.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Aqua": {
+			"name": "Água",
+			"description": "<p>Esta Magia pode criar e destruir água doce das seguintes formas:</p><p><strong>Área:</strong> O espaço dentro dela é esvaziado ou preenchido com água. Se a Área estiver ocupada por uma Criatura, isso requer um Teste de Conjuração. Você escolhe se essa água permanece ou seca após a duração.</p><p><strong>Alvo:</strong> Isso pode empurrar um Item que ocupe 1 Espaço ou menos, ou uma Criatura com Nível ou DV 1 ou menor. Você pode aumentar esse número gastando Mana adicional na Conjuração, aumentando-o em 1 para cada Mana gasto para isso.</p><p><strong>Distância:</strong> Isso empurra o Alvo em 5', e você pode aumentar a distância empurrada gastando Mana, aumentando a distância em 5' para cada Mana gasto para isso.</p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Ward": {
+			"name": "Proteção",
+			"description": "<p><span class=\"fontstyle0\">Se o Alvo sofrer dano, faça um Teste de Conjuração. Em caso de sucesso, você reduz esse dano em d6, e pode gastar Mana para reduzi-lo em mais d6 para cada Mana gasto para isso.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "O Alvo não sofre dano algum."
+		},
+		"Light": {
+			"name": "Luz",
+			"description": "<p><span class=\"fontstyle0\">O Alvo emite Luz até Próximo durante a duração. Você pode optar por fazer isso criando um pequeno ponto de luz flutuante que segue o Alvo.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "Criaturas à sua escolha dentro da Luz quando você Conjura a Magia ficam Cegas (Cd4)."
+		},
+		"Confuse": {
+			"name": "Confundir",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Confuso durante a duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Adhere": {
+			"name": "Aderir",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica coberto de lodo pegajoso durante a duração, fazendo com que a Área Adjacente ao seu redor se torne Terreno Difícil. Criaturas Alvo são consideradas Vulneráveis para fins de encerrar o Status Imobilizado.</span></p><p><span class=\"fontstyle0\">Objetos Alvo ficam presos a tudo que estiverem em contato ou à próxima coisa que tocarem durante a duração. Uma Criatura com Força ou DV igual ou menor que seu Nível não consegue mover o Objeto. Você pode aumentar seu Nível efetivo para a conjuração gastando Mana adicional, aumentando-o em 1 para cada Mana gasto para isso.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Bless": {
+			"name": "Abençoar",
+			"description": "<p><span class=\"fontstyle0\">Durante a duração, Objetos Alvo contam como Prateados, e Criaturas Alvo à sua escolha recebem um bônus de d4 em Resistências.</span></p><p><span class=\"fontstyle0\">Além disso, se o Alvo for água livre, ela se torna permanentemente água benta.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Shade": {
+			"name": "Sombra",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica envolto em escuridão mágica até Adjacente durante a duração, o que apaga luzes não mágicas.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Portal": {
+			"name": "Portal",
+			"description": "<p><span class=\"fontstyle0\">Você cria um portal em uma superfície que caiba dentro da Área (mínimo um quadrado de 5 pés), e um segundo portal do mesmo tamanho em uma superfície a Próximo desse portal. Os portais permanecem durante a duração e podem teleportar qualquer coisa menor que eles para um espaço Adjacente livre na localização do outro portal. Objetos não fixados não custam Mana para teleportar, mas Criaturas custam 1 Mana. Se a Criatura for relutante, também é necessário passar em um Teste de Conjuração para teleportá-la.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Burn": {
+			"name": "Queimar",
+			"description": "<p><span class=\"fontstyle0\">Se o Alvo não for imune a Fogo, ele fica Queimando (Cd4, ou até ser apagado). Este Status de Queimando não requer Concentração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "O Cd4 passa a começar como um Cd6."
+		},
+		"Kinesis": {
+			"name": "Cinese",
+			"description": "<p><span class=\"fontstyle0\">Você arremessa um Alvo não fixado de 1 DV ou Espaço ou menos contra um Alvo que consiga ver dentro de Próximo. Se atingir um Alvo, o acerto é inofensivo, a menos que esta Magia seja Conjurada para causar dano.</span></p><p><span class=\"fontstyle0\">Você pode gastar Mana para aumentar o DV ou Espaço alvejável em 1 para cada Mana gasto para isso naquela Conjuração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Mirage": {
+			"name": "Miragem",
+			"description": "<p><span class=\"fontstyle0\">Você cria um Objeto ou efeito ilusório que caiba dentro da Área, ou sobre o Alvo, durante a duração. O Objeto não tem forma tangível e não pode causar dano. Porém, sua aparência, movimento e som que produz ficam a seu critério. Se qualquer ação for tomada para investigar o Objeto, faça um Teste de Conjuração para determinar o resultado. Quando você se Concentrar nela, pode mudar qualquer um desses aspectos da ilusão.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Disintegrate": {
+			"name": "Desintegrar",
+			"description": "<p><span class=\"fontstyle0\">Um Alvo não mágico e não metálico de 1 Espaço ou menos é destruído. Os Espaços do Alvo podem aumentar gastando Mana, aumentando em 1 para cada Mana gasto para isso. Qualquer Alvo reduzido a 0 PV ou destruído por esta Magia é reduzido a cinzas.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Speak": {
+			"name": "Falar",
+			"description": "<p><span class=\"fontstyle0\">O Alvo é capaz de falar, entender e ser entendido por você. Se o Alvo não era previamente capaz de fala antes de ganhar essa habilidade por esta Magia, ele não pode voltar a falar através desta Magia depois que a Conjuração terminar.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Hymn": {
+			"name": "Hino",
+			"description": "<p><span class=\"fontstyle0\">Se o Alvo estiver Furioso, Enfeitiçado, Confuso ou Amedrontado, o Status termina e ele fica Imune a esses Status durante a duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Terraform": {
+			"name": "Terraformar",
+			"description": "<p><span class=\"fontstyle0\">Você manipula a terra solta ou pedra ao redor do Alvo das seguintes formas:</span></p><p><span class=\"fontstyle2\"><strong>Área:</strong> </span><span class=\"fontstyle0\">Você pode manipular o terreno na Área, fazendo com que se torne Terreno Difícil ou uma Estrutura que caiba dentro da área de efeito da Conjuração durante a duração. Esta magia não pode mover nenhum terreno que sustente um Objeto.</span></p><p><span class=\"fontstyle2\"><strong>Criatura ou Objeto:</strong> </span><span class=\"fontstyle0\">Terra ou pedra Adjacente se torna Terreno Difícil durante a duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Morph": {
+			"name": "Transfigurar",
+			"description": "<p><span class=\"fontstyle0\">Durante a duração, o corpo do Alvo é alterado de forma ilusória. Esta magia é poderosa o suficiente para fazê-lo parecer uma Criatura do mesmo Tamanho e Tipo de Criatura que tenha a mesma configuração de membros e apêndices (como um Humano parecendo um Anão, mas não um cavalo).</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Rust": {
+			"name": "Enferrujar",
+			"description": "<p><span class=\"fontstyle0\">Objetos de metal que não sejam Relíquias dentro da Área enferrujam durante a duração. A cada Turno em que você se Concentrar nesta Magia, role um d6 para cada Item. Em um resultado de 1, o Item se quebra. Se o Item que se quebra for maior que Médio, isso cria um buraco de 1 pé quadrado e 1 pé de profundidade nele.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Frostburn": {
+			"name": "Crioqueima",
+			"description": "<p><span class=\"fontstyle0\">Se o Alvo não for Imune a Frio, ele fica Queimando (d4, Velocidade reduzida em 10') durante a duração, terminando antecipadamente se sofrer dano de fogo ou calor.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "O Alvo, em vez disso, fica Queimando (d6)."
+		},
+		"Mend": {
+			"name": "Reparar",
+			"description": "<p><span class=\"fontstyle0\">Objetos Alvo que não sejam Relíquias na Área são reparados em seus Turnos durante a duração, se você puder fornecer 5p de Material para cada d8 PV ou 1 Espaço de Itens reparados. Esta Magia pode remontar um Item quebrado se as peças dele forem mantidas juntas durante a Conjuração. Esta Magia também funciona como a Magia Vida, mas apenas para Artificiais.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Fog": {
+			"name": "Névoa",
+			"description": "<p><span class=\"fontstyle0\">O Conjurador cria uma nuvem que obscurece uma Área igual ao tamanho da entrega (mínimo um cubo de 5 pés). Ela dá Desvantagem a Testes que dependam de visão de um Alvo dentro da névoa e a Testes feitos por Criaturas dentro da névoa que dependam de visão.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Charm": {
+			"name": "Enfeitiçar",
+			"description": "<p><span class=\"fontstyle0\">O enfeitiçamento mantém o Alvo Enfeitiçado durante a duração, terminando antecipadamente se ele sofrer dano ou se você Conjurar esta Magia novamente.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Exalt": {
+			"name": "Exaltar",
+			"description": "<p><span class=\"fontstyle0\">Alvos recebem um bônus de +1 a cada dado de dano que causarem e às Resistências de Vontade contra Amedrontado. Esse bônus é dobrado se um Infernal ou Morto-Vivo for o Alvo do ataque ou aquele que estiver forçando a Resistência.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Levitate": {
+			"name": "Levitar",
+			"description": "<p><span class=\"fontstyle0\">O Alvo flutua até 1 pé no ar, se houver solo firme abaixo dele, durante a duração. O Alvo ainda pode se Mover no ar como se estivesse andando. Se o Alvo for um Objeto fixado ou um Item que ocupe mais de 2 Espaços, ele não é afetado.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Mute": {
+			"name": "Silenciar",
+			"description": "<p><span class=\"fontstyle0\">Nenhum som pode ser ouvido vindo do Alvo durante a duração, terminando antecipadamente se você Conjurar esta Magia novamente.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Enchant": {
+			"name": "Encantar",
+			"description": "<p><span class=\"fontstyle0\">Um Item que seja o Alvo ou esteja equipado pelo Alvo é considerado uma Relíquia durante a duração.</span></p><p><span class=\"fontstyle0\">Além disso, você pode conceder ao Item o Poder de Relíquia de Bônus por este período, gastando Mana adicional por Item ao qual este Poder for concedido, quando você Conjurar esta Magia:</span></p><p></p><table class=\"NormalTable\"><tbody><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\">Bônus</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle2\" style=\"font-size:8pt\">Custo de Mana por</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle3\">+1</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle3\">5 Mana</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle3\">+2</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle3\">10 Mana</span></p></td></tr><tr><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle3\">+3</span></p></td><td style=\"border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none\"><p><span class=\"fontstyle3\">15 Mana</span></p></td></tr></tbody></table><p> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Sprout": {
+			"name": "Brotar",
+			"description": "<p><span class=\"fontstyle0\">Você faz crescer plantas sobre o Alvo, causando Terreno Difícil até Adjacente a partir dele. Alternativamente, você pode fazer com que um trecho de até 5 pés quadrados de plantas ou fungos cresça magicamente até o ponto ideal para colheita e forrageamento.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "O Alvo fica Imobilizado."
+		},
+		"Fear": {
+			"name": "Medo",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Amedrontado de outro Alvo visível que você escolher, durante a duração, terminando antecipadamente se você Conjurar esta Magia novamente.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Tempo +": {
+			"name": "Tempo +",
+			"description": "<p><span class=\"fontstyle0\">A Velocidade do Alvo aumenta em 5 pés durante a duração. O Conjurador pode aumentar essa quantidade em mais 5 pés para cada 1 Mana adicional gasto na Conjuração (cada dado de conjuração = +5 pés).</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é de 1 minuto (não requer Concentração)."
+		},
+		"Life": {
+			"name": "Vida",
+			"description": "<p><span class=\"fontstyle0\">Você revive um Alvo que morreu de dano na última Rodada, restaurando-o com 1 PV e concedendo-lhe 1 Fadiga. Esta Magia não regenera partes do corpo perdidas.</span></p><p><span class=\"fontstyle0\">Além disso, você pode gastar Mana com esta Magia para curar um Alvo em d6 PV para cada Mana gasto para isso.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Beast": {
+			"name": "Fera",
+			"description": "<p><span class=\"fontstyle0\">Você invoca uma Fera ou Feras que caibam na Área ou no espaço aberto mais próximo do Alvo. Elas permanecem durante a duração e podem ter uma soma total de DV não superior à metade do seu Nível (mínimo 1).</span></p><p><span class=\"fontstyle0\">Você deve gastar 1 Mana a cada Turno em que se Concentrar nesta Magia após a Conjuração. Você pode deixar as Feras agirem independentemente ou comandá-las quando se Concentrar. Elas usam sua Perícia de Conjuração para qualquer Teste que fizerem.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Erupt": {
+			"name": "Erupção",
+			"description": "<p><span class=\"fontstyle0\">Magma cobre a superfície mais próxima do Alvo durante a duração (mínimo um quadrado de 5 pés), tornando-a Terreno Difícil que causa d6 na primeira vez que uma Criatura entra na Área em um Turno e quando termina seu Turno na Área.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "Alvos ficam Queimando (Cd4 enquanto estiverem na Área)."
+		},
+		"Freeze": {
+			"name": "Congelar",
+			"description": "<p><span class=\"fontstyle0\">Qualquer água livre na Área é congelada. Se o Alvo for uma Criatura, sua Velocidade é reduzida em 10'. Alternativamente, você pode criar um Objeto feito de gelo que caiba dentro da Área, com a forma de sua escolha (como uma adaga de gelo ou um bloco de gelo). Se necessário, o Objeto tem DV: 1 (4 PV) e é Fraco: Fogo. Qualquer um desses efeitos dura pela duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Animate": {
+			"name": "Animar",
+			"description": "<p><span class=\"fontstyle0\">Você anima um Item que ocupe no máximo 1 Espaço na Área ou carregado pelo Alvo. Durante a duração, o Item ganha Velocidade de 30' (Voo) e usa as regras de Armadura e PV de Objeto (p. 12) para seus Atributos. Ele obedece a seus comandos, que você pode emitir quando se Concentrar nesta Magia. Se for uma Arma, pode fazer Ataques usando sua Perícia de Conjuração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Babble": {
+			"name": "Balbuciar",
+			"description": "<p><span class=\"fontstyle0\">Quando o Teste é bem-sucedido, e cada vez que você se Concentra na Conjuração durante a duração, você pode fazer com que o Alvo repita em voz alta e de forma coerente tudo o que você comandar mentalmente. Fora isso, ele fica mudo.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Enflesh": {
+			"name": "Encarnar",
+			"description": "<p><span class=\"fontstyle0\">Tecido, pedra, metal ou madeira Alvo, que não sejam Relíquias, são transformados em cabelo, tecido orgânico e osso durante a duração. Alternativamente, se o Alvo tiver sido transformado em pedra por uma maldição ou magia, o efeito termina.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Tempo -": {
+			"name": "Tempo -",
+			"description": "<p><span class=\"fontstyle0\">A Velocidade do Alvo diminui em 5 pés durante a duração. O Conjurador pode diminuir essa quantidade em mais 5 pés para cada 1 Mana adicional gasto na Conjuração (cada dado de conjuração = -5 pés).</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é de 1 minuto (não requer Concentração)."
+		},
+		"Cure": {
+			"name": "Curar",
+			"description": "<p><span class=\"fontstyle0\">Se o Alvo estiver Cego ou Doente, o Status termina e ele fica imune a esses Status durante a duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Sleep": {
+			"name": "Dormir",
+			"description": "<p><span class=\"fontstyle0\">Se os Alvos tiverem uma soma total de DV igual a (1 + seu Nível) ou menor, eles ficam Inconscientes durante a duração, terminando antecipadamente se sofrerem dano ou forem sacudidos para acordar. Você pode gastar Mana para aumentar seu Nível efetivo para a Conjuração em 1 para cada Mana gasto para isso.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Apoplex": {
+			"name": "Apoplexia",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Furioso durante a duração.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "A duração é contínua."
+		},
+		"Junk": {
+			"name": "Quinquilharia",
+			"description": "<p><span class=\"fontstyle0\">Você cria um Item no valor de no máximo 5p e de 1 Espaço ou menos que caiba na Área da entrega, na mão de um Alvo disposto, ou no espaço aberto mais próximo do Alvo. Este Item carece de detalhes finos e especificidade. Por exemplo, poderia criar uma chave, mas não a chave de uma cela em que você esteja preso.</span></p><p><span class=\"fontstyle0\">Esta Magia não requer Concentração para manter o Item materializado, mas o Item desaparece quando você Conjurar esta Magia novamente, ou dispensá-lo (sem gastar Ação). Você pode gastar Mana adicional durante a Conjuração para aumentar o número de Itens criados em um para cada Mana adicional gasto para isso.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": ""
+		},
+		"Zap": {
+			"name": "Choque",
+			"description": "<p><span class=\"fontstyle0\">O Alvo fica Atordoado durante a duração, se puder ser danificado por choques.</span></p>",
+			"duration": "Até seu próximo turno",
+			"crit": "O Alvo fica Paralisado, em vez de Atordoado, durante a duração."
+		}
+	}
+}

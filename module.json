@@ -1,0 +1,37 @@
+{
+  "id": "vagabond-no-ptbr",
+  "title": "Vagabond: Tradução pt-BR",
+  "description": "Tradução (pt-BR) do conteúdo de compêndios do sistema Vagabond, via Babele. Tradução não oficial.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": 13,
+    "verified": 14
+  },
+  "authors": [
+    {
+      "name": "Gus",
+      "discord": "gus4294",
+      "url": "https://github.com/mordachai"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module"
+      }
+    ],
+    "systems": [
+      {
+        "id": "vagabond",
+        "type": "system"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/register.mjs"
+  ],
+  "url": "https://github.com/mordachai/vagabond-no-ptbr",
+  "manifest": "https://github.com/mordachai/vagabond-no-ptbr/releases/latest/download/module.json",
+  "download": "https://github.com/mordachai/vagabond-no-ptbr/releases/download/v0.1.0/module.zip"
+}

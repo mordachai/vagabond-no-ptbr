@@ -1,0 +1,157 @@
+{
+	"label": "Ancestralidades",
+	"entries": {
+		"Orc": {
+			"name": "Orc",
+			"description": "<p><span class=\"fontstyle0\">Nightkin mutantes que assumem uma variedade de aparências. Alguns com focinhos e presas, ou pelos e chifres, ou aqueles com pele calejada e cor de verdete. Costumam se estabelecer em tribos unidas onde \"a força está certa\", e já foram conhecidos por se estabelecerem como comandantes sobre bandos de goblins.</span></p>",
+			"traits": [
+				{
+					"name": "Darksight",
+					"description": "Você não fica Cego pela Escuridão."
+				},
+				{
+					"name": "Beefy",
+					"description": "Você faz Resistências contra ficar Agarrado ou ser Empurrado com Vantagem, e tem Vantagem em Testes para Agarrar ou Empurrar."
+				},
+				{
+					"name": "Hulking",
+					"description": "Você tem um bônus de +2 em Espaços de Item."
+				}
+			],
+			"effects": {
+				"Hulking (Orc Trait)": {
+					"name": "Corpulento (Traço de Orc)"
+				}
+			}
+		},
+		"Dwarf": {
+			"name": "Anão",
+			"description": "<p><span class=\"fontstyle0\">Anões são feitos de material mais resistente, com alguns mitos dizendo que anões não nascem, eles são forjados. Esses mitos falam de deuses esculpindo os anões logo após a formação das montanhas, concedendo-lhes vontades de ferro, línguas de prata e corações de ouro. São um povo industrioso que vem de alguns dos ambientes mais extremos. Se os anões descobrem um minério raro, eles não procuram um rio próximo e terras adequadas para agricultura; eles fundam a cidade bem em cima do maior veio que encontrarem e resolvem o resto depois.</span></p>",
+			"traits": [
+				{
+					"name": "Darksight",
+					"description": "Você não fica Cego pela Escuridão."
+				},
+				{
+					"name": "Sturdy",
+					"description": "Você tem um bônus de +1 em Resistências contra ficar Amedrontado, Doente, ou ser Empurrado."
+				},
+				{
+					"name": "Tough",
+					"description": "Você tem um bônus aos seus PV máximos igual ao seu Nível."
+				}
+			],
+			"effects": {
+				"Tough (Dwarf Trait)": {
+					"name": "Resistente (Traço de Anão)"
+				}
+			}
+		},
+		"Elf": {
+			"name": "Elfo",
+			"description": "<p>Elfos são conhecidos por sua alta estatura, beleza etérea e paixão inquisitiva por testemunhar o espanto. Essa paixão se manifesta em suas roupas, idioma, artes e culinária, já que os elfos buscam fazer de cada momento algo digno de ser saboreado. De todos os povos que habitam o mundo, é provável que nenhum outro viva tão pacífica e permissivamente com as fadas, a fauna e a flora quanto os elfos.</p>",
+			"traits": [
+				{
+					"name": "Ascendancy",
+					"description": "Você é Treinado em uma Perícia dentre Arcanismo, Misticismo, Influência, ou em Ataques à Distância."
+				},
+				{
+					"name": "Elven Eyes",
+					"description": "Você tem Vantagem em Testes de Detecção baseados em visão."
+				},
+				{
+					"name": "Naturally Attuned",
+					"description": "Você conhece uma Magia e pode Conjurá-la com uma Perícia à sua escolha."
+				}
+			],
+			"effects": {
+				"Naturally Attuned (Elf Trait)": {
+					"name": "Naturalmente Sintonizado (Traço de Elfo)"
+				}
+			}
+		},
+		"Halfling": {
+			"name": "Pequenino",
+			"description": "<p><span class=\"fontstyle0\">Gente animada, que vive nas colinas do condado. Os pequeninos são conhecidos por viver a vida ao máximo, encarar qualquer desafio e se deleitar até mesmo em seus fracassos. São destemidos, ágeis para reagir e sempre capazes de virar a situação a seu favor. Os pequeninos se instalam em colinas ondulantes, com a comida na elevação mais alta, depois as casas, os mercados e, por fim, o descarte de resíduos na parte mais baixa. Isso ajuda a reduzir os danos de enchentes e mantém as temperaturas agradáveis o ano todo.</span></p>",
+			"traits": [
+				{
+					"name": "Nimble",
+					"description": "Você tem um bônus de 5 pés de Velocidade e ignora Desvantagem em Resistências de Reflexo se não estiver Incapacitado."
+				},
+				{
+					"name": "Squat",
+					"description": "Você pode se mover através de áreas ocupadas por outras Criaturas."
+				},
+				{
+					"name": "Tricksy",
+					"description": "Quando você recupera Sorte ao Descansar, você ganha 1 Sorte adicional."
+				}
+			],
+			"effects": {
+				"Nimble": {
+					"name": "Ágil"
+				}
+			}
+		},
+		"Draken": {
+			"name": "Draken",
+			"description": "<p><span class=\"fontstyle0\">Parecendo dragões humanoides, os Draken são parentes dos terríveis dragões da lenda. Suas escamas vêm em uma variedade de cores brilhantes, suas mandíbulas abrigam dentes afiados que muitas vezes servem como uma pinça serrilhada, e seus dedos se assemelham às garras em forma de talão dos dragões.</span></p>",
+			"traits": [
+				{
+					"name": "Breath Attack",
+					"description": "Você pode atacar com um teste de Resistência ou Vontade para criar um Cone de 15 pés de sopro dracônico que causa 2d6!"
+				},
+				{
+					"name": "Scale",
+					"description": "Você tem um bônus de +1 na Classe de Armadura."
+				},
+				{
+					"name": "Draconic Resilience",
+					"description": "Você sofre metade do dano de uma fonte à sua escolha entre Ácido, Frio, Fogo ou Choque."
+				}
+			],
+			"effects": {
+				"Scale": {
+					"name": "Escama"
+				}
+			}
+		},
+		"Human": {
+			"name": "Humano",
+			"description": "<p><span class=\"fontstyle0\">Humanos são seres sociais que tendem a ser centrais no desenvolvimento de grandes e diversas civilizações-caldeirão. Sua tendência a desenvolver impérios amplos e extensos, além de um enorme conjunto de culturas, os torna aventureiros extremamente adaptáveis.</span> </p>",
+			"traits": [
+				{
+					"name": "Knack",
+					"description": "Você ganha um Talento e um Treinamento."
+				},
+				{
+					"name": "Strong Potential",
+					"description": "Aumente um de seus Atributos em 1, mas não mais que 7"
+				}
+			]
+		},
+		"Goblin": {
+			"name": "Goblin",
+			"description": "<p><span class=\"fontstyle0\">Arruaceiros conhecidos por se deliciarem com o caos, goblins são humanoides menores de pele tipicamente verde, amarela, cinza ou azulada. Esse prazer instintivo pelo caos frequentemente os coloca em conflito com os códigos e leis de outras sociedades, mas a engenhosidade goblin pode ser um recurso indispensável.</span></p>",
+			"traits": [
+				{
+					"name": "Darksight",
+					"description": "Você não fica Cego pela Escuridão."
+				},
+				{
+					"name": "Nimble",
+					"description": "Você tem um bônus de 5 pés de Velocidade e ignora Desvantagem em Resistências de Reflexo se não estiver Incapacitado."
+				},
+				{
+					"name": "Scavenger",
+					"description": "Você tem Vantagem em Resistências de Resistência contra ficar Doente."
+				}
+			],
+			"effects": {
+				"Nimble": {
+					"name": "Ágil"
+				}
+			}
+		}
+	}
+}

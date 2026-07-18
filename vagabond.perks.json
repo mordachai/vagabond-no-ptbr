@@ -1,0 +1,461 @@
+{
+	"label": "Talentos",
+	"entries": {
+		"Abjurer": {
+			"name": "Abjurador",
+			"description": "<p><span class=\"fontstyle0\">Enquanto está Concentrado em Proteção com outra Criatura como Alvo, você também recebe os benefícios de Proteção.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Advancement": {
+			"name": "Avanço",
+			"description": "<p><span class=\"fontstyle0\">Aumente um de seus Atributos em 1, sem ultrapassar 7. Você pode escolher este Talento múltiplas vezes</span></p>"
+		},
+		"Akimbo Trigger": {
+			"name": "Gatilho Akimbo",
+			"description": "<p><span class=\"fontstyle0\">Atacar um Alvo Adjacente com um ataque À Distância não sofre Desvantagem no Teste, e você pode Mover-se até metade da sua Velocidade quando abre mão do seu Movimento para fazer um ataque.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Ambusher": {
+			"name": "Emboscador",
+			"description": "<p><span class=\"fontstyle0\">Você tem Vantagem em ataques para iniciar um Combate e contra Criaturas que ainda não agiram naquele Combate.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Animal Companion": {
+			"name": "Companheiro Animal",
+			"description": "<p><span class=\"fontstyle0\">Se você gastar um Turno domando e treinando uma Fera não hostil com DV não superior à metade do seu Nível, ela pode segui-lo como companheira. Você a controla comandando-a com sua Ação ou abrindo mão do seu Movimento. Caso contrário, ela ataca instintivamente seus Inimigos. Ela usa sua Dificuldade de Sobrevivência para Testes. Você só pode ter uma companheira dessas por vez.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Arcane Artisan": {
+			"name": "Artesão Arcano",
+			"description": "<p><span class=\"fontstyle0\">Quando você gasta um Turno para Fabricar, pode gastar Mana para complementar Materiais numa proporção de 5p por Mana gasta.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Archaeologist": {
+			"name": "Arqueólogo",
+			"description": "<p><span class=\"fontstyle0\">Testes e Resistências que você faz contra armadilhas têm Vantagem e, se você for submetido a uma Maldição, pode fazer uma Resistência de Vontade para romper instantaneamente o domínio da maldição sobre você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Assured Healer": {
+			"name": "Curandeiro Infalível",
+			"description": "<p><span class=\"fontstyle0\">As rolagens de cura de suas Magias explodem em um resultado de 1.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Athame": {
+			"name": "Athame",
+			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos com uma adaga, tornando-a seu athame até que realize este ritual novamente. Seu athame é uma Relíquia com o Poder Lealdade, e pode ser usado como Talismã.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Bookworm": {
+			"name": "Rato de Biblioteca",
+			"description": "<p><span class=\"fontstyle0\">Você ganha um Dado de Estudo extra quando Estuda (p. 19). Você pode escolher este Talento múltiplas vezes.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Botanical Mediciner": {
+			"name": "Herborista",
+			"description": "<p><span class=\"fontstyle0\">Você pode restaurar d6 PV a uma Criatura disposta durante uma Recuperação de Fôlego, se tiver ervas. Se fizer isso, também pode remover um Status do Aliado dentre Cego, Paralisado ou Doente. Essa Criatura não pode ser afetada por esta Habilidade novamente pelo resto do Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Briar Healer": {
+			"name": "Curandeiro dos Espinhos",
+			"description": "<p><span class=\"fontstyle0\">O Alvo da sua Magia Vida ganha um manto de espinhos etéreos enquanto você Concentra-se nele, dando-lhe +1 de Armadura e causando d6 a qualquer Criatura que o dane com um Ataque Corpo a Corpo.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Bully": {
+			"name": "Valentão",
+			"description": "<p><span class=\"fontstyle0\">Testes que você faz para Agarrar ou Empurrar Alvos menores que você têm Vantagem, e você pode usá-los como uma clava grande com a propriedade Briga que causa seu dano tanto ao Alvo quanto a si mesmo em um acerto. Seus ataques com eles contam como manutenção do agarrão.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Cardistry": {
+			"name": "Cardística",
+			"description": "<p><span class=\"fontstyle0\">Você pode usar um baralho de cartas como Talismã e pode fazer ataques com cartas sacadas de um baralho usando sua Perícia de Conjuração. O Baralho deve ser usado como uma Arma de Empunhadura 2M para isso. Ele causa d4, e tem as propriedades Sutileza e Arremessável. Cartas usadas em um ataque reaparecem magicamente no baralho.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Cat-Like Reflexes": {
+			"name": "Reflexos Felinos",
+			"description": "<p><span class=\"fontstyle0\">Você reduz pela metade qualquer dano de queda que sofrer e, enquanto está Caído, pode se levantar usando apenas 5 pés de Velocidade.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Check Hook": {
+			"name": "Gancho de Interceptação",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Rodada, você pode fazer um ataque com uma Arma de Briga que tenha Equipada se um Inimigo Adjacente Move-se ou Ataca (sem Ação).</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Chicanery": {
+			"name": "Chicana",
+			"description": "<p><span class=\"fontstyle0\">Se você falhar em um Teste, isso não alerta Criaturas sobre sua presença, nem avança Relógios de Progresso relevantes que estejam sendo monitorados.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Combat Medic": {
+			"name": "Médico de Combate",
+			"description": "<p><span class=\"fontstyle0\">Como uma Ação, você pode cuidar dos ferimentos de uma Criatura disposta. Isso remove o Status Doente, se ela o tiver, e ela recupera (d6 + seu Raciocínio) PV. Essa Criatura não pode ser afetada por esta Habilidade novamente pelo resto do Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Conjurer": {
+			"name": "Conjurador",
+			"description": "<p>Você pode usar a Ação de Conjurar para invocar um Servo, que é uma Criatura não-Humanoide que você derrotou anteriormente com DV igual ou inferior ao seu Nível, gastando Mana equivalente ao DV do Servo para isso. Você deve realizar um Ritual de 10 minutos para escolher qual Criatura será seu Servo antes de usar esta Ação.</p><p>As seguintes regras se aplicam ao seu Servo:</p><ul><li><p>Ele é um Aliado que obedece seus comandos, que você emite como uma Ação ou abrindo mão do seu Movimento.</p></li><li><p>Ele usa sua Perícia de Conjuração para Testes e Resistências.</p></li><li><p>Você deve se Concentrar no Servo, gastando 1 Mana por Turno enquanto ele estiver invocado. Caso contrário, o Servo é banido. Quando ele é reduzido a 0 PV ou se você invoca outro Servo, ele é banido.</p></li><li><p>Sempre que ele for banido, quaisquer Habilidades que terminariam com sua morte terminam.</p></li></ul>"
+		},
+		"Deft Hands": {
+			"name": "Mãos Ágeis",
+			"description": "<p><span class=\"fontstyle0\">Você pode abrir mão do seu Movimento para usar a Ação Usar.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Diplomat": {
+			"name": "Diplomata",
+			"description": "<p><span class=\"fontstyle0\">Você tem Vantagem em Testes de Liderança para negociar e parlamentar se não causou dano ao Alvo no último minuto.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Drunken Master": {
+			"name": "Mestre Bêbado",
+			"description": "<p><span class=\"fontstyle0\">Armas Rudimentares de Empunhadura 1M têm a propriedade Sutileza para você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Duelist": {
+			"name": "Duelista",
+			"description": "<p><span class=\"fontstyle0\">Enquanto estiver em Empunhadura Dupla (p. 72), você pode Mover-se até metade da sua Velocidade quando abre mão do seu Movimento para fazer um ataque, e você Esquiva de ataques com Vantagem se você e o atacante forem as únicas Criaturas Adjacentes um ao outro.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Endless Stamina": {
+			"name": "Vigor Inesgotável",
+			"description": "<p><span class=\"fontstyle0\">A Fadiga não o impede de usar a Ação Correr e, uma vez por dia, você pode remover 1 Fadiga durante uma Recuperação de Fôlego.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Extrovert": {
+			"name": "Extrovertido",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Dia, você ganha um Dado de Estudo se conhecer uma nova pessoa amigável.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Fallaway Reverse": {
+			"name": "Reviravolta Evasiva",
+			"description": "<p><span class=\"fontstyle0\">Se você tira Crítico ao Esquivar de um Ataque Corpo a Corpo, o atacante cai Caído.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Familiar": {
+			"name": "Familiar",
+			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos para invocar um familiar, um Aliado leal a você que você controla. O familiar pode ser qualquer Criatura Pequena com DV: 1. Ele usa sua Perícia de Conjuração para Testes e Resistências, e você pode Conjurar Magias usando o familiar como um conduto para sua Magia. Se fizer isso, pode entregar a Magia a partir do familiar como se ela tivesse se originado de você. O familiar é banido quando cai a 0 PV ou se você realizar este Ritual novamente para criar outro familiar.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Full Swing": {
+			"name": "Golpe Total",
+			"description": "<p><span class=\"fontstyle0\">Quando você faz um Teste de Ataque Corpo a Corpo e rola 10 acima da sua Dificuldade Corpo a Corpo, pode escolher empurrar o Alvo como se o tivesse Empurrado, se ele não for mais de um tamanho maior que você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Gish": {
+			"name": "Gish",
+			"description": "<p><span class=\"fontstyle0\">Você pode usar Armas como Talismãs para Conjurar e, quando Conjura com uma Entrega de Imbuir em uma Arma que tenha Equipada, pode fazer um ataque com a arma na mesma Ação.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			}
+		},
+		"Grim Harvest": {
+			"name": "Colheita Sombria",
+			"description": "<p><span class=\"fontstyle0\">Quando uma de suas Magias mata um Inimigo que não seja Artificial ou Morto-Vivo, você recupera PV igual ao dano da Magia.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Guardian Angel": {
+			"name": "Anjo da Guarda",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Rodada, se um de seus Aliados for Alvo de um Inimigo, você pode gastar 1 Sorte para fazer um ataque contra esse Inimigo. Se acertar, seu Aliado tem Vantagem em qualquer Resistência forçada por esse Inimigo neste Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Harmonic Resonance": {
+			"name": "Ressonância Harmônica",
+			"description": "<p><span class=\"fontstyle0\">Você pode usar um Instrumento Musical como Talismã. Ao fazê-lo, pode Conjurar com uma entrega de Aura ou Cone caso não pudesse de outra forma, e gasta 1 Mana a menos com entrega de Aura e Cone. Esta Conjuração ainda cria som.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Heavy Arms": {
+			"name": "Armamento Pesado",
+			"description": "<p><span class=\"fontstyle0\">O cavaleiro o deixou vigilante. Enquanto você empunhar uma arma em Empunhadura 2M, suas rolagens de dano explodem em 1. Para o propósito deste Talento, a Empunhadura de Punho conta como Empunhadura 2M.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Heightened Cognition": {
+			"name": "Cognição Aguçada",
+			"description": "<p><span class=\"fontstyle0\">Você pode gastar um Dado de Estudo para passar em um Teste de Detecção, Misticismo ou Sobrevivência que tenha falhado.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Heightened Intellect": {
+			"name": "Intelecto Aguçado",
+			"description": "<p><span class=\"fontstyle0\">Você pode gastar um Dado de Estudo para passar em um Teste de Arcanismo, Ofício ou Medicina que tenha falhado.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Heightened Magnetism": {
+			"name": "Magnetismo Aguçado",
+			"description": "<p><span class=\"fontstyle0\">Você pode gastar uma Sorte para passar em um Teste de Influência, Liderança ou Atuação que tenha falhado.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Ice Knife": {
+			"name": "Faca de Gelo",
+			"description": "<p><span class=\"fontstyle0\">Objetos de Gelo que você cria com Congelar duram até 1 minuto sem exigir Concentração.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Impersonator": {
+			"name": "Imitador",
+			"description": "<p><span class=\"fontstyle0\">Você pode imitar infalivelmente a voz de qualquer Humanoide que já tenha ouvido falar.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Infesting Burst": {
+			"name": "Explosão Infestante",
+			"description": "<p><span class=\"fontstyle0\">Quando você cria um Morto-Vivo com Erguer, pode escolher erguê-lo como um Boomer (p. 181).</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Infravision": {
+			"name": "Infravisão",
+			"description": "<p><span class=\"fontstyle0\">Você ganha Visão no Escuro (p. 9).</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Inspiring Presence": {
+			"name": "Presença Inspiradora",
+			"description": "<p><span class=\"fontstyle0\">Se algum de seus Aliados estiver Furioso, Enfeitiçado, Confuso ou Amedrontado por um efeito que termina com um Dado de Contagem, você pode usar sua Ação para tentar reanimá-lo e fazer um Teste de Liderança. Se passar, o Dado de Contagem daquele efeito diminui 1 tamanho.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Interceptor": {
+			"name": "Interceptador",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Rodada, você pode fazer um ataque fora do seu Turno contra um Inimigo Adjacente que começa a se Mover para fora do seu alcance.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Knife Juggler": {
+			"name": "Malabarista de Facas",
+			"description": "<p><span class=\"fontstyle0\">Você trata Armas Arremessáveis de Empunhadura 1M como 0 de Espaço para ocupar seus Espaços de Item, e pode sacar uma como parte de um ataque com ela.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Limit Break": {
+			"name": "Ruptura de Limite",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Combate, quando você cai abaixo de metade dos PV e não está Fatigado, pode usar outra Ação em seu próximo Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Mage Slayer": {
+			"name": "Matador de Magos",
+			"description": "<p><span class=\"fontstyle0\">Quando você causa dano a uma Criatura Concentrada, as rolagens de dano podem explodir e, se o resultado do seu d20 no Teste for 10 ou mais acima da sua Dificuldade, a Concentração termina.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Magical Secret": {
+			"name": "Segredo Mágico",
+			"description": "<p><span class=\"fontstyle0\">Escolha uma Magia. Você aprende a Magia e pode Conjurá-la usando uma Perícia à sua escolha. Você pode escolher este Talento múltiplas vezes.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"effects": {
+				"Spellcaster": {
+					"name": "Conjurador"
+				}
+			}
+		},
+		"Marksmanship": {
+			"name": "Pontaria",
+			"description": "<p><span class=\"fontstyle0\">Os dados de dano de seus ataques com Armas À Distância são um tamanho maiores.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"effects": {
+				"+Die Size": {
+					"name": "+Tamanho de Dado"
+				}
+			}
+		},
+		"Master Artisan": {
+			"name": "Mestre Artesão",
+			"description": "<p><span class=\"fontstyle0\">Quando você gasta um Turno para Fabricar, isso conta como dois Turnos de trabalho para fazer o Item, em vez de um.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Master Breaker": {
+			"name": "Mestre Arrombador",
+			"description": "<p><span class=\"fontstyle0\">Se você falhar em um Teste de Sutileza para arrombar uma fechadura, sua gazua não se quebra e você faz Resistências contra armadilhas que ela acionar com Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Master Chef": {
+			"name": "Mestre Cozinheiro",
+			"description": "<p><span class=\"fontstyle0\">Durante uma Cena em que você tenha utensílios de cozinha, pode cozinhar refeições usando 5p de Materiais. Fazer isso produz d6+1 rações que restauram d6 PV a quem comer uma como parte de uma Recuperação de Fôlego. Elas funcionam como rações normais após um Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Medium": {
+			"name": "Médium",
+			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos para fazer até 3 perguntas ao Mestre, que só podem ser respondidas com \"sim\" ou \"não\". Os Destinos são a fonte da informação, e responderão a essas perguntas com sinceridade (se possível). Depois disso, você não pode realizar este Ritual novamente até completar uma Missão.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Mesmer": {
+			"name": "Mesmerista",
+			"description": "<p><span class=\"fontstyle0\">Se você passar em um Teste de Conjuração por 10 ou mais para causar que um Alvo fique Enfeitiçado ou Amedrontado, também pode fazê-lo agir de uma das seguintes formas à sua escolha em seu próximo Turno: • Mover-se até metade de sua Velocidade. • Atacar um Alvo (pode atacar a si mesmo). • Largar ou pegar um Item.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Metamagic": {
+			"name": "Metamagia",
+			"description": "<p><span class=\"fontstyle0\">A Mana Máxima que você pode gastar em uma Magia aumenta em 1. Você pode escolher este Talento múltiplas vezes.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"effects": {
+				"+ Mana Casting": {
+					"name": "+ Mana de Conjuração"
+				}
+			}
+		},
+		"Mithridatism": {
+			"name": "Mitridatismo",
+			"description": "<p><span class=\"fontstyle0\">Suas Resistências contra Doente têm Vantagem, e você reduz o dano baseado em Veneno que sofrer em 2 por dado do efeito.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Moonlight Sonata": {
+			"name": "Sonata ao Luar",
+			"description": "<p><span class=\"fontstyle0\">Você pode fazer com que a luz emitida por suas Magias seja Luar.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Mounted Combatant": {
+			"name": "Combatente Montado",
+			"description": "<p><span class=\"fontstyle0\">Qualquer Teste que você fizer para evitar cair de uma montaria tem Vantagem, e você pode empunhar Armas de Empunhadura Versátil como 1M enquanto monta e ainda obter os benefícios de empunhá-las com as duas mãos.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Necromancer": {
+			"name": "Necromante",
+			"description": "<p><span class=\"fontstyle0\">Quando você se Concentra em Erguer, pode escolher um Morto-Vivo que controla. O Alvo recupera PV igual a (metade do seu Nível, arredondado para cima).</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"New Training": {
+			"name": "Novo Treinamento",
+			"description": "<p><span class=\"fontstyle0\">Você ganha um Treinamento. Você pode escolher este Talento múltiplas vezes.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Owl-Blasted": {
+			"name": "Tocado pela Coruja",
+			"description": "<p><span class=\"fontstyle0\">Se você gastar Mana para tentar causar que uma Criatura fique Enfeitiçada e o Teste falhar, você recupera d4 Mana que foi gasta na Conjuração.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Pack Mule": {
+			"name": "Burro de Carga",
+			"description": "<p><span class=\"fontstyle0\">Você ganha +2 Espaços de Item. Você pode escolher este Talento múltiplas vezes.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"effects": {
+				"+2 Inv. Slots": {
+					"name": "+2 Espaços de Inv."
+				}
+			}
+		},
+		"Padfoot": {
+			"name": "Passo Silencioso",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Dia, você ganha um Dado de Estudo quando Viaja 6 milhas ou mais.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Panache": {
+			"name": "Panache",
+			"description": "<p><span class=\"fontstyle0\">Se você acertar um Inimigo Adjacente com um ataque, a próxima Resistência que você fizer contra um ataque antes do início do seu próximo Turno tem Vantagem.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Patience": {
+			"name": "Paciência",
+			"description": "<p><span class=\"fontstyle0\">Quando você Segura para Atacar, sua próxima Resistência de Vigor para Bloquear antes do seu próximo Turno tem Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Peerless Athlete": {
+			"name": "Atleta Incomparável",
+			"description": "<p><span class=\"fontstyle0\">Você pode se levantar de Caído no início do seu Turno (sem Ação), e pode Correr e Pular na mesma Ação.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Perfect Parry": {
+			"name": "Aparação Perfeita",
+			"description": "<p><span class=\"fontstyle0\">Se você tira Crítico ao Bloquear um ataque, o atacante fica Vulnerável até o fim do seu próximo Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Poisoner": {
+			"name": "Envenenador",
+			"description": "<p><span class=\"fontstyle0\">Você pode untar sua Arma Equipada com um veneno quando ataca com ela.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Protector": {
+			"name": "Protetor",
+			"description": "<p><span class=\"fontstyle0\">Você pode Bloquear em nome de um Aliado que falhar na Resistência contra o ataque de um Inimigo Adjacente a você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Provoker": {
+			"name": "Provocador",
+			"description": "<p><span class=\"fontstyle0\">Você pode usar sua Ação para intimidar ou de outra forma provocar um Inimigo que possa vê-lo ou ouvi-lo. Ao fazê-lo, seus Aliados fazem todas as Resistências provocadas pelos Ataques daquele Inimigo com Vantagem até o início do próximo Turno do seu Grupo.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Rally": {
+			"name": "Arregimentar",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Turno, você pode usar uma Ação para reforçar o moral de seus Aliados, concedendo-lhes 1 Sorte e encerrando um Status que os afete dentre Enfeitiçado ou Amedrontado.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Reanimator": {
+			"name": "Reanimador",
+			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos com o cadáver de uma Criatura que não seja Artificial ou Morto-Vivo, e que tenha DV não superior ao seu Nível. Fazer isso a ergue como um Morto-Vivo, conforme a Magia Erguer. Ela fica sob seu controle por um Turno, ou até que você realize este Ritual novamente. Ela usa sua Perícia de Arcanismo, Ofício ou Misticismo para Testes e Resistências.</span></p>"
+		},
+		"Resourceful": {
+			"name": "Engenhoso",
+			"description": "<p><span class=\"fontstyle0\">Você pode gastar 1 Sorte para lembrar de ter empacotado um Item em seu inventário com valor de até 50p. Ele não \"aparece\", ele sempre esteve lá.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Sage": {
+			"name": "Sábio",
+			"description": "<p><span class=\"fontstyle0\">Como uma Ação, você pode conceder a um Aliado um de seus Dados de Estudo se ele puder vê-lo ou ouvi-lo.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Salbenist": {
+			"name": "Unguentista",
+			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos com uma Arma e um óleo. Ao concluir o Ritual, você ganha os seguintes benefícios até realizá-lo novamente:</span></p><p><span class=\"fontstyle0\">Você pode atacar com ela usando Ofício.</span></p><p><span class=\"fontstyle0\">Você pode fazer com que o óleo absorvido a revista em seu Turno (sem Ação). Isso não o consome, e ele permanece revestindo-a até que você o dispense, ela saia de sua mão, ou até que seja revestida com outro óleo.</span></p>"
+		},
+		"Scout": {
+			"name": "Batedor",
+			"description": "<p><span class=\"fontstyle0\">Você não pode se perder durante uma Viagem e, se escolher Caçar, pode rolar duas vezes pela caça descoberta e usar a rolagem de sua escolha.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Scrapper's Delight": {
+			"name": "Deleite do Sucateiro",
+			"description": "<p><span class=\"fontstyle0\">Você pode realizar um Ritual de 10 minutos para desmontar magicamente um Item destravado que você toque durante todo o ritual. O Item deve ser não-mágico, deve ter valor de ao menos 5p, e pode ocupar no máximo 2 Espaços. O Item se torna matéria-prima com valor igual a 5p por Espaço que ocupava anteriormente.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Second Wind": {
+			"name": "Fôlego Renovado",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Combate, você pode usar sua Ação ou abrir mão do seu Movimento para recuperar (d6 + Força) PV.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			}
+		},
+		"Secret of Mana": {
+			"name": "Segredo da Mana",
+			"description": "<p><span class=\"fontstyle0\">Você ganha 1 Mana por Nível que tiver, e ganha 1 Mana cada vez que sobe de Nível. Você pode escolher este Talento múltiplas vezes.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"effects": {
+				"+Mana": {
+					"name": "+Mana"
+				}
+			}
+		},
+		"Sentinel": {
+			"name": "Sentinela",
+			"description": "<p><span class=\"fontstyle0\">Inimigos que você acertar com um Ataque Corpo a Corpo não podem se Mover pelo resto do Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Shapechanger": {
+			"name": "Metamorfo",
+			"description": "<p><span class=\"fontstyle0\">Quando você é Alvo da sua Magia Polimorfizar, usa sua Perícia de Conjuração para as Ações dela, e não custa Mana se Concentrar nela, conforme a descrição da Magia.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Sharpshooter": {
+			"name": "Atirador de Elite",
+			"description": "<p><span class=\"fontstyle0\">Você pode abrir mão do seu Movimento para reduzir em 1 o resultado necessário para tirar Crítico em um ataque À Distância neste Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Silver Tongued": {
+			"name": "Língua de Prata",
+			"description": "<p>O resultado necessário para você tirar Crítico em Testes de Influência feitos para enganar, intimidar ou persuadir outros é reduzido em 1. Você pode escolher este Talento até 4 vezes.</p>"
+		},
+		"Situational Awareness": {
+			"name": "Consciência Situacional",
+			"description": "<p><span class=\"fontstyle0\">Você tem Vantagem em Testes contra surpresa, e ser flanqueado não causa Desvantagem em suas Resistências.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Sixth Sense": {
+			"name": "Sexto Sentido",
+			"description": "<p><span class=\"fontstyle0\">Você ignora o Status Cego para Testes e Resistências baseados em visão.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Skirmisher": {
+			"name": "Escaramuçador",
+			"description": "<p><span class=\"fontstyle0\">Enquanto estiver com Armadura Leve ou nenhuma armadura Equipada, você tem um bônus de 5 pés na Velocidade.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Smooth Talker": {
+			"name": "Lábia Fácil",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Cena, se você falhar em um Teste de Influência feito para interagir com uma Criatura que o compreenda, pode rolar novamente.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Snareroot Trapper": {
+			"name": "Armadilheiro de Raízes",
+			"description": "<p><span class=\"fontstyle0\">Você pode Conjurar Brotar com uma entrega de Glifo sem Mana adicional e sem se Concentrar. Você pode ter apenas uma Conjuração de Brotar ativa desta forma.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Solar Flare": {
+			"name": "Clarão Solar",
+			"description": "<p><span class=\"fontstyle0\">Você pode fazer com que a luz emitida pelas Magias que Conjura seja Luz Solar.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Spin-to-Win": {
+			"name": "Giro Fatal",
+			"description": "<p><span class=\"fontstyle0\">Quando você ataca com uma Arma Corpo a Corpo com Cutilar, pode causar metade do seu dano a quaisquer Alvos viáveis, em vez de apenas uma Criatura extra.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Steady Aim": {
+			"name": "Mira Firme",
+			"description": "<p><span class=\"fontstyle0\">Você ignora a Desvantagem em ataques com Armas À Distância se puder ver o Alvo, e tem Vantagem em Testes À Distância contra Alvos que não se moveram desde o fim do seu último Turno.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Storm Raiser": {
+			"name": "Convocador de Tempestades",
+			"description": "<p><span class=\"fontstyle0\">Uma vez por Dia, você pode realizar um Ritual de 10 minutos para mudar o clima na milha ao redor por Cd4 Turnos. Essa mudança é forte o bastante para causar ou encerrar tempestades fortes.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Strategist": {
+			"name": "Estrategista",
+			"description": "<p><span class=\"fontstyle0\">Seus ataques contra Alvos Adjacentes a seus Aliados têm Vantagem se o Aliado não estiver Incapacitado.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Tactician": {
+			"name": "Tático",
+			"description": "<p><span class=\"fontstyle0\">Você pode usar sua Ação ou abrir mão do seu Movimento para emitir uma ordem, escolhendo da lista a seguir. Os benefícios de uma ordem que você emitir duram pelo Combate ou até que emita outra ordem: <br /></span></p><p><span class=\"fontstyle0\"><strong>Atacar:</strong> Declare um Inimigo Alvo. Testes de Ataque e Conjuração contra ele ignoram Desvantagem. <br /><strong>Defender:</strong> Você e seus Aliados não podem ter Desvantagem em Resistências contra ataques. <br /><strong>Recuar:</strong> Seus Aliados que usarem sua Ação para Correr e terminarem o Turno mais distantes de quaisquer Inimigos do que começaram têm Vantagem em Resistências contra ataques naquela Rodada.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Telepath": {
+			"name": "Telepata",
+			"description": "<p><span class=\"fontstyle0\">Você tem Telepatia (Longe) enquanto se Concentra nesta Habilidade.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Tough": {
+			"name": "Resistente",
+			"description": "<p><span class=\"fontstyle0\">Seu PV Máximo aumenta em uma quantidade igual ao seu Nível atual, e aumenta 1 ponto adicional cada vez que você sobe de Nível. Você pode escolher este Talento múltiplas vezes.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>",
+			"effects": {
+				"Max Health Increase": {
+					"name": "Aumento de PV Máximo"
+				}
+			}
+		},
+		"Transvection": {
+			"name": "Transvecção",
+			"description": "<p><span class=\"fontstyle0\">Se você Conjura Levitar em um Item de 2 Espaços ou menos, ele ganha Velocidade de Voo de 30' e você não precisa se Concentrar nessa Conjuração. Ele mantém essa Velocidade até que você use esta Habilidade em outro Item.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Treads Lightly": {
+			"name": "Passos Leves",
+			"description": "<p><span class=\"fontstyle0\">Sua Velocidade não é impedida por Terreno Difícil não-mágico que não seja água ou uma superfície vertical, e você não aciona armadilhas ao pisar nelas.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Unfailing Guidance": {
+			"name": "Orientação Infalível",
+			"description": "<p><span class=\"fontstyle0\">Se o Alvo da sua Magia Guiar forçar um de seus Aliados a fazer uma Resistência com Desvantagem, a Desvantagem é ignorada se o Aliado puder vê-lo.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Ungarmax": {
+			"name": "Ungarmax",
+			"description": "<p><span class=\"fontstyle0\">Aliados que você fizer ficarem Furiosos com Apoplexia ganham um bônus de +1 em cada dado de dano usado em seus ataques.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Vehement Magic": {
+			"name": "Magia Veemente",
+			"description": "<p><span class=\"fontstyle0\">As rolagens de dano das Magias que você Conjura explodem em um resultado de 1.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Vigilance": {
+			"name": "Vigilância",
+			"description": "<p><span class=\"fontstyle0\">Você não precisa dormir para obter os benefícios de um Descanso, mas não pode remover Fadiga sem um Descanso normal.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Vituperation": {
+			"name": "Vituperação",
+			"description": "<p><span class=\"fontstyle0\">Você pode usar sua Ação ou abrir mão do seu Movimento para vituperar um Inimigo, e fazer um Teste de Influência com uma penalidade igual ao Moral do Alvo. Se passar, esse Inimigo fica Vulnerável até seu próximo Turno ou até causar dano. Criaturas sem Moral não podem ser afetadas por esta Habilidade.</span></p>"
+		},
+		"Wander the Wooded": {
+			"name": "Andarilho do Bosque",
+			"description": "<p><span class=\"fontstyle0\">Terreno Difícil natural não impede sua Velocidade, e Resistências que você fizer contra perigos naturais (como avalanches ou calor extremo) têm Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Water Walker": {
+			"name": "Caminhante das Águas",
+			"description": "<p><span class=\"fontstyle0\">Você pode caminhar sobre a água.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		},
+		"Witchsight": {
+			"name": "Visão de Bruxa",
+			"description": "<p><span class=\"fontstyle0\">Enquanto se Concentra nesta Habilidade, você faz Testes contra ilusões com Vantagem e pode ver Criaturas Invisíveis, se não estiver Cego por outro motivo.</span><br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+		}
+	}
+}

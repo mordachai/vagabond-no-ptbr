@@ -1,0 +1,17 @@
+{
+	"label": "Armaduras",
+	"entries": {
+		"Light Armor": {
+			"name": "Armadura Leve",
+			"description": "<p><span class=\"fontstyle0\">Couro, pele, acolchoada.</span></p><h4><span class=\"fontstyle0\">Equipar Armadura</span></h4><p><span class=\"fontstyle2\">Equipar ou desequipar uma Armadura requer uma Cena (10 minutos) para ser concluído.</span> </p>"
+		},
+		"Medium Armor": {
+			"name": "Armadura Média",
+			"description": "<p>Cota de malha, escamas</p><h4><span class=\"fontstyle0\">Equipar Armadura</span></h4><p><span class=\"fontstyle2\">Equipar ou desequipar uma Armadura requer uma Cena (10 minutos) para ser concluído.</span> </p>"
+		},
+		"Heavy Armor": {
+			"name": "Armadura Pesada",
+			"description": "<p><span class=\"fontstyle0\">Placas, lamelar.</span> </p><h4><span class=\"fontstyle0\">Equipar Armadura</span></h4><p><span class=\"fontstyle2\">Equipar ou desequipar uma Armadura requer uma Cena (10 minutos) para ser concluído.</span> </p>"
+		}
+	}
+}

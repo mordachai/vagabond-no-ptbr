@@ -1,0 +1,837 @@
+{
+	"label": "Relíquias",
+	"folders": {
+		"Relics Powers": "Poderes de Relíquias"
+	},
+	"entries": {
+		"Movement - Jumping III": {
+			"name": "Movimento - Salto III",
+			"description": "<p>Distância de salto horizontal de quem o veste é multiplicada por 4.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Movement - Swiftness II": {
+			"name": "Movimento - Velocidade II",
+			"effects": {
+				"+10 Speed": {
+					"name": "+10 Velocidade"
+				}
+			},
+			"description": "<p>Quem o veste ganha um bônus de +10 pés à Velocidade.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Skyhowel": {
+			"name": "Skyhowel",
+			"description": "<p><span class=\"fontstyle0\">Chicote de correntes que crepita com arcos de raio ao ser manejado. Possui os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Arma (+1):</span><span class=\"fontstyle0\"> Causa +1 de dano extra.</span></li><li><span class=\"fontstyle2\">Língua de Choque:</span><span class=\"fontstyle0\"> Seu dano é de Choque.</span></li><li><span class=\"fontstyle2\">Rachar o Céu:</span><span class=\"fontstyle0\"> (1/Dia) Golpeia o ar, fazendo com que todos os inimigos Próximos que não sejam Imunes a Choque fiquem Atordoados (d4 Rodadas).</span></li></ul>",
+			"lore": "Chicote de Correntes Relíquia"
+		},
+		"Bonus - Armor +2": {
+			"name": "Bônus - Armadura +2",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Bônus de +2 à Armadura.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Senses - True-Seeing": {
+			"name": "Sentidos - Visão Verdadeira",
+			"description": "<p>Concede Visão Total (Vinculado).</p>",
+			"lore": "Concede um Sentido enquanto Equipado."
+		},
+		"Utility - After-Image II": {
+			"name": "Utilidade - Pós-Imagem II",
+			"description": "<p>Quem o veste pode projetar um duplicado ilusório até Longe (Vinculado).</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Movement - Swiftness I": {
+			"name": "Movimento - Velocidade I",
+			"effects": {
+				"+5 Speed": {
+					"name": "+5 Velocidade"
+				}
+			},
+			"description": "<p>Quem o veste ganha um bônus de +5 pés à Velocidade.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Utility - Burning III": {
+			"name": "Utilidade - Queimadura III",
+			"description": "<p>Queimando (Cd8) ao acertar.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Cloak of Invisibility": {
+			"name": "Manto da Invisibilidade",
+			"description": "<p><span class=\"fontstyle0\">Uma capa cintilante que reflete a luz de forma anômala. Quem a veste e está Vinculado tem o seguinte Poder:</span></p><ul><li><span class=\"fontstyle2\">Invisibilidade I:</span><span class=\"fontstyle0\"> Usa sua Ação ou abre mão de seu Movimento para ficar Invisível até realizar uma Ação.</span></li></ul>",
+			"lore": "Armadura Leve Relíquia (Vinculado)"
+		},
+		"Protection - Niche": {
+			"name": "Proteção - Nicho",
+			"description": "<p>Aplica-se a Criaturas extremamente específicas, como Trolls (não todos os gigantes).</p>",
+			"lore": "Quem o veste não pode ter Desvantagem em Resistências contra o Tipo de Criatura."
+		},
+		"Utility - Darkness I": {
+			"name": "Utilidade - Escuridão I",
+			"description": "<p>Escurece luz não mágica dentro de Adjacente enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Utility - Lifesteal I": {
+			"name": "Utilidade - Roubo de Vida I",
+			"description": "<p>Matar um inimigo com ele cura quem o empunha em d8 PV.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade"
+		},
+		"Senses - Telepathy": {
+			"name": "Sentidos - Telepatia",
+			"description": "<p>Concede Telepatia (Vinculado).</p>",
+			"lore": "Concede um Sentido enquanto Equipado."
+		},
+		"Movement - Waterwalk": {
+			"name": "Movimento - Caminhar na Água",
+			"description": "<p>Quem o veste pode andar sobre líquidos.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Utility - Holding (Rank)": {
+			"name": "Utilidade - Contenção (Nível)",
+			"description": "<p>Concede Espaços de Item bônus (o Valor é por espaço bônus).</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Movement - Clinging": {
+			"name": "Movimento - Aderência",
+			"description": "<p>Quem o veste ganha Agarrar-se.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Resistance - Bravery": {
+			"name": "Resistência - Bravura",
+			"description": "<p>Concede Vantagem em Resistências contra o Status Amedrontado.</p>",
+			"lore": "Concede Vantagem em Resistências situacionais."
+		},
+		"Utility - Radiant II": {
+			"name": "Utilidade - Radiante II",
+			"description": "<p>Emite Luz Solar até Próximo enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Fabled - Vicious": {
+			"name": "Lendário - Violento",
+			"description": "<p>Em um Crítico, o Alvo recebe dano extra igual ao dobro de seus DV.</p>",
+			"lore": "Propriedades únicas de lenda e mito. A categoria é sempre Lendária."
+		},
+		"Movement - Flying": {
+			"name": "Movimento - Voo",
+			"description": "<p>Quem o veste ganha Voar.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Ring of Fire Resistance": {
+			"name": "Anel de Resistência a Fogo",
+			"description": "<p><span class=\"fontstyle0\">Este anel de rubi vermelho possui os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Imune a Chamas:</span><span class=\"fontstyle0\"> Quem o veste não sofre dano de Fogo não mágico.</span></li><li><span class=\"fontstyle2\">Resistência a Fogo:</span><span class=\"fontstyle0\"> Quem o veste tem Vantagem em Resistências contra receber dano de Fogo, e reduz o dano de Fogo recebido em 1 por dado de dano rolado (mínimo 1 de dano).</span></li></ul>",
+			"lore": "Anel Relíquia"
+		},
+		"Fabled - Benediction": {
+			"name": "Lendário - Bênção",
+			"description": "<p>É imediatamente revivido ao morrer, voltando a 0 PV, uma vez por semana.</p>",
+			"lore": "Propriedades únicas de lenda e mito. A categoria é sempre Lendária."
+		},
+		"Utility - Manasteal III": {
+			"name": "Utilidade - Roubo de Mana III",
+			"description": "<p>Matar um inimigo com ele restaura 3d4 de Mana para quem o empunha e está Vinculado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Undertow": {
+			"name": "Correnteza",
+			"description": "<p><span class=\"fontstyle0\">Tridente ao qual é preciso estar Vinculado para acessar seus Poderes, que são os seguintes:</span></p><ul><li><span class=\"fontstyle2\">Arma (+3):</span><span class=\"fontstyle0\"> Causa +3 de dano extra.</span></li><li><span class=\"fontstyle2\">Pulmão Aquático:</span><span class=\"fontstyle0\"> Pode respirar embaixo d'água.</span></li><li><span class=\"fontstyle2\">Comando dos Peixes:</span><span class=\"fontstyle0\"> (3 cargas) Você pode ter como Alvo uma Fera com Velocidade de Nado e gastar 1 carga para tentar deixá-la Enfeitiçada por 1 minuto, dando a você o controle dela.</span></li><li><span class=\"fontstyle2\">Embaixador Marinho:</span><span class=\"fontstyle0\"> Pode falar com Feras com Velocidade de Nado.</span></li><li><span class=\"fontstyle2\">Espaço Seguro:</span><span class=\"fontstyle0\"> Cria uma barreira impenetrável até Adjacente. Esta barreira tem 36 PV, recuperados a cada dia. A barreira ignora os resultados das rolagens de dano e, em vez disso, recebe apenas 1 dano por dado usado no dano. Enquanto a barreira tiver PV, a área dentro dela é segura, confortável, nada pode entrar ou sair da barreira, e nada dentro dela pode ser afetado por ataques ou magia vindos de fora. Ação para ativar ou desativar.</span></li><li><span class=\"fontstyle2\">Cruel:</span><span class=\"fontstyle0\"> Em um Ataque Crítico, o Alvo recebe dano extra igual a (2 × seus DV).</span></li><li><span class=\"fontstyle2\">Alerta:</span><span class=\"fontstyle0\"> Você não pode ser surpreendido enquanto consciente, e é despertado se estiver dormindo caso haja Inimigos dentro de Próximo.</span></li></ul>",
+			"lore": "Tridente Relíquia Lendário (Vinculado)"
+		},
+		"Elven Chain": {
+			"name": "Cota Élfica",
+			"description": "<p><span class=\"fontstyle0\">Armadura de Malha de mithral que, enquanto Equipada, concede a quem a veste o seguinte Poder:</span></p><ul><li><span class=\"fontstyle2\">Armadura (+1):</span><span class=\"fontstyle0\"> Concede um bônus de +1 à Armadura.</span></li></ul>",
+			"lore": "Armadura Média Relíquia"
+		},
+		"Cursed - Vulnerability -3": {
+			"name": "Amaldiçoado - Vulnerabilidade -3",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Penalidade de -3 à Armadura.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Bonus - Trinket +1": {
+			"name": "Bônus - Talismã +1",
+			"effects": {
+				"+1 Spell Dmg": {
+					"name": "+1 Dano de Magia"
+				}
+			},
+			"description": "<p>Bônus de +1 ao dano de Magia.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Movement - Blinking": {
+			"name": "Movimento - Lampejo",
+			"description": "<p>Quem o veste está sob os efeitos da Magia Lampejo.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Bag of Holding": {
+			"name": "Bolsa de Buracos",
+			"description": "<h3><span class=\"fontstyle0\">BOLSA RELÍQUIA</span></h3><p><span class=\"fontstyle0\"><br />Uma bolsa que contém sua própria dimensão de bolso, concedendo o seguinte Poder:</span></p><ul><li><span class=\"fontstyle2\"><strong>Armazenamento V:</strong></span><span class=\"fontstyle0\"> Ocupa 1 Espaço de Inventário, mas pode guardar 5 Espaços de Itens sem contar contra os Espaços de Inventário do portador.</span></li></ul>"
+		},
+		"Boots of the Spider": {
+			"name": "Botas da Aranha",
+			"description": "<p><span class=\"fontstyle0\">As botas têm os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Aderência:</span><span class=\"fontstyle0\"> Quem as veste tem Agarrar-se.</span></li><li><span class=\"fontstyle2\">Andar em Teias:</span><span class=\"fontstyle0\"> Quem as veste ignora Terreno Difícil feito de teias e não pode ser Imobilizado por teias e filamentos.</span></li></ul>",
+			"lore": "Botas Relíquia"
+		},
+		"Utility - Manasteal II": {
+			"name": "Utilidade - Roubo de Mana II",
+			"description": "<p>Matar um inimigo com ele restaura 2d4 de Mana para quem o empunha e está Vinculado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Protection - Specific": {
+			"name": "Proteção - Específica",
+			"description": "<p>Aplica-se a um subtipo de Criatura, como gigantes (não todos os Criptídeos).</p>",
+			"lore": "Quem o veste não pode ter Desvantagem em Resistências contra o Tipo de Criatura."
+		},
+		"Bonus - Protection +3": {
+			"name": "Bônus - Proteção +3",
+			"effects": {
+				"Protection +3": {
+					"name": "Proteção +3"
+				}
+			},
+			"description": "<p>Bônus de +3 às Resistências.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Cloak of Displacement": {
+			"name": "Manto de Deslocamento",
+			"description": "<p><span class=\"fontstyle0\">Casaco feito da pele de um omlarcat. Quem o veste tem o seguinte Poder:</span></p><ul><li><span class=\"fontstyle2\">Deslocamento:</span><span class=\"fontstyle0\"> Ataques baseados em visão contra essa Criatura são feitos como se o atacante estivesse Vulnerável.</span></li></ul>",
+			"lore": "Armadura Leve Relíquia"
+		},
+		"Bonus - Weapon +3": {
+			"name": "Bônus - Arma +3",
+			"effects": {
+				"+3 Attack Dmg": {
+					"name": "+3 Dano de Ataque"
+				}
+			},
+			"description": "<p>Bônus de +3 ao dano de Ataque.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Senses - Nightvision": {
+			"name": "Sentidos - Visão Noturna",
+			"description": "<p>Concede Visão no Escuro.</p>",
+			"lore": "Concede um Sentido enquanto Equipado."
+		},
+		"Broom of Flying": {
+			"name": "Vassoura Voadora",
+			"description": "<p><span class=\"fontstyle0\">Uma vassoura animada com Velocidade de Voo de 30'. Obedece aos comandos da Criatura Vinculada a ela.</span></p>",
+			"lore": "Vassoura Relíquia (Vinculado)"
+		},
+		"Bane - General": {
+			"name": "Flagelo - Geral",
+			"description": "<p>Aplica-se a um Tipo de Criatura inteiro, como Criptídeos (não apenas gigantes).</p>",
+			"lore": "Adiciona um dado de dano extra baseado no Tipo de Criatura."
+		},
+		"Utility - Lifesteal III": {
+			"name": "Utilidade - Roubo de Vida III",
+			"description": "<p>Matar um inimigo com ele cura quem o empunha em 3d8 PV.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade"
+		},
+		"Armor of Vulnerability": {
+			"name": "Armadura da Vulnerabilidade",
+			"description": "<p><span class=\"fontstyle0\">Armadura Amaldiçoada que não pode ser desvinculada exceto por poderes capazes de remover maldições. Ela carrega a seguinte Maldição:</span></p><ul><li><span class=\"fontstyle2\">Vulnerabilidade (Armadura):</span><span class=\"fontstyle0\"> Não concede sua Armadura e, em vez disso, aumenta o dano de Ataque recebido pelo número indicado.</span></li></ul><p><span class=\"fontstyle0\">Qualquer tentativa de identificá-la revela apenas que se trata de uma Armadura Relíquia com o \"bônus\" oposto.</span></p>",
+			"lore": "Armadura Relíquia Amaldiçoada (Vinculado)"
+		},
+		"Cursed - Vulnerability -2": {
+			"name": "Amaldiçoado - Vulnerabilidade -2",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Penalidade de -2 à Armadura.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Voidedge": {
+			"name": "Fio do Vazio",
+			"description": "<p><span class=\"fontstyle0\">Espada grande à qual uma Criatura deve se Vincular para acessar seus Poderes, que são os seguintes:</span></p><ul><li><span class=\"fontstyle2\">Arma (+3):</span><span class=\"fontstyle0\"> Causa +3 de dano extra.</span></li><li><span class=\"fontstyle2\">Ímpeto:</span><span class=\"fontstyle0\"> (1/Dia) Por 1 minuto, a Velocidade de quem a empunha é dobrada, ganha Vantagem em Resistências de Reflexo, e pode realizar uma segunda Ação a cada Rodada.</span></li><li><span class=\"fontstyle2\">Roubo de Vida:</span><span class=\"fontstyle0\"> Matar um inimigo com ela cura quem a empunha em 4 (d8) PV. Se o inimigo morto for uma Criatura Artificial ou Morto-Vivo, em vez disso causa 4 (d8) de dano a quem a empunha.</span></li><li><span class=\"fontstyle2\">Determinação:</span><span class=\"fontstyle0\"> Quem a empunha é Imune a Enfeitiçado e Amedrontado.</span></li><li><span class=\"fontstyle2\">Sente Vida:</span><span class=\"fontstyle0\"> Detecta Criaturas vivas de Tamanho Pequeno ou maior dentro de Longe.</span></li><li><span class=\"fontstyle2\">Devoradora de Almas:</span><span class=\"fontstyle0\"> Devora a alma dos inimigos que mata. Aqueles que têm a alma devorada não podem ser ressuscitados, a menos que um desejo seja concedido para isso.</span></li></ul>",
+			"lore": "Espada Grande Relíquia Lendária (Vinculado)"
+		},
+		"Phoenix Down": {
+			"name": "Pena de Fênix",
+			"description": "<p><span class=\"fontstyle0\">Este item pode ser colocado sobre o cadáver de uma Criatura recém-falecida para trazê-la de volta à vida com metade dos PV. A Pena de Fênix é consumida nesse processo.</span></p><p><span class=\"fontstyle2\"><strong>Material:</strong></span><span class=\"fontstyle0\"> 50o em penas de fênix</span></p><ul><li><span class=\"fontstyle2\">Ressurreição:</span><span class=\"fontstyle0\"> (um uso)</span></li></ul>",
+			"lore": "Peles Relíquia (Consumível)"
+		},
+		"Utility - Moonlit II": {
+			"name": "Utilidade - Luar II",
+			"description": "<p>Emite Luar até Próximo enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Utility - Burning I": {
+			"name": "Utilidade - Queimadura I",
+			"description": "<p>Queimando (Cd4) ao acertar.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Ace - Long": {
+			"name": "Ás - Longa",
+			"description": "<p>Seu Alcance é 10 pés a mais, em vez de 5 pés a mais.</p>",
+			"lore": "Aprimora uma Propriedade de Arma."
+		},
+		"Movement - Jumping II": {
+			"name": "Movimento - Salto II",
+			"description": "<p>Distância de salto horizontal de quem o veste é multiplicada por 3.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Bonus - Weapon +1": {
+			"name": "Bônus - Arma +1",
+			"effects": {
+				"+1 Attack Dmg": {
+					"name": "+1 Dano de Ataque"
+				}
+			},
+			"description": "<p>Bônus de +1 ao dano de Ataque.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Utility - Aqua Lung": {
+			"name": "Utilidade - Pulmão Aquático",
+			"description": "<p>Quem o veste pode respirar embaixo d'água.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Philosopher's Stone": {
+			"name": "Pedra Filosofal",
+			"description": "<p><span class=\"fontstyle0\">A pedra filosofal é um objeto místico feito da própria essência da criação. Pode transformar-se em qualquer material quando usada por um alquimista.</span></p><p><span class=\"fontstyle0\">Enquanto estiver a até 1 milha da pedra, a Criatura vinculada não envelhece e não pode ficar Enjoada.</span></p><p><span class=\"fontstyle0\">A pedra é um item alquímico que pode ser usado com a Ação Usar das seguintes formas, o que consome a Pedra Filosofal no processo:</span></p><ul><li><span class=\"fontstyle0\">Se tocar um cadáver, ele é revivido, e tem seu corpo curado, criado ou regenerado à sua forma original, se o Destino permitir.</span></li><li><span class=\"fontstyle0\">Fornece até 50o em materiais brutos adequados para fabricar um item alquímico. Esses materiais brutos desaparecem após 1 semana de sua criação.</span></li></ul>",
+			"lore": "Item Alquímico Relíquia Lendário (Vinculado)"
+		},
+		"Boots of the Hare": {
+			"name": "Botas da Lebre",
+			"description": "<p><span class=\"fontstyle0\">Botas adornadas com filigrana de coelho em mithral. Quem as veste tem os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Velocidade Menor:</span><span class=\"fontstyle0\"> Sua Velocidade se torna 30' se antes fosse menor.</span></li><li><span class=\"fontstyle2\">Salto II:</span><span class=\"fontstyle0\"> Sua distância de salto horizontal é multiplicada por 3.</span></li></ul>",
+			"lore": "Botas Relíquia"
+		},
+		"Utility - Unique": {
+			"name": "Utilidade - Único",
+			"description": "<p>Estes são Poderes que fornecem interações especiais que não podem ser precificadas.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Dyrnwyn": {
+			"name": "Dyrnwyn",
+			"description": "<p><span class=\"fontstyle0\">Espada longa de lâmina branca pura e punho cravejado de joias. Possui os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Arma (+2):</span><span class=\"fontstyle0\"> Causa +2 de dano extra.</span></li><li><span class=\"fontstyle2\">Flagelo do Mal:</span><span class=\"fontstyle0\"> Causa um dado de dano extra a Infernais e Mortos-Vivos.</span></li><li><span class=\"fontstyle2\">Prateamento:</span><span class=\"fontstyle0\"> Ataques com ela contam como Prateados.</span></li><li><span class=\"fontstyle2\">Castigo I:</span><span class=\"fontstyle0\"> Alvos que recebem dano dela também ficam Queimando (Cd4) com chama sagrada que ignora Imunidade.</span></li></ul>",
+			"lore": "Espada Longa Relíquia Lendária"
+		},
+		"Movement - Swiftness III": {
+			"name": "Movimento - Velocidade III",
+			"effects": {
+				"+15 Speed": {
+					"name": "+15 Velocidade"
+				}
+			},
+			"description": "<p>Quem o veste ganha um bônus de +15 pés à Velocidade.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Resistance - Resistance": {
+			"name": "Resistência - Resistência",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Vantagem em Resistências e redução de dano contra uma fonte de dano (como fogo).</p>",
+			"lore": "Concede Vantagem em Resistências situacionais."
+		},
+		"Bag of Devouring": {
+			"name": "Bolsa Devoradora",
+			"description": "<p><span class=\"fontstyle0\">Uma bolsa que devora qualquer coisa colocada dentro dela após 1 Hora. Criaturas Pequenas e Itens de 1 Espaço cabem na bolsa. Qualquer coisa devorada dessa forma desaparece da existência.</span></p>",
+			"lore": "Bolsa Relíquia"
+		},
+		"Utility - Moonlit I": {
+			"name": "Utilidade - Luar I",
+			"description": "<p>Emite Luar até Adjacente enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Helm of Telepathy": {
+			"name": "Elmo da Telepatia",
+			"description": "<p><span class=\"fontstyle0\">Elmo magnífico que concede a quem o veste o seguinte Poder:</span></p><ul><li><span class=\"fontstyle2\">Telepatia:</span><span class=\"fontstyle0\"> Telepatia (Longe), que requer Concentração.</span></li></ul>",
+			"lore": "Elmo Relíquia (Vinculado)"
+		},
+		"Scroll, Protection": {
+			"name": "Pergaminho, Proteção",
+			"description": "<p><span class=\"fontstyle0\">Um Pergaminho de Proteção pode ser lido para criar uma Aura até 10' de quem o lê por 1 Hora, que se move com essa Criatura. Ao fazer isso, o Pergaminho se vaporiza. Aqueles na Aura têm Vantagem em Resistências forçadas por Criaturas designadas pelo nome do pergaminho: Proteção contra o Mal: Infernais, Mortos-Vivos Proteção contra o Bem: Divinos, Fadas</span></p>",
+			"lore": "Pergaminho Excêntrico (Consumível)"
+		},
+		"Peacemaker": {
+			"name": "Pacificador",
+			"description": "<p><span class=\"fontstyle0\">Revólver que prateia todas as balas disparadas por ele. Possui os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Arma (+2):</span><span class=\"fontstyle0\"> Causa +2 de dano extra.</span></li><li><span class=\"fontstyle2\">Prateamento:</span><span class=\"fontstyle0\"> Ataques com ele contam como Prateados.</span></li><li><span class=\"fontstyle2\">Personalidade:</span><span class=\"fontstyle0\"> Só dispara contra inimigos hostis.</span></li></ul>",
+			"lore": "Revólver Relíquia Lendário"
+		},
+		"Alchemist's Beaker": {
+			"name": "Béquer do Alquimista",
+			"description": "<p><span class=\"fontstyle0\">Um béquer com três camadas separadas, cada uma com o seguinte Poder:</span></p><ul><li><span class=\"fontstyle2\">Prima Materia:</span><span class=\"fontstyle0\"> Quando o Ritual de Vinculação com ele é realizado, a Criatura pode fornecer até três itens alquímicos e atribuí-los a uma camada. O béquer pode ser usado para fornecer um uso daquele item alquímico, que se repõe automaticamente após 1 Dia.</span></li></ul>",
+			"lore": "Béquer Relíquia (Vinculado)"
+		},
+		"Utility - Infinite": {
+			"name": "Utilidade - Infinito",
+			"description": "<p>Fornece uma quantidade infinita de um Item detalhado que desaparece em 1 Rodada.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Blink Dagger": {
+			"name": "Adaga de Lampejo",
+			"description": "<p><span class=\"fontstyle0\">Adaga à qual uma Criatura deve se Vincular para acessar seus Poderes, que são os seguintes:</span></p><ul><li><span class=\"fontstyle2\">Lampejo:</span><span class=\"fontstyle0\"> Pode usar sua Ação ou abrir mão de seu Movimento para se teleportar até o Item, se estiver dentro de Longe.</span></li><li><span class=\"fontstyle2\">Lealdade:</span><span class=\"fontstyle0\"> Pode fazê-la retornar à sua mão por vontade própria (sem gastar Ação).</span></li></ul>",
+			"lore": "Adaga Relíquia (Vinculado)"
+		},
+		"Bonus - Protection +1": {
+			"name": "Bônus - Proteção +1",
+			"effects": {
+				"Protection +1": {
+					"name": "Proteção +1"
+				}
+			},
+			"description": "<p>Bônus de +1 às Resistências.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Movement - Jumping I": {
+			"name": "Movimento - Salto I",
+			"description": "<p>Distância de salto horizontal de quem o veste é multiplicada por 2.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Vorpal Blade": {
+			"name": "Lâmina Vorpal",
+			"description": "<p><span class=\"fontstyle0\">Adaga com os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Arma (+3):</span><span class=\"fontstyle0\"> Causa +3 de dano extra.</span></li><li><span class=\"fontstyle2\">Vorpal:</span><span class=\"fontstyle0\"> Decapita seu Alvo em um Crítico, se o Alvo receber o dano.</span></li></ul>",
+			"lore": "Adaga Relíquia Lendária"
+		},
+		"Bonus - Trinket +3": {
+			"name": "Bônus - Talismã +3",
+			"effects": {
+				"+3 Spell Dmg": {
+					"name": "+3 Dano de Magia"
+				}
+			},
+			"description": "<p>Bônus de +3 ao dano de Magia.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Utility - Lifesteal II": {
+			"name": "Utilidade - Roubo de Vida II",
+			"description": "<p>Matar um inimigo com ele cura quem o empunha em 2d8 PV.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade"
+		},
+		"Loyalty Shield": {
+			"name": "Escudo da Lealdade",
+			"description": "<p><span class=\"fontstyle0\">Escudo padrão ao qual uma Criatura deve se Vincular para acessar seus Poderes, que são os seguintes:</span></p><ul><li><span class=\"fontstyle2\">Escudo (+1):</span><span class=\"fontstyle0\"> Concede um bônus de +1 à Armadura.</span></li><li><span class=\"fontstyle2\">Lealdade:</span><span class=\"fontstyle0\"> Pode ser arremessado para atacar. Depois, retorna magicamente à mão de quem o empunha após o ataque.</span></li></ul>",
+			"lore": "Escudo Padrão Relíquia Lendário (Vinculado)"
+		},
+		"Utility - Warning": {
+			"name": "Utilidade - Aviso",
+			"description": "<p>A Criatura Vinculada não pode ser surpreendida, e é despertada se houver inimigos Próximos.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade"
+		},
+		"Standard of the Herald": {
+			"name": "Estandarte do Arauto",
+			"description": "<p><span class=\"fontstyle0\">Lança com um estandarte de banneret capaz de instilar bravura. Possui os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Determinação do Senhor da Guerra:</span><span class=\"fontstyle0\"> Enquanto fincada no chão, Aliados dentro de Próximo têm um bônus de +1 à Armadura, e Vantagem em Resistências contra Amedrontado.</span></li><li><span class=\"fontstyle2\">Lealdade:</span><span class=\"fontstyle0\"> Pode ser arremessada para atacar. Depois, retorna magicamente à mão de quem a empunha após o ataque.</span></li><li><span class=\"fontstyle2\">Glamour:</span><span class=\"fontstyle0\"> O estandarte pode mudar para um desenho à escolha da Criatura Vinculada. Nunca fica sujo.</span></li></ul>",
+			"lore": "Lança Relíquia (Vinculado)"
+		},
+		"Bane - Specific": {
+			"name": "Flagelo - Específico",
+			"description": "<p>Aplica-se a um subtipo de Criatura, como gigantes (não todos os Criptídeos).</p>",
+			"lore": "Adiciona um dado de dano extra baseado no Tipo de Criatura."
+		},
+		"Fabled - Soul Eater": {
+			"name": "Lendário - Devorador de Almas",
+			"description": "<p>Aqueles mortos por ela não podem ser ressuscitados, a menos que um desejo seja concedido para isso.</p>",
+			"lore": "Propriedades únicas de lenda e mito. A categoria é sempre Lendária."
+		},
+		"Movement - Levitation": {
+			"name": "Movimento - Levitação",
+			"description": "<p>Quem o veste está sob os efeitos da Magia Levitar.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Movement - Webwalk": {
+			"name": "Movimento - Caminhar em Teias",
+			"description": "<p>Quem o veste ignora Terreno Difícil de teias e não pode ser Imobilizado por elas.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Ace - Cleave": {
+			"name": "Ás - Cutilar",
+			"description": "<p>Pode causar dano total a dois Alvos.</p>",
+			"lore": "Aprimora uma Propriedade de Arma."
+		},
+		"Sunder": {
+			"name": "Ruptura",
+			"description": "<p><span class=\"fontstyle0\">Martelo de guerra ao qual é preciso estar Vinculado para acessar seus Poderes, que são os seguintes:</span></p><ul><li><span class=\"fontstyle2\">Bônus (+3):</span><span class=\"fontstyle0\"> Causa +3 de dano extra.</span></li><li><span class=\"fontstyle2\">Flagelo dos Gigantes:</span><span class=\"fontstyle0\"> Causa um dado de dano extra a gigantes.</span></li><li><span class=\"fontstyle2\">Tremor da Terra:</span><span class=\"fontstyle0\"> (1/Dia) Golpeia o solo, fazendo com que todos os inimigos Próximos fiquem Atordoados (d4 Rodadas).</span></li><li><span class=\"fontstyle2\">Lealdade:</span><span class=\"fontstyle0\"> Pode ser arremessado para atacar. Depois, retorna magicamente à mão de quem o empunha após o ataque.</span></li><li><span class=\"fontstyle2\">Sente Valores:</span><span class=\"fontstyle0\"> Sente ouro e gemas dentro de Próximo.</span></li><li><span class=\"fontstyle2\">Ás Arremessável:</span><span class=\"fontstyle0\"> Causa um dado de dano extra em ataques arremessados.</span></li></ul>",
+			"lore": "Martelo de Guerra Relíquia Lendário (Vinculado)"
+		},
+		"Utility - Ambassador": {
+			"name": "Utilidade - Embaixador",
+			"description": "<p>Quem o empunha pode falar com certas Criaturas com as quais normalmente não conseguiria.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Cursed - Weakness -3": {
+			"name": "Amaldiçoado - Fraqueza -3",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Penalidade de -3 ao dano de Ataque.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Necklace of Adaptation": {
+			"name": "Colar de Adaptação",
+			"description": "<p><span class=\"fontstyle0\">Colar de corrente pesada que concede a quem o veste os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Fôlego Eterno:</span><span class=\"fontstyle0\"> Não precisa respirar.</span></li><li><span class=\"fontstyle2\">Imunidade a Extremos:</span><span class=\"fontstyle0\"> Não é afetado por pressão extrema ou vácuo.</span></li></ul>",
+			"lore": "Colar Relíquia"
+		},
+		"Magistaff": {
+			"name": "Bastão Arcano",
+			"description": "<p><span class=\"fontstyle0\">Um Ritual de 10 minutos pode ser conduzido enquanto ele é segurado por uma Criatura disposta que conheça uma Magia. Durante o Ritual, essa Criatura escolhe uma Magia e escolhe como a Conjuraria. Sua Mana Máxima é reduzida pelo custo que levaria para Conjurá-la, o qual só é restaurado se a Vinculação com o cetro mágico terminar.</span></p><p><span class=\"fontstyle0\">Após o Ritual, quem o empunha e está Vinculado pode gastar uma carga do cetro para Conjurar aquela Magia como foi Conjurada durante o Ritual, usando uma Perícia à sua escolha. O número de Cargas corresponde à raridade do cetro mágico, como mostrado abaixo, e seu dado de Contagem se reinicia ao amanhecer.</span></p><ul><li><span class=\"fontstyle2\">Comum:</span><span class=\"fontstyle0\"> Cd4 Cargas</span></li><li><span class=\"fontstyle2\">Raro:</span><span class=\"fontstyle0\"> Cd6 Cargas</span></li><li><span class=\"fontstyle2\">Lendário:</span><span class=\"fontstyle0\"> Cd8 Cargas</span></li></ul>",
+			"lore": "Cetro Relíquia (Vinculado)"
+		},
+		"Senses - Echolocation": {
+			"name": "Sentidos - Ecolocalização",
+			"description": "<p>Concede Ecolocalização.</p>",
+			"lore": "Concede um Sentido enquanto Equipado."
+		},
+		"Strike - Strike III": {
+			"name": "Golpe - Golpe III",
+			"effects": {
+				"+d8 Dmg": {
+					"name": "+d8 Dano"
+				}
+			},
+			"description": "<p>+d8 de dano.</p>",
+			"lore": "Causa um dado de dano extra."
+		},
+		"Fabled - Blasting": {
+			"name": "Lendário - Explosivo",
+			"description": "<p>Pode disparar um feixe de energia mágica para atacar.</p>",
+			"lore": "Propriedades únicas de lenda e mito. A categoria é sempre Lendária."
+		},
+		"Protection - General": {
+			"name": "Proteção - Geral",
+			"description": "<p>Aplica-se a um Tipo de Criatura inteiro, como Criptídeos (não apenas gigantes).</p>",
+			"lore": "Quem o veste não pode ter Desvantagem em Resistências contra o Tipo de Criatura."
+		},
+		"Utility - Darkness II": {
+			"name": "Utilidade - Escuridão II",
+			"description": "<p>Escurece luz não mágica dentro de Próximo enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade"
+		},
+		"Utility - Invisibility II": {
+			"name": "Utilidade - Invisibilidade II",
+			"description": "<p>Quem o veste está Invisível.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade"
+		},
+		"Bonus - Armor +1": {
+			"name": "Bônus - Armadura +1",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Bônus de +1 à Armadura.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Cursed - Gulibility": {
+			"name": "Amaldiçoado - Credulidade",
+			"description": "<p>Quem o veste sempre falha em Resistências contra Enfeitiçado.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Senses - Detection": {
+			"name": "Sentidos - Detecção",
+			"description": "<p>Concede Visão Total para enxergar um Tipo de Criatura (Vinculado).</p>",
+			"lore": "Concede um Sentido enquanto Equipado."
+		},
+		"Utility - Radiant III": {
+			"name": "Utilidade - Radiante III",
+			"description": "<p>Emite Luz Solar até Longe enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Spell Book": {
+			"name": "Grimório",
+			"description": "<p><span class=\"fontstyle0\">Um grimório funciona como um Talismã e contém o conhecimento de como Conjurar ao menos uma Magia. A Magia pode ser Conjurada a partir dele sem problemas por quem o criou. Caso contrário, requer que o leitor passe em um Teste de Arcanismo para fazê-lo. Se o Teste de Arcanismo for um 1, o grimório se dissolve.</span></p>",
+			"lore": "Livro Relíquia"
+		},
+		"Senses - Sense Life": {
+			"name": "Sentidos - Sentir Vida",
+			"description": "<p>Sente Criaturas de Tamanho Pequeno ou maior dentro de Longe que não sejam Artificiais ou Mortos-Vivos.</p>",
+			"lore": "Concede um Sentido enquanto Equipado."
+		},
+		"Resistance - Repulsing": {
+			"name": "Resistência - Repulsão",
+			"description": "<p>Concede Vantagem em Resistências contra o Status Enfeitiçado.</p>",
+			"lore": "Concede Vantagem em Resistências situacionais."
+		},
+		"Decanter of Endless Water": {
+			"name": "Vasilha de Água Infinita",
+			"description": "<p><span class=\"fontstyle0\">Um frasco que fornece um suprimento infinito de água, na forma escolhida por quem o empunha. Pode ser água doce ou salgada, e uma palavra de comando deve ser dita para definir a vazão:</span></p><ul><li><span class=\"fontstyle2\">Fonte:</span><span class=\"fontstyle0\"> Fonte de tamanho Médio a 5 galões por Rodada.</span></li><li><span class=\"fontstyle2\">Gêiser:</span><span class=\"fontstyle0\"> Linha até Próximo de 30 galões por Rodada. Quem o empunha deve passar em um teste de Resistência contra ser Empurrado ou ficar Caído.</span></li><li><span class=\"fontstyle2\">Riacho:</span><span class=\"fontstyle0\"> Filete de 1 galão por Rodada.</span></li></ul>",
+			"lore": "Vaso Relíquia"
+		},
+		"Orb of Many Energies": {
+			"name": "Orbe de Muitas Energias",
+			"description": "<p><span class=\"fontstyle0\">Role um d8 para determinar sua cor inicial. Cada cor corresponde a uma Magia, que a Criatura Vinculada pode Conjurar enquanto a esfera estiver naquela cor, gastando uma Carga.</span></p><p><span class=\"fontstyle0\">Sempre que você Conjurar uma Magia correspondente à cor atual da esfera, role um d8 para determinar sua nova cor.</span></p><table class=\"NormalTable\"><tbody><tr><td><p><span class=\"fontstyle2\">d8</span></p></td><td><p><span class=\"fontstyle2\">Cor</span></p></td><td><p><span class=\"fontstyle2\">Magia</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">1</span></p></td><td><p><span class=\"fontstyle3\">Vermelho</span></p></td><td><p><span class=\"fontstyle3\">Queimar</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">2</span></p></td><td><p><span class=\"fontstyle3\">Laranja</span></p></td><td><p><span class=\"fontstyle3\">Amplificar</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">3</span></p></td><td><p><span class=\"fontstyle3\">Amarelo</span></p></td><td><p><span class=\"fontstyle3\">Choque</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">4</span></p></td><td><p><span class=\"fontstyle3\">Verde</span></p></td><td><p><span class=\"fontstyle3\">Brotar</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">5</span></p></td><td><p><span class=\"fontstyle3\">Azul</span></p></td><td><p><span class=\"fontstyle3\">Congelar</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">6</span></p></td><td><p><span class=\"fontstyle3\">Anil</span></p></td><td><p><span class=\"fontstyle3\">Proteção</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">7</span></p></td><td><p><span class=\"fontstyle3\">Violeta</span></p></td><td><p><span class=\"fontstyle3\">Cor</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">8</span></p></td><td><p><span class=\"fontstyle3\">Especial</span></p></td><td><p><span class=\"fontstyle3\">A esfera se torna duas cores ao mesmo tempo. Role duas vezes, rerrolando 8s. Quando você Conjurar uma Magia correspondente a uma dessas cores, pode Conjurar a Magia correspondente à outra cor como parte da mesma Ação.</span></p></td></tr></tbody></table><p><span class=\"fontstyle0\">A esfera tem Cd6 Cargas. Quando as Cargas se esgotam, ela escurece para um tom acinzentado e não pode ser usada até o próximo amanhecer.</span></p>",
+			"lore": "Talismã Excêntrico (Esfera, Vinculado)"
+		},
+		"Senses - Tremors": {
+			"name": "Sentidos - Tremores",
+			"description": "<p>Concede Percepção Sísmica (Vinculado).</p>",
+			"lore": "Concede um Sentido enquanto Equipado."
+		},
+		"Deck of Many Things": {
+			"name": "Baralho de Muitas Coisas",
+			"description": "<p><span class=\"fontstyle0\">Baralho de 22 cartas dentro de uma caixa. Cada carta retrata uma imagem esotérica e é decorada com filigranas de glifos mágicos. Uma Criatura pode sacar até 4 cartas do baralho, e é afetada pelos efeitos mágicos da carta. Depois, essas cartas retornam ao baralho.</span></p><p><span class=\"fontstyle0\">Você pode usar um baralho de cartas de Tarot para representar o Baralho, usando apenas os Arcanos Maiores para representá-lo. Essas cartas estão indicadas entre parênteses.</span></p><ul><li><span class=\"fontstyle2\">Equilíbrio (Justiça):</span><span class=\"fontstyle0\"> Três Relíquias à sua escolha com um bônus têm o bônus aumentado em 1.</span></li><li><span class=\"fontstyle2\">Cometa (O Mundo):</span><span class=\"fontstyle0\"> Sozinho, deve derrotar o próximo Inimigo que encontrar para ganhar um Nível.</span></li><li><span class=\"fontstyle2\">Masmorra (A Imperatriz):</span><span class=\"fontstyle0\"> Larga seu inventário, esquece como Conjurar quaisquer Magias, e é teleportado para uma prisão. O baralho então desaparece e nenhuma carta pode mais ser sacada.</span></li><li><span class=\"fontstyle2\">Destinos (Os Enamorados):</span><span class=\"fontstyle0\"> Pode escolher evitar uma situação ou o resultado de uma situação em um ponto futuro.</span></li><li><span class=\"fontstyle2\">Chamas (O Diabo):</span><span class=\"fontstyle0\"> Um poderoso Infernal passa a ter interesse dedicado nele. Ele agora é seu Inimigo, e buscará arruinar sua vida.</span></li><li><span class=\"fontstyle2\">Tolo (O Louco):</span><span class=\"fontstyle0\"> Perde 1 Nível e saca outra carta. O Tolo desaparece para sempre.</span></li><li><span class=\"fontstyle2\">Gema (A Roda da Fortuna):</span><span class=\"fontstyle0\"> (d66) gemas no valor de 100o cada e (d66) joias no valor de 200o cada surgem ao seu redor.</span></li><li><span class=\"fontstyle2\">Idiota (Temperança):</span><span class=\"fontstyle0\"> Sua Razão diminui em d6. Se reduzida a 0, morre. Pode sacar outra carta.</span></li><li><span class=\"fontstyle2\">Bobo (O Hierofante):</span><span class=\"fontstyle0\"> Ganha 1 Nível ou saca duas cartas. O Bobo desaparece do baralho para sempre.</span></li><li><span class=\"fontstyle2\">Chave (A Sacerdotisa):</span><span class=\"fontstyle0\"> Uma Relíquia Lendária à sua escolha que não seja o Baralho de Muitas Coisas surge em sua mão.</span></li><li><span class=\"fontstyle2\">Cavaleiro (A Força):</span><span class=\"fontstyle0\"> Você ganha os serviços de um Aliado campeão, que obedece seus comandos como um companheiro.</span></li><li><span class=\"fontstyle2\">Medusa (O Mago):</span><span class=\"fontstyle0\"> É amaldiçoado, causando uma penalidade de -2 a todas as Resistências.</span></li><li><span class=\"fontstyle2\">Lua (A Lua):</span><span class=\"fontstyle0\"> Ganha três desejos, que devem ser feitos dentro de 10 minutos.</span></li><li><span class=\"fontstyle2\">Pilantra (O Enforcado):</span><span class=\"fontstyle0\"> Um amigo passa a odiá-lo permanentemente. Esse ódio só é revelado no pior momento possível.</span></li><li><span class=\"fontstyle2\">Ruína (A Torre):</span><span class=\"fontstyle0\"> Perde todas as suas terras, posses e riquezas.</span></li><li><span class=\"fontstyle2\">Caveira (A Morte):</span><span class=\"fontstyle0\"> Um ceifador sombrio surge e o ataca. Se qualquer outra Criatura tentar ajudá-lo, outro ceifador sombrio surge e ataca essa Criatura </span>@UUID[Compendium.world.special.Actor.r8vxaZFzJzbTKJmf]{Grim Reaper}</li><li><span class=\"fontstyle2\">Estrela (A Estrela):</span><span class=\"fontstyle0\"> Um Atributo à sua escolha aumenta em 1.</span></li><li><span class=\"fontstyle2\">Sol (O Sol):</span><span class=\"fontstyle0\"> Ganha 1 Nível e uma Relíquia à sua escolha que não seja uma Relíquia Lendária.</span></li><li><span class=\"fontstyle2\">Garras (O Julgamento):</span><span class=\"fontstyle0\"> Quaisquer Relíquias que possua desaparecem instantânea e permanentemente.</span></li><li><span class=\"fontstyle2\">Trono (O Imperador):</span><span class=\"fontstyle0\"> Sua Presença aumenta para 7 e se torna dono de uma fortaleza.</span></li><li><span class=\"fontstyle2\">Vizir (O Eremita):</span><span class=\"fontstyle0\"> Pode fazer uma pergunta à sua escolha, agora ou no futuro, e recebe do Mestre a resposta mais verdadeira e completa a essa pergunta.</span></li><li><span class=\"fontstyle2\">Vazio (O Carro):</span><span class=\"fontstyle0\"> Sua alma é arrancada de seu corpo, deixando para trás uma carcaça. A alma fica presa em uma prisão à escolha do Mestre, e pode ser resgatada em uma missão para recuperá-la. O baralho de muitas coisas então desaparece e nenhuma outra carta pode ser sacada dele.</span></li></ul>",
+			"lore": "Baralho de Tarot Lendário"
+		},
+		"Senses - Sense Valuables": {
+			"name": "Sentidos - Sentir Valores",
+			"description": "<p>Sente ouro e gemas dentro de Próximo.</p>",
+			"lore": "Concede um Sentido enquanto Equipado."
+		},
+		"Ace - Brutal": {
+			"name": "Ás - Brutal",
+			"description": "<p>Causa um dado de dano extra pela Propriedade Brutal.</p>",
+			"lore": "Aprimora uma Propriedade de Arma."
+		},
+		"Movement - Climbing": {
+			"name": "Movimento - Escalada",
+			"description": "<p>Quem o veste ganha Escalar.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Ace - Keen": {
+			"name": "Ás - Afiada",
+			"description": "<p>Acerta Crítico em Testes de Ataque com 2 a menos, em vez de 1 a menos.</p>",
+			"lore": "Aprimora uma Propriedade de Arma."
+		},
+		"Scroll, Enchantment": {
+			"name": "Pergaminho, Encantamento",
+			"description": "<p><span class=\"fontstyle0\">Pode ser lido para conceder a um Item à escolha de quem o lê, que esteja tocando, o Poder de Relíquia indicado no Pergaminho. O Pergaminho então se vaporiza.</span></p>",
+			"lore": "Pergaminho Relíquia (Consumível)"
+		},
+		"Movement - Displacement": {
+			"name": "Movimento - Deslocamento",
+			"description": "<p>Ataques baseados em visão contra quem o veste são feitos como se o atacante estivesse Vulnerável.</p>",
+			"lore": "Aprimora o Movimento enquanto Equipado."
+		},
+		"Utility - Loyalty": {
+			"name": "Utilidade - Lealdade",
+			"description": "<p>Retorna magicamente à mão da Criatura se arremessado para atacar (Vinculado).</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade"
+		},
+		"Bonus - Armor +3": {
+			"name": "Bônus - Armadura +3",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Bônus de +3 à Armadura.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Pixie Dust": {
+			"name": "Pó de Fada",
+			"description": "<p><span class=\"fontstyle0\">Você pode Usar uma dose de pó de fada para espalhar sobre uma Criatura, concedendo a ela Velocidade de Voo igual à sua Velocidade de andar por 1 minuto.</span></p>",
+			"lore": "Caspa Relíquia (Consumível)"
+		},
+		"Ace - Thrown": {
+			"name": "Ás - Arremessável",
+			"description": "<p>Causa um dado de dano extra ao atacar arremessando-o.</p>",
+			"lore": "Aprimora uma Propriedade de Arma."
+		},
+		"Utility - Darkness III": {
+			"name": "Utilidade - Escuridão III",
+			"description": "<p>Escurece luz não mágica dentro de Longe enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade"
+		},
+		"Sylph Scope": {
+			"name": "Luneta Sílfide",
+			"description": "<p><span class=\"fontstyle0\">Um par de óculos que concede os seguintes Poderes a quem os veste:</span></p><ul><li><span class=\"fontstyle2\">Visão Total:</span><span class=\"fontstyle0\"> Pode ver Criaturas Invisíveis.</span></li></ul>",
+			"lore": "Óculos Relíquia"
+		},
+		"Utility - Invisibility I": {
+			"name": "Utilidade - Invisibilidade I",
+			"description": "<p>Abre mão do Movimento para ficar Invisível até realizar uma Ação.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Cursed - Cowardice": {
+			"name": "Amaldiçoado - Covardia",
+			"description": "<p>Quem o veste sempre falha em Resistências contra Amedrontado.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Strike - Strike I": {
+			"name": "Golpe - Golpe I",
+			"effects": {
+				"+d4 Dmg": {
+					"name": "+d4 Dano"
+				}
+			},
+			"description": "<p>+d4 de dano.</p>",
+			"lore": "Causa um dado de dano extra."
+		},
+		"Cursed - Weakness -2": {
+			"name": "Amaldiçoado - Fraqueza -2",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Penalidade de -2 ao dano de Ataque.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Scroll, Spell": {
+			"name": "Pergaminho, Magia",
+			"description": "<p><span class=\"fontstyle0\">Um Pergaminho de Magia pode ser lido para conjurar a magia nele contida, conforme especificado. Isso não custa Mana e faz o Pergaminho se vaporizar.</span></p>",
+			"lore": "Pergaminho Relíquia (Consumível)"
+		},
+		"Moonlit Blade": {
+			"name": "Lâmina Enluarada",
+			"description": "<p><span class=\"fontstyle0\">Espada grande à qual uma Criatura deve se Vincular para acessar seus Poderes, que são os seguintes:</span></p><ul><li><span class=\"fontstyle2\">Arma (+3):</span><span class=\"fontstyle0\"> Causa +3 de dano extra.</span></li><li><span class=\"fontstyle2\">Explosão:</span><span class=\"fontstyle0\"> Pode fazer um ataque Corpo a Corpo como um arco de energia luar em um Alvo Próximo. O Alvo então fica iluminado por luar durante a Rodada, não pode se beneficiar de estar Invisível, e retorna à sua forma normal se estava metamorfoseado.</span></li><li><span class=\"fontstyle2\">Enluarado:</span><span class=\"fontstyle0\"> Emite Luar até Próximo.</span></li></ul>",
+			"lore": "Espada Grande Relíquia Lendária (Vinculado)"
+		},
+		"Fabled - Precision": {
+			"name": "Lendário - Precisão",
+			"description": "<p>Uma vez por dia, ganha Vantagem em ataques por 1 minuto, ou até errar.</p>",
+			"lore": "Propriedades únicas de lenda e mito. A categoria é sempre Lendária."
+		},
+		"Cursed - Weakness -1": {
+			"name": "Amaldiçoado - Fraqueza -1",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Penalidade de -1 ao dano de Ataque.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Bonus - Protection +2": {
+			"name": "Bônus - Proteção +2",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Bônus de +2 às Resistências.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Boots of Levitation": {
+			"name": "Botas de Levitação",
+			"description": "<p><span class=\"fontstyle0\">Quem os veste tem o seguinte Poder:</span></p><ul><li><span class=\"fontstyle2\">Levitação:</span><span class=\"fontstyle0\"> Pode Voar para cima ou para baixo, mas não lateralmente, usando sua Velocidade.</span></li></ul>",
+			"lore": "Botas Relíquia"
+		},
+		"Strike - Strike II": {
+			"name": "Golpe - Golpe II",
+			"effects": {
+				"+d6 Dmg": {
+					"name": "+d6 Dano"
+				}
+			},
+			"description": "<p>+d6 de dano.</p>",
+			"lore": "Causa um dado de dano extra."
+		},
+		"Bane - Niche": {
+			"name": "Flagelo - Nicho",
+			"description": "<p>Aplica-se a Criaturas extremamente específicas, como Trolls (não todos os gigantes).</p>",
+			"lore": "Adiciona um dado de dano extra baseado no Tipo de Criatura."
+		},
+		"Bonus - Trinket +2": {
+			"name": "Bônus - Talismã +2",
+			"effects": {
+				"+2 Spell Dmg": {
+					"name": "+2 Dano de Magia"
+				}
+			},
+			"description": "<p>Bônus de +2 ao dano de Magia.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Black Wing": {
+			"name": "Asa Negra",
+			"description": "<p><span class=\"fontstyle0\">Besta de madeira tingida de escuro, adornada com penas negras como piche. A besta concede ao usuário os seguintes poderes enquanto Equipada:</span></p><ul><li><span class=\"fontstyle2\">Visão Noturna:</span><span class=\"fontstyle0\"> Possui Visão no Escuro.</span></li></ul><p><span class=\"fontstyle0\">Além disso, a besta também pode ser ativada para conceder o seguinte Poder por 1 minuto:</span></p><ul><li><span class=\"fontstyle2\">Escuridão II:</span><span class=\"fontstyle0\"> Escurece luz não mágica dentro de Próximo enquanto Equipada.</span></li></ul>",
+			"lore": "Besta Leve Relíquia"
+		},
+		"Utility - Radiant I": {
+			"name": "Utilidade - Radiante I",
+			"description": "<p>Emite Luz Solar até Adjacente enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Fabled - Vorpal": {
+			"name": "Lendário - Vorpal",
+			"description": "<p>Decapita o Alvo em um Crítico, se o Alvo receber o dano.</p>",
+			"lore": "Propriedades únicas de lenda e mito. A categoria é sempre Lendária."
+		},
+		"Cursed - Doom": {
+			"name": "Amaldiçoado - Perdição",
+			"description": "<p>Quem o veste só recupera 1 Ponto de Vida por dado usado em rolagens de cura que o tenham como Alvo.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Harpy’s Cloak": {
+			"name": "Manto da Harpia",
+			"description": "<p><span class=\"fontstyle0\">Uma capa de penas de harpia. Age como Armadura Leve e as penas podem ser usadas como Adagas. Possui os seguintes Poderes:</span></p><ul><li><span class=\"fontstyle2\">Armadura (+1):</span><span class=\"fontstyle0\"> Concede um bônus de +1 à Armadura.</span></li><li><span class=\"fontstyle2\">Infinita (Adaga (+1)):</span><span class=\"fontstyle0\"> As penas que ela cria atacam como Adagas (+1). Tornam-se penas comuns após o ataque ser feito, e a pena volta a crescer instantaneamente.</span></li></ul>",
+			"lore": "Armadura Leve Relíquia"
+		},
+		"Ace - Entangle": {
+			"name": "Ás - Enredar",
+			"description": "<p>O Alvo é considerado Vulnerável para encerrar o Status Imobilizado.</p>",
+			"lore": "Aprimora uma Propriedade de Arma."
+		},
+		"Cursed - Vulnerability -1": {
+			"name": "Amaldiçoado - Vulnerabilidade -1",
+			"effects": {
+				"Active Effect": {
+					"name": "Efeito Ativo"
+				}
+			},
+			"description": "<p>Penalidade de -1 à Armadura.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Utility - Moonlit III": {
+			"name": "Utilidade - Luar III",
+			"description": "<p>Emite Luar até Longe enquanto Equipado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Cube of Force": {
+			"name": "Cubo de Força",
+			"description": "<p><span class=\"fontstyle0\">Cubo portátil feito de vários materiais mágicos. O cubo tem 36 Cargas, que se renovam a cada Dia.</span></p><p><span class=\"fontstyle0\">Cada um dos lados pode ser pressionado para ativar ou desativar uma barreira até Adjacente a partir de quem o segura, com uma função que se move junto. Quando ativada, gasta um número de cargas de acordo com o lado, como mostrado na tabela a seguir, que também são gastas a cada Rodada enquanto a barreira estiver ativa:</span></p><table class=\"NormalTable\"><tbody><tr><td><p><span class=\"fontstyle2\">Lado</span></p></td><td><p><span class=\"fontstyle2\">Cargas</span></p></td><td><p><span class=\"fontstyle2\">Função da Barreira</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">1</span></p></td><td><p><span class=\"fontstyle3\">1</span></p></td><td><p><span class=\"fontstyle3\">Bloqueia gases e vento.</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">2</span></p></td><td><p><span class=\"fontstyle3\">2</span></p></td><td><p><span class=\"fontstyle3\">Bloqueia matéria não viva.</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">3</span></p></td><td><p><span class=\"fontstyle3\">3</span></p></td><td><p><span class=\"fontstyle3\">Bloqueia Criaturas.</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">4</span></p></td><td><p><span class=\"fontstyle3\">4</span></p></td><td><p><span class=\"fontstyle3\">Bloqueia efeitos mágicos.</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">5</span></p></td><td><p><span class=\"fontstyle3\">6</span></p></td><td><p><span class=\"fontstyle3\">Bloqueia tudo.</span></p></td></tr><tr><td><p><span class=\"fontstyle3\">6</span></p></td><td><p><span class=\"fontstyle3\">0</span></p></td><td><p><span class=\"fontstyle3\">Desativa a barreira.</span></p></td></tr></tbody></table><p><span class=\"fontstyle0\">A barreira pode bloquear outros efeitos gastando 1 Carga por dado de dano do efeito.</span></p>",
+			"lore": "Talismã Relíquia (Cubo)"
+		},
+		"Resistance - Clarity": {
+			"name": "Resistência - Clareza",
+			"description": "<p>Concede Vantagem em Resistências contra o Status Confuso.</p>",
+			"lore": "Concede Vantagem em Resistências situacionais."
+		},
+		"Bonus - Weapon +2": {
+			"name": "Bônus - Arma +2",
+			"effects": {
+				"+2 Attack Dmg": {
+					"name": "+2 Dano de Ataque"
+				}
+			},
+			"description": "<p>Bônus de +2 ao dano de Ataque.</p>",
+			"lore": "Concede um bônus indicado aos atributos indicados."
+		},
+		"Utility - Burning II": {
+			"name": "Utilidade - Queimadura II",
+			"description": "<p>Queimando (Cd6) ao acertar.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Utility - After-Image I": {
+			"name": "Utilidade - Pós-Imagem I",
+			"description": "<p>Quem o veste pode projetar um duplicado ilusório até Próximo (Vinculado).</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Utility - Manasteal I": {
+			"name": "Utilidade - Roubo de Mana I",
+			"description": "<p>Matar um inimigo com ele restaura d4 de Mana para quem o empunha e está Vinculado.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		},
+		"Golden Needle": {
+			"name": "Agulha Dourada",
+			"description": "<p><span class=\"fontstyle0\">Se a ponta da agulha for pressionada contra uma Criatura petrificada, a agulha se funde à pedra e a maldição da petrificação termina. A agulha é irrecuperável após o uso.</span></p>",
+			"lore": "Agulha de Costura Relíquia (Consumível)"
+		},
+		"Cursed - Anger": {
+			"name": "Amaldiçoado - Ira",
+			"description": "<p>Quem o veste sempre falha em Resistências contra Furioso.</p>",
+			"lore": "Se Vinculado, a Criatura permanece Vinculada até que a Maldição seja removida."
+		},
+		"Fabled - Wish-Granting": {
+			"name": "Lendário - Concede Desejos",
+			"description": "<p>Concede um desejo. O Valor é por desejo.</p>",
+			"lore": "Propriedades únicas de lenda e mito. A categoria é sempre Lendária."
+		},
+		"Utility - Store Spell": {
+			"name": "Utilidade - Armazenar Magia",
+			"description": "<p>Reduz a Mana Máxima do Conjurador para armazenar a Conjuração de uma Magia.</p>",
+			"lore": "Peculiaridades mágicas além de Combate e Mobilidade."
+		}
+	}
+}
