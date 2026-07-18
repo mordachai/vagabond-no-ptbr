@@ -1,5 +1,7 @@
 # Vagabond: Brazilian Portuguese / Português do Brasil
 
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/03c7dfe8-9e47-4e37-af13-58e4c8b0663e" />
+
 ## Vagabond: pt-BR Translation
 
 Unofficial (pt-BR) translation of compendium content for the [Vagabond](https://foundryvtt.com/) system for Foundry VTT, via [Babele](https://github.com/riccisi/foundryvtt-babele).
