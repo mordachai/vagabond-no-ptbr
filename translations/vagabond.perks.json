@@ -55,7 +55,7 @@
 		},
 		"Cardistry": {
 			"name": "Cardística",
-			"description": "<p><span class=\"fontstyle0\">Você pode usar um baralho de cartas como Talismã e pode fazer ataques com cartas sacadas de um baralho usando sua Perícia de Conjuração. O Baralho deve ser usado como uma Arma de Empunhadura 2M para isso. Ele causa d4, e tem as propriedades Sutileza e Arremessável. Cartas usadas em um ataque reaparecem magicamente no baralho.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Você pode usar um baralho de cartas como Talismã e pode fazer ataques com cartas sacadas de um baralho usando sua Perícia de Conjuração. O Baralho deve ser usado como uma Arma de Empunhadura 2M para isso. Ele causa d4, e tem as propriedades Finesse e Arremesso. Cartas usadas em um ataque reaparecem magicamente no baralho.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Cat-Like Reflexes": {
 			"name": "Reflexos Felinos",
@@ -87,7 +87,7 @@
 		},
 		"Drunken Master": {
 			"name": "Mestre Bêbado",
-			"description": "<p><span class=\"fontstyle0\">Armas Rudimentares de Empunhadura 1M têm a propriedade Sutileza para você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Armas Rudimentares de Empunhadura 1M têm a propriedade Finesse para você.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Duelist": {
 			"name": "Duelista",
@@ -210,7 +210,7 @@
 		},
 		"Master Breaker": {
 			"name": "Mestre Arrombador",
-			"description": "<p><span class=\"fontstyle0\">Se você falhar em um Teste de Sutileza para arrombar uma fechadura, sua gazua não se quebra e você faz Salvaguardas contra armadilhas que ela acionar com Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
+			"description": "<p><span class=\"fontstyle0\">Se você falhar em um Teste de Finesse para arrombar uma fechadura, sua gazua não se quebra e você faz Salvaguardas contra armadilhas que ela acionar com Vantagem.</span> <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /></p>"
 		},
 		"Master Chef": {
 			"name": "Mestre Cozinheiro",

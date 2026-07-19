@@ -118,7 +118,7 @@
 				},
 				{
 					"name": "Adaga",
-					"note": "Ataque Corpo a Corpo, Arremessável",
+					"note": "Ataque Corpo a Corpo, Arremesso",
 					"extraInfo": ""
 				}
 			],
@@ -145,7 +145,7 @@
 				},
 				{
 					"name": "Adaga",
-					"note": "Ataque Corpo a Corpo, Arremessável",
+					"note": "Ataque Corpo a Corpo, Arremesso",
 					"extraInfo": ""
 				}
 			],
@@ -311,7 +311,7 @@
 				},
 				{
 					"name": "Adaga",
-					"note": "Ataque Corpo a Corpo, Arremessável",
+					"note": "Ataque Corpo a Corpo, Arremesso",
 					"extraInfo": ""
 				}
 			],
@@ -345,7 +345,7 @@
 				},
 				{
 					"name": "Adaga",
-					"note": "Ataque Corpo a Corpo, Arremessável",
+					"note": "Ataque Corpo a Corpo, Arremesso",
 					"extraInfo": "e Ataque Furtivo"
 				}
 			],
@@ -444,7 +444,7 @@
 			"actions": [
 				{
 					"name": "Pedra",
-					"note": "Ataque Corpo a Corpo, Arremessável",
+					"note": "Ataque Corpo a Corpo, Arremesso",
 					"extraInfo": ""
 				}
 			],

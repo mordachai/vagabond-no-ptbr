@@ -65,7 +65,7 @@
       "senses": "",
       "actions": [
         {
-          "name": "Cacete Grande",
+          "name": "Porrete Grande",
           "note": "Ataque Corpo a Corpo, 10'",
           "extraInfo": ""
         },
@@ -1632,7 +1632,7 @@
       "actions": [
         {
           "name": "Lança",
-          "note": "Ataque Corpo a Corpo, Arremessável",
+          "note": "Ataque Corpo a Corpo, Arremesso",
           "extraInfo": ""
         }
       ],
@@ -2390,12 +2390,12 @@
       "actions": [
         {
           "name": "Fogo do Alquimista",
-          "note": "Ataque Corpo a Corpo, Arremessável",
+          "note": "Ataque Corpo a Corpo, Arremesso",
           "extraInfo": "e Queimando (Cd6)"
         },
         {
           "name": "Adaga",
-          "note": "Ataque Corpo a Corpo, Arremessável",
+          "note": "Ataque Corpo a Corpo, Arremesso",
           "extraInfo": ""
         }
       ],
@@ -2779,7 +2779,7 @@
           "extraInfo": ""
         },
         {
-          "name": "Adaga (Arremessável)",
+          "name": "Adaga (Arremesso)",
           "note": "Ataque à Distância",
           "extraInfo": ""
         }
@@ -3995,7 +3995,7 @@
       "senses": "",
       "actions": [
         {
-          "name": "Cacete Grande",
+          "name": "Porrete Grande",
           "note": "Ataque Corpo a Corpo, 10'",
           "extraInfo": ""
         },
@@ -4141,7 +4141,7 @@
       "senses": "",
       "actions": [
         {
-          "name": "Cacete Grande",
+          "name": "Porrete Grande",
           "note": "Ataque Corpo a Corpo, 10'",
           "extraInfo": ""
         },
@@ -4587,7 +4587,7 @@
         },
         {
           "name": "Adaga",
-          "note": "Ataque Corpo a Corpo, Arremessável",
+          "note": "Ataque Corpo a Corpo, Arremesso",
           "extraInfo": ""
         }
       ],
@@ -7067,7 +7067,7 @@
       "senses": "Visão no Escuro",
       "actions": [
         {
-          "name": "Cacete Grande",
+          "name": "Porrete Grande",
           "note": "Ataque Corpo a Corpo",
           "extraInfo": ""
         }

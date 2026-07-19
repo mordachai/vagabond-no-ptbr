@@ -86,7 +86,7 @@
 			"crit": ""
 		},
 		"Hold": {
-			"name": "Prender",
+			"name": "Imobilizar",
 			"description": "<p><span class=\"fontstyle0\">O Alvo fica Paralisado durante a duração, se seu DV ou Nível for igual ou menor que seu Nível. Você pode gastar Mana para aumentar seu Nível para os fins desta conjuração em 1 para cada Mana gasto para isso.</span></p><p><span class=\"fontstyle0\">Se o Alvo for um Objeto, ele se torna fixado e efetivamente trancado, caso seja uma porta, baú ou outro meio de impedir entrada. Você deve passar em um Teste de Conjuração toda vez que houver uma tentativa de manipular o Objeto fixado para manter a Concentração.</span></p>",
 			"duration": "Até seu próximo turno",
 			"crit": "A duração é de 1 minuto (não requer Concentração)."
@@ -110,7 +110,7 @@
 			"crit": "A duração é de 1 minuto (não requer Concentração)."
 		},
 		"Polymorph": {
-			"name": "Polimorfizar",
+			"name": "Polimorfia",
 			"description": "<p><span class=\"fontstyle0\">O Alvo se torna uma Fera à sua escolha, com DV não superior ao seu Nível, durante a duração. Se o Alvo for relutante e seu DV for maior que seu Nível, a Magia falha. Durante esse tempo, o Alvo usa:</span></p><ul><li><span class=\"fontstyle0\">A Velocidade, Passivas, Sentidos, Armadura, Imunidades, Fraquezas, Ações e Habilidades da Fera.</span></li><li><span class=\"fontstyle0\">Os PV do Alvo e, se possível, suas Ações e Habilidades.</span></li></ul><p><span class=\"fontstyle0\">Você deve gastar 1 Mana em seus Turnos para se Concentrar nesta Magia, mesmo para Alvos dispostos.</span></p>",
 			"duration": "Até seu próximo turno",
 			"crit": ""
@@ -218,7 +218,7 @@
 			"crit": ""
 		},
 		"Frostburn": {
-			"name": "Crioqueima",
+			"name": "Fogo-frio",
 			"description": "<p><span class=\"fontstyle0\">Se o Alvo não for Imune a Frio, ele fica Queimando (d4, Velocidade reduzida em 10') durante a duração, terminando antecipadamente se sofrer dano de fogo ou calor.</span></p>",
 			"duration": "Até seu próximo turno",
 			"crit": "O Alvo, em vez disso, fica Queimando (d6)."
@@ -350,7 +350,7 @@
 			"crit": "A duração é contínua."
 		},
 		"Junk": {
-			"name": "Quinquilharia",
+			"name": "Sucata",
 			"description": "<p><span class=\"fontstyle0\">Você cria um Item no valor de no máximo 5p e de 1 Espaço ou menos que caiba na Área da entrega, na mão de um Alvo disposto, ou no espaço aberto mais próximo do Alvo. Este Item carece de detalhes finos e especificidade. Por exemplo, poderia criar uma chave, mas não a chave de uma cela em que você esteja preso.</span></p><p><span class=\"fontstyle0\">Esta Magia não requer Concentração para manter o Item materializado, mas o Item desaparece quando você Conjurar esta Magia novamente, ou dispensá-lo (sem gastar Ação). Você pode gastar Mana adicional durante a Conjuração para aumentar o número de Itens criados em um para cada Mana adicional gasto para isso.</span></p>",
 			"duration": "Até seu próximo turno",
 			"crit": ""

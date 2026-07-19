@@ -450,7 +450,7 @@
 		},
 		"Sunder": {
 			"name": "Ruptura",
-			"description": "<p><span class=\"fontstyle0\">Martelo de guerra ao qual é preciso estar Vinculado para acessar seus Poderes, que são os seguintes:</span></p><ul><li><span class=\"fontstyle2\">Bônus (+3):</span><span class=\"fontstyle0\"> Causa +3 de dano extra.</span></li><li><span class=\"fontstyle2\">Flagelo dos Gigantes:</span><span class=\"fontstyle0\"> Causa um dado de dano extra a gigantes.</span></li><li><span class=\"fontstyle2\">Tremor da Terra:</span><span class=\"fontstyle0\"> (1/Dia) Golpeia o solo, fazendo com que todos os inimigos Próximos fiquem Atordoados (d4 Rodadas).</span></li><li><span class=\"fontstyle2\">Lealdade:</span><span class=\"fontstyle0\"> Pode ser arremessado para atacar. Depois, retorna magicamente à mão de quem o empunha após o ataque.</span></li><li><span class=\"fontstyle2\">Sente Valores:</span><span class=\"fontstyle0\"> Sente ouro e gemas dentro de Próximo.</span></li><li><span class=\"fontstyle2\">Ás Arremessável:</span><span class=\"fontstyle0\"> Causa um dado de dano extra em ataques arremessados.</span></li></ul>",
+			"description": "<p><span class=\"fontstyle0\">Martelo de guerra ao qual é preciso estar Vinculado para acessar seus Poderes, que são os seguintes:</span></p><ul><li><span class=\"fontstyle2\">Bônus (+3):</span><span class=\"fontstyle0\"> Causa +3 de dano extra.</span></li><li><span class=\"fontstyle2\">Flagelo dos Gigantes:</span><span class=\"fontstyle0\"> Causa um dado de dano extra a gigantes.</span></li><li><span class=\"fontstyle2\">Tremor da Terra:</span><span class=\"fontstyle0\"> (1/Dia) Golpeia o solo, fazendo com que todos os inimigos Próximos fiquem Atordoados (d4 Rodadas).</span></li><li><span class=\"fontstyle2\">Lealdade:</span><span class=\"fontstyle0\"> Pode ser arremessado para atacar. Depois, retorna magicamente à mão de quem o empunha após o ataque.</span></li><li><span class=\"fontstyle2\">Sente Valores:</span><span class=\"fontstyle0\"> Sente ouro e gemas dentro de Próximo.</span></li><li><span class=\"fontstyle2\">Ás Arremesso:</span><span class=\"fontstyle0\"> Causa um dado de dano extra em ataques arremessados.</span></li></ul>",
 			"lore": "Martelo de Guerra Relíquia Lendário (Vinculado)"
 		},
 		"Utility - Ambassador": {
@@ -624,7 +624,7 @@
 			"lore": "Caspa Relíquia (Consumível)"
 		},
 		"Ace - Thrown": {
-			"name": "Ás - Arremessável",
+			"name": "Ás - Arremesso",
 			"description": "<p>Causa um dado de dano extra ao atacar arremessando-o.</p>",
 			"lore": "Aprimora uma Propriedade de Arma."
 		},

@@ -158,7 +158,7 @@
 			"description": "<p><span class=\"fontstyle0\">Este líquido branco e espesso evapora quase instantaneamente ao entrar em contato com o ar, criando uma fumaça fina e quase invisível. A fumaça é quase inodora e não tem efeito na maioria das Criaturas. Mortos-Vivos, porém, são repelidos por ela. Uma vez usada, a fumaça preenche a área até Próximo por 1 minuto, ou até ser dispersada por um vento forte. Mortos-Vivos ficam Atordoados enquanto estiverem na fumaça, ignorando Imunidades.</span></p>"
 		},
 		"Potion, Polymorph": {
-			"name": "Poção, Metamorfose",
+			"name": "Poção, Polimorfia",
 			"description": "<p><span class=\"fontstyle0\">Quem a consome se transforma conforme a Magia Metamorfose (p. 97) por 1 Hora. Se quem a consome não sabe que está bebendo a poção ou não escolhe uma forma, role d66:</span></p><table class=\"NormalTable\"><tbody><tr><td>d66</td><td>Fera</td><td>d66</td><td>Fera</td><td>d66</td><td>Fera</td></tr><tr><td>1 1</td><td>Sapo</td><td>3 1</td><td>Camelo</td><td>5 1</td><td>Golfinho</td></tr><tr><td>2</td><td>Ovelha</td><td>2</td><td>Cavalo</td><td>2</td><td>Pombo</td></tr><tr><td>3</td><td>Galinha</td><td>3</td><td>Lhama</td><td>3</td><td>Tigre</td></tr><tr><td>4</td><td>Raposa</td><td>4</td><td>Gato</td><td>4</td><td>Leão</td></tr><tr><td>5</td><td>Javali</td><td>5</td><td>Crocodilo</td><td>5</td><td>Touro</td></tr><tr><td>6</td><td>Falcão</td><td>6</td><td>Vaca</td><td>6</td><td>Tubarão</td></tr><tr><td>2 1</td><td>Cabra</td><td>4 1</td><td>Alce</td><td>6 1</td><td>Águia</td></tr><tr><td>2</td><td>Rato</td><td>2</td><td>Cervo</td><td>2</td><td>Urso</td></tr><tr><td>3</td><td>Texugo</td><td>3</td><td>Aranha Gigante</td><td>3</td><td>Elefante</td></tr><tr><td>4</td><td>Polvo</td><td>4</td><td>Víbora</td><td>4</td><td>Caranguejo</td></tr><tr><td>5</td><td>Coelho</td><td>5</td><td>Lobo</td><td>5</td><td>Enguia Elétrica</td></tr><tr><td>6</td><td>Coruja</td><td>6</td><td>Símio</td><td>6</td><td>T-rex</td></tr></tbody></table>"
 		},
 		"Potion, Invulnerability II": {
@@ -203,7 +203,7 @@
 		},
 		"Potion, Giant Strength": {
 			"name": "Poção, Força de Gigante",
-			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Seus ataques causam um dado de dano extra.</span></li><li><span class=\"fontstyle0\">Trata pedregulhos como Armas Corpo a Corpo com a Propriedade Arremessável (3d6 de dano).</span></li></ul><p><span class=\"fontstyle0\">Uma Criatura não pode se beneficiar de mais de uma dessas poções ao mesmo tempo.</span></p>"
+			"description": "<p><span class=\"fontstyle0\">Por 1 Hora, quem a consome ganha estes benefícios:</span></p><ul><li><span class=\"fontstyle0\">Seus ataques causam um dado de dano extra.</span></li><li><span class=\"fontstyle0\">Trata pedregulhos como Armas Corpo a Corpo com a Propriedade Arremesso (3d6 de dano).</span></li></ul><p><span class=\"fontstyle0\">Uma Criatura não pode se beneficiar de mais de uma dessas poções ao mesmo tempo.</span></p>"
 		},
 		"Oil, Bladefire": {
 			"name": "Óleo, Fogo da Lâmina",
@@ -302,7 +302,7 @@
 			"description": "<p><span class=\"fontstyle0\">Líquido corrosivo que corrói a matéria. Um Alvo atingido por ele sofre d6 de dano e fica Queimando (Cd4).</span></p>"
 		},
 		"Clearbreath": {
-			"name": "Fôlego Claro",
+			"name": "Névoa Purificante",
 			"description": "<p><span class=\"fontstyle0\">Vapores cinzentos e enfumaçados que embotam temporariamente o olfato quando inalados. Uma Criatura que inala o Fôlego Claro ganha Vantagem em Salvaguardas contra odores fétidos e gases por 1 hora.</span></p>"
 		},
 		"Potion, Clairaudience": {

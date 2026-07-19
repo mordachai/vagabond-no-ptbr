@@ -8,13 +8,13 @@
 			"name": "Broquel"
 		},
 		"Light hammer (Thrown)": {
-			"name": "Martelo Leve (Arremessável)"
+			"name": "Martelo Leve (Arremesso)"
 		},
 		"Battleaxe": {
 			"name": "Machado de Batalha"
 		},
 		"Greataxe": {
-			"name": "Grande Machado"
+			"name": "Machado Grande"
 		},
 		"Flail": {
 			"name": "Mangual"
@@ -39,16 +39,16 @@
 			"name": "Fio de Garrote"
 		},
 		"Greatclub": {
-			"name": "Cacete Grande"
+			"name": "Porrete Grande"
 		},
 		"Morningstar": {
-			"name": "Estrela da Manhã"
+			"name": "Maça Estrela"
 		},
 		"Javelin (Thrown)": {
-			"name": "Azagaia (Arremessável)"
+			"name": "Azagaia (Arremesso)"
 		},
 		"Shortsword (Finesse)": {
-			"name": "Espada Curta (Sutileza)",
+			"name": "Espada Curta (Finesse)",
 			"effects": {
 				"Keen Property": {
 					"name": "Propriedade Afiada"
@@ -65,7 +65,7 @@
 			"name": "Manopla"
 		},
 		"Handaxe (Thrown)": {
-			"name": "Machadinha (Arremessável)"
+			"name": "Machadinha (Arremesso)"
 		},
 		"Arbalest": {
 			"name": "Balestra"
@@ -90,10 +90,10 @@
 			"name": "Chicote de Couro"
 		},
 		"Spear (Thrown)": {
-			"name": "Lança (Arremessável)"
+			"name": "Lança (Arremesso)"
 		},
 		"Unarmed (Finesse)": {
-			"name": "Desarmado (Sutileza)"
+			"name": "Desarmado (Finesse)"
 		},
 		"Shotgun": {
 			"name": "Espingarda"
@@ -149,7 +149,7 @@
 			"name": "Pistola"
 		},
 		"Dagger (Thrown)": {
-			"name": "Adaga (Arremessável)",
+			"name": "Adaga (Arremesso)",
 			"effects": {
 				"Keen Property": {
 					"name": "Propriedade Afiada"
@@ -191,7 +191,7 @@
 			"name": "Rede"
 		},
 		"Dagger (Finesse)": {
-			"name": "Adaga (Sutileza)",
+			"name": "Adaga (Finesse)",
 			"effects": {
 				"Keen Property": {
 					"name": "Propriedade Afiada"
@@ -216,7 +216,7 @@
 			"name": "Bastão"
 		},
 		"Club": {
-			"name": "Cacete"
+			"name": "Porrete"
 		},
 		"Shortbow": {
 			"name": "Arco Curto",
