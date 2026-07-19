@@ -1,1425 +1,1830 @@
 {
-	"label": "Equipamentos",
-	"folders": {
-		"Ammunition": "Munição",
-		"Currencies": "Moedas",
-		"Books & Magic": "Livros e Magia",
-		"Alchemy & Medicine": "Alquimia e Medicina",
-		"Beasts & Husbandry": "Animais e Criação",
-		"Clothing Hygiene & Textiles": "Vestuário, Higiene e Têxteis",
-		"Containers & Packs": "Recipientes e Bolsas",
-		"Cooking & Food": "Culinária e Comida",
-		"Gems, Jewelry, & Smithing": "Gemas, Joalheria e Ferraria",
-		"Games & Toys": "Jogos e Brinquedos",
-		"Hardware": "Ferragens",
-		"Liquor & Spirits": "Bebidas Destiladas",
-		"Musical": "Musical",
-		"Outdoors": "Ar Livre",
-		"Personal Items": "Itens Pessoais",
-		"Tools": "Ferramentas",
-		"Astronomy & Navigation": "Astronomia e Navegação",
-		"Trade Goods": "Mercadorias"
-	},
-	"entries": {
-		"Tankard": {
-			"name": "Caneca",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Gems & Precious Minerals - Uncommon": {
-			"name": "Gemas e Minerais Preciosos - Incomum",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Drill, hand": {
-			"name": "Furadeira, manual",
-			"gearCategory": "Ferragens"
-		},
-		"Egg, dozen": {
-			"name": "Ovo, dúzia",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Parchment (1 sheet)": {
-			"name": "Pergaminho (1 folha)",
-			"gearCategory": "Livros e Magia"
-		},
-		"Pants, casual": {
-			"name": "Calça, casual",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Fowl - Duck": {
-			"name": "Ave - Pato",
-			"gearCategory": "Animais e Criação"
-		},
-		"Antitoxin": {
-			"name": "Antitoxina",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Doll": {
-			"name": "Boneca",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Oil, flask": {
-			"name": "Óleo, frasco",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Ladder (10-foot)": {
-			"name": "Escada (10 pés)",
-			"gearCategory": "Ferragens"
-		},
-		"Locket": {
-			"name": "Medalhão",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Periscope": {
-			"name": "Periscópio",
-			"gearCategory": "Astronomia e Navegação"
-		},
-		"Smock": {
-			"name": "Avental",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Clothes, formal": {
-			"name": "Roupas, formais",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Kicksack": {
-			"name": "Bola de Embaixadinha",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Hourglass, hour": {
-			"name": "Ampulheta, de hora",
-			"gearCategory": "Livros e Magia"
-		},
-		"Wine - Fine, cask of": {
-			"name": "Vinho - Fino, barril de",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Concertina": {
-			"name": "Concertina",
-			"gearCategory": "Musical"
-		},
-		"Kettle": {
-			"name": "Chaleira",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Sportball": {
-			"name": "Bola Esportiva",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Mantle": {
-			"name": "Manto",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Liquor - Tankard": {
-			"name": "Bebida Destilada - Caneca",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Glass, tubing (1-foot)": {
-			"name": "Vidro, tubo (1 pé)",
-			"gearCategory": "Ferragens"
-		},
-		"Alchemical Item - Masterwork": {
-			"name": "Item Alquímico - Obra-Prima",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Drum": {
-			"name": "Tambor",
-			"gearCategory": "Musical"
-		},
-		"Dog - Common": {
-			"name": "Cão - Comum",
-			"gearCategory": "Animais e Criação"
-		},
-		"Can opener": {
-			"name": "Abridor de latas",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Circlet, gold": {
-			"name": "Diadema, dourado",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Crucible": {
-			"name": "Cadinho",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Bellows": {
-			"name": "Fole",
-			"gearCategory": "Ferragens"
-		},
-		"Grappling hook": {
-			"name": "Gancho de escalada",
-			"gearCategory": "Ar Livre"
-		},
-		"Ale/Cider - Barrel, small": {
-			"name": "Cerveja/Sidra - Barril, pequeno",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Quiver": {
-			"name": "Aljava",
-			"gearCategory": "Munição"
-		},
-		"Scribing Tools": {
-			"name": "Ferramentas de Escrita",
-			"gearCategory": "Ferramentas"
-		},
-		"Salt (1 lb. bag)": {
-			"name": "Sal (saco de 1 lb)",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Spices (per 1 lb.) - Common": {
-			"name": "Especiarias (por 1 lb) - Comum",
-			"gearCategory": "Mercadorias"
-		},
-		"Pickaxe": {
-			"name": "Picareta",
-			"gearCategory": "Ferragens"
-		},
-		"Noisemaker": {
-			"name": "Matraca",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Flute": {
-			"name": "Flauta",
-			"gearCategory": "Musical"
-		},
-		"Animal feed (per Day)": {
-			"name": "Ração animal (por Dia)",
-			"gearCategory": "Animais e Criação"
-		},
-		"Horses - Draft": {
-			"name": "Cavalos - de Tiro",
-			"gearCategory": "Animais e Criação"
-		},
-		"Spikes, iron (10)": {
-			"name": "Estacas, de ferro (10)",
-			"gearCategory": "Ferragens"
-		},
-		"Rations (1 day)": {
-			"name": "Rações (1 dia)",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Shirt, casual": {
-			"name": "Camisa, casual",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Hammock": {
-			"name": "Rede de dormir",
-			"gearCategory": "Ar Livre"
-		},
-		"Silver": {
-			"name": "Prata"
-		},
-		"Book": {
-			"name": "Livro",
-			"gearCategory": "Livros e Magia"
-		},
-		"Dress, casual": {
-			"name": "Vestido, casual",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Ring, basic": {
-			"name": "Anel, básico",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Materials (1g)": {
-			"name": "Materiais (1o)",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Rats, bag of 20": {
-			"name": "Ratos, saco de 20",
-			"gearCategory": "Animais e Criação"
-		},
-		"Scarf": {
-			"name": "Cachecol",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Dice set": {
-			"name": "Conjunto de dados",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Hurdy gurdy": {
-			"name": "Sanfona de Manivela",
-			"gearCategory": "Musical"
-		},
-		"Dress, formal": {
-			"name": "Vestido, formal",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Cattle - Bull": {
-			"name": "Gado - Touro",
-			"gearCategory": "Animais e Criação"
-		},
-		"Caltrops, bag of 10": {
-			"name": "Estrepes, saco de 10",
-			"gearCategory": "Ar Livre"
-		},
-		"Cowl": {
-			"name": "Capuz",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Gems & Precious Minerals - Rare": {
-			"name": "Gemas e Minerais Preciosos - Raro",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Iron pot": {
-			"name": "Panela de ferro",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Trumpet": {
-			"name": "Trompete",
-			"gearCategory": "Musical"
-		},
-		"Lute": {
-			"name": "Alaúde",
-			"gearCategory": "Musical"
-		},
-		"String/twine, 100 feet": {
-			"name": "Barbante/cordão, 100 pés",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Astrolabe": {
-			"name": "Astrolábio",
-			"gearCategory": "Astronomia e Navegação"
-		},
-		"Saddle & tack": {
-			"name": "Sela e arreios",
-			"gearCategory": "Animais e Criação"
-		},
-		"Cattle - Bison": {
-			"name": "Gado - Bisão",
-			"gearCategory": "Animais e Criação"
-		},
-		"Signal whistle": {
-			"name": "Apito de sinalização",
-			"gearCategory": "Ar Livre"
-		},
-		"Hammer, sledge": {
-			"name": "Martelo, marreta",
-			"gearCategory": "Ferragens"
-		},
-		"Fabric - Plain (1 sq. yd.)": {
-			"name": "Tecido - Simples (1 jarda quadrada)",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Compass": {
-			"name": "Bússola",
-			"gearCategory": "Astronomia e Navegação"
-		},
-		"Bagpipes": {
-			"name": "Gaita de Foles",
-			"gearCategory": "Musical"
-		},
-		"Chain (10 feet)": {
-			"name": "Corrente (10 pés)",
-			"gearCategory": "Ferragens"
-		},
-		"Herbalism Tools": {
-			"name": "Ferramentas de Herbalismo",
-			"gearCategory": "Ferramentas"
-		},
-		"Doublet": {
-			"name": "Gibão",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Wax, beeswax (1 lb.)": {
-			"name": "Cera, de abelha (1 lb)",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Costume": {
-			"name": "Fantasia",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Wine - Common, cup of": {
-			"name": "Vinho - Comum, copo de",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Bell, handheld": {
-			"name": "Sino, de mão",
-			"gearCategory": "Ferragens"
-		},
-		"Cape": {
-			"name": "Capa",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Orrery": {
-			"name": "Planetário Mecânico",
-			"gearCategory": "Astronomia e Navegação"
-		},
-		"Paint, pot": {
-			"name": "Tinta, pote",
-			"gearCategory": "Ferragens"
-		},
-		"Cards - deck, playing": {
-			"name": "Cartas - baralho, de jogar",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Liquor - Barrel": {
-			"name": "Bebida Destilada - Barril",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Monocle": {
-			"name": "Monóculo",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Spices - Exotic": {
-			"name": "Especiarias - Exóticas",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Ingot - Copper": {
-			"name": "Lingote - Cobre",
-			"gearCategory": "Mercadorias"
-		},
-		"Cards - deck, tarot": {
-			"name": "Cartas - baralho, de tarô",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Ale/Cider - Gallon": {
-			"name": "Cerveja/Sidra - Galão",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Bolt case": {
-			"name": "Estojo de virotes"
-		},
-		"Meal - Good": {
-			"name": "Refeição - Boa",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Chalk, piece of": {
-			"name": "Giz, pedaço de",
-			"gearCategory": "Ferragens"
-		},
-		"Gems & Precious Minerals - Very rare": {
-			"name": "Gemas e Minerais Preciosos - Muito raro",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Girdle": {
-			"name": "Cinta",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Wine - Fine, bottle of": {
-			"name": "Vinho - Fino, garrafa de",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Magnet, small": {
-			"name": "Ímã, pequeno",
-			"gearCategory": "Ferragens"
-		},
-		"Ring, crest/signet": {
-			"name": "Anel, brasão/sinete",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Quill": {
-			"name": "Pena de escrever",
-			"gearCategory": "Livros e Magia"
-		},
-		"Tinderbox": {
-			"name": "Caixa de Isca",
-			"gearCategory": "Ar Livre"
-		},
-		"Materials (50s)": {
-			"name": "Materiais (50p)",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Dice set, loaded": {
-			"name": "Conjunto de dados, viciados",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Chisel": {
-			"name": "Cinzel",
-			"gearCategory": "Ferragens"
-		},
-		"Barding, heavy": {
-			"name": "Bardadura, pesada",
-			"gearCategory": "Animais e Criação"
-		},
-		"Mirror": {
-			"name": "Espelho",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Hunting horn": {
-			"name": "Corneta de Caça",
-			"gearCategory": "Musical"
-		},
-		"Stabling (per day)": {
-			"name": "Estábulo (por dia)",
-			"gearCategory": "Animais e Criação"
-		},
-		"Horses - Warhorse": {
-			"name": "Cavalos - de Guerra",
-			"gearCategory": "Animais e Criação"
-		},
-		"Shawm": {
-			"name": "Charamela",
-			"gearCategory": "Musical"
-		},
-		"Elephant": {
-			"name": "Elefante",
-			"gearCategory": "Animais e Criação"
-		},
-		"Rat": {
-			"name": "Rato",
-			"gearCategory": "Animais e Criação"
-		},
-		"Alchemical Item - Simple": {
-			"name": "Item Alquímico - Simples",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Beer - Keg": {
-			"name": "Cerveja - Barril pequeno",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Telescope": {
-			"name": "Telescópio",
-			"gearCategory": "Astronomia e Navegação"
-		},
-		"Hunting trap": {
-			"name": "Armadilha de Caça",
-			"gearCategory": "Ar Livre"
-		},
-		"Gems & Precious Minerals - Common": {
-			"name": "Gemas e Minerais Preciosos - Comum",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Barrette": {
-			"name": "Presilha de cabelo",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Tunic": {
-			"name": "Túnica",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Personal seal": {
-			"name": "Selo pessoal",
-			"gearCategory": "Mercadorias"
-		},
-		"Scroll, blank": {
-			"name": "Pergaminho, em branco",
-			"gearCategory": "Livros e Magia"
-		},
-		"Ale/Cider - Mug": {
-			"name": "Cerveja/Sidra - Caneca",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Iron pan": {
-			"name": "Frigideira de ferro",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Marbles, bag of": {
-			"name": "Bolinhas de gude, saco de",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Ingot - Silver": {
-			"name": "Lingote - Prata",
-			"gearCategory": "Mercadorias"
-		},
-		"Pole, collapsing (10-foot)": {
-			"name": "Vara, retrátil (10 pés)",
-			"gearCategory": "Ferragens"
-		},
-		"Spices (per 1 lb.) - Rare": {
-			"name": "Especiarias (por 1 lb) - Rara",
-			"gearCategory": "Mercadorias"
-		},
-		"Horses - Pony": {
-			"name": "Cavalos - Pônei",
-			"gearCategory": "Animais e Criação"
-		},
-		"Gloves": {
-			"name": "Luvas",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Woodworking Tools": {
-			"name": "Ferramentas de Marcenaria",
-			"gearCategory": "Ferramentas"
-		},
-		"Horses - Riding": {
-			"name": "Cavalos - de Montaria",
-			"gearCategory": "Animais e Criação"
-		},
-		"Harp": {
-			"name": "Harpa",
-			"gearCategory": "Musical"
-		},
-		"Wine - Fine, cup of": {
-			"name": "Vinho - Fino, copo de",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Mule": {
-			"name": "Mula",
-			"gearCategory": "Animais e Criação"
-		},
-		"Camel": {
-			"name": "Camelo",
-			"gearCategory": "Animais e Criação"
-		},
-		"Tinker Tools": {
-			"name": "Ferramentas de Consertos",
-			"gearCategory": "Ferramentas"
-		},
-		"Meal - Horrible": {
-			"name": "Refeição - Horrível",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Copper": {
-			"name": "Cobre"
-		},
-		"Cards - deck, marked": {
-			"name": "Cartas - baralho, marcado",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Incense (stick)": {
-			"name": "Incenso (bastão)",
-			"gearCategory": "Livros e Magia"
-		},
-		"Liquor - Bottle": {
-			"name": "Bebida Destilada - Garrafa",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Glass cutter": {
-			"name": "Cortador de vidro",
-			"gearCategory": "Ferragens"
-		},
-		"Lantern, hooded": {
-			"name": "Lanterna, encapuzada",
-			"gearCategory": "Ar Livre"
-		},
-		"Spices - Rare": {
-			"name": "Especiarias - Raras",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Candle mold": {
-			"name": "Molde de vela",
-			"gearCategory": "Livros e Magia"
-		},
-		"Tent, ten-person": {
-			"name": "Barraca, para dez pessoas",
-			"gearCategory": "Ar Livre"
-		},
-		"Brazier": {
-			"name": "Braseiro",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Book, blank": {
-			"name": "Livro, em branco",
-			"gearCategory": "Itens Pessoais"
-		},
-		"Pottery Tools": {
-			"name": "Ferramentas de Cerâmica",
-			"gearCategory": "Ferramentas"
-		},
-		"Ball bearings, bag": {
-			"name": "Esferas de rolamento, saco de",
-			"gearCategory": "Ferragens"
-		},
-		"Pendant": {
-			"name": "Pingente",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Paint, gallon": {
-			"name": "Tinta, galão",
-			"gearCategory": "Ferragens"
-		},
-		"Pipe, smoking": {
-			"name": "Cachimbo",
-			"gearCategory": "Itens Pessoais"
-		},
-		"Fishing tackle": {
-			"name": "Apetrechos de pesca",
-			"gearCategory": "Ar Livre"
-		},
-		"Lantern, bullseye": {
-			"name": "Lanterna, olho-de-boi",
-			"gearCategory": "Ar Livre"
-		},
-		"Heat mat": {
-			"name": "Esteira térmica",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Circlet, brass": {
-			"name": "Diadema, latão",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Wine - Common, cask of": {
-			"name": "Vinho - Comum, barril de",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Ingot": {
-			"name": "Lingote",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Mortar and pestle": {
-			"name": "Almofariz e pilão",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Skirt": {
-			"name": "Saia",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Chest": {
-			"name": "Baú",
-			"gearCategory": "Ferragens"
-		},
-		"Firecracker": {
-			"name": "Bombinha",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Jeweler Tools": {
-			"name": "Ferramentas de Joalheria",
-			"gearCategory": "Ferramentas"
-		},
-		"Amulet/necklace": {
-			"name": "Amuleto/colar",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Block and tackle": {
-			"name": "Sistema de Roldanas",
-			"gearCategory": "Ferragens"
-		},
-		"Nails, iron (50)": {
-			"name": "Pregos, de ferro (50)",
-			"gearCategory": "Ferragens"
-		},
-		"Tent, four-person": {
-			"name": "Barraca, para quatro pessoas",
-			"gearCategory": "Ar Livre"
-		},
-		"Produce (Fruits & Vegetables) - Single": {
-			"name": "Produtos (Frutas e Verduras) - Unidade",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Sacbut": {
-			"name": "Sacabuxa",
-			"gearCategory": "Musical"
-		},
-		"Beer - Mug": {
-			"name": "Cerveja - Caneca",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Med Kit": {
-			"name": "Kit Médico",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Barding, light": {
-			"name": "Bardadura, leve",
-			"gearCategory": "Animais e Criação"
-		},
-		"Sealing wax": {
-			"name": "Cera de lacre",
-			"gearCategory": "Livros e Magia"
-		},
-		"Tent, one-person": {
-			"name": "Barraca, para uma pessoa",
-			"gearCategory": "Ar Livre"
-		},
-		"Cattle - Ox": {
-			"name": "Gado - Boi",
-			"gearCategory": "Animais e Criação"
-		},
-		"Flint & steel": {
-			"name": "Pederneira e aço",
-			"gearCategory": "Ar Livre"
-		},
-		"Accordion": {
-			"name": "Acordeão",
-			"gearCategory": "Musical"
-		},
-		"Shoes, formal": {
-			"name": "Sapatos, formais",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Produce - 1 lb. bag": {
-			"name": "Produtos - saco de 1 lb",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Pole (10-foot)": {
-			"name": "Vara (10 pés)",
-			"gearCategory": "Ferragens"
-		},
-		"Ale/Cider - Barrel, large": {
-			"name": "Cerveja/Sidra - Barril, grande",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Cattle - Cow": {
-			"name": "Gado - Vaca",
-			"gearCategory": "Animais e Criação"
-		},
-		"Whetstone": {
-			"name": "Pedra de Amolar",
-			"gearCategory": "Ferragens"
-		},
-		"Tripod, cooking": {
-			"name": "Tripé, de cozinha",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Ale/Cider - Keg": {
-			"name": "Cerveja/Sidra - Barril pequeno",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Ink, writing (1 oz)": {
-			"name": "Tinta, de escrever (1 oz)",
-			"gearCategory": "Livros e Magia"
-		},
-		"Spices (per 1 lb.) - Exotic": {
-			"name": "Especiarias (por 1 lb) - Exótica",
-			"gearCategory": "Mercadorias"
-		},
-		"Book, sheet music": {
-			"name": "Livro, partitura",
-			"gearCategory": "Musical"
-		},
-		"Rabbit": {
-			"name": "Coelho",
-			"gearCategory": "Animais e Criação"
-		},
-		"Holy water": {
-			"name": "Água Benta",
-			"gearCategory": "Livros e Magia"
-		},
-		"Liquor - Shot of": {
-			"name": "Bebida Destilada - Dose de",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Fishing rod": {
-			"name": "Vara de pescar",
-			"gearCategory": "Ar Livre"
-		},
-		"Coffee grounds (1 lb. bag)": {
-			"name": "Pó de café (saco de 1 lb)",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Air bladder": {
-			"name": "Bexiga de ar",
-			"gearCategory": "Ar Livre"
-		},
-		"Ingredients (1g)": {
-			"name": "Ingredientes (1o)",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Clothes, winter set": {
-			"name": "Roupas, conjunto de inverno",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Paper (1 sheet)": {
-			"name": "Papel (1 folha)",
-			"gearCategory": "Livros e Magia"
-		},
-		"Oil, cooking (flask)": {
-			"name": "Óleo, de cozinha (frasco)",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Bracelet, silver": {
-			"name": "Bracelete, de prata",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Spellbook": {
-			"name": "Grimório",
-			"gearCategory": "Livros e Magia"
-		},
-		"Meal - Excellent": {
-			"name": "Refeição - Excelente",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Earplugs": {
-			"name": "Protetores de ouvido",
-			"gearCategory": "Ferragens"
-		},
-		"Gold": {
-			"name": "Ouro"
-		},
-		"Fabric - Fine (1 sq. yd.)": {
-			"name": "Tecido - Fino (1 jarda quadrada)",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Vestments": {
-			"name": "Vestes Litúrgicas",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Piton": {
-			"name": "Grampo de escalada",
-			"gearCategory": "Ferragens"
-		},
-		"Pants, formal": {
-			"name": "Calça, formal",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Fowl - Chicken, hen": {
-			"name": "Ave - Galinha",
-			"gearCategory": "Animais e Criação"
-		},
-		"Censer": {
-			"name": "Incensário",
-			"gearCategory": "Livros e Magia"
-		},
-		"Dog - Warhound": {
-			"name": "Cão - de Guerra",
-			"gearCategory": "Animais e Criação"
-		},
-		"Hammer": {
-			"name": "Martelo",
-			"gearCategory": "Ferragens"
-		},
-		"Candle": {
-			"name": "Vela",
-			"gearCategory": "Livros e Magia"
-		},
-		"Lockpick": {
-			"name": "Gazua",
-			"gearCategory": "Ferragens"
-		},
-		"Spices - Common": {
-			"name": "Especiarias - Comuns",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Needle, sewing": {
-			"name": "Agulha, de costura",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Lyre": {
-			"name": "Lira",
-			"gearCategory": "Musical"
-		},
-		"Tent, two-person": {
-			"name": "Barraca, para duas pessoas",
-			"gearCategory": "Ar Livre"
-		},
-		"Alchemical Item - Intricate": {
-			"name": "Item Alquímico - Intricado",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"Tripwire": {
-			"name": "Fio-armadilha",
-			"gearCategory": "Ferragens"
-		},
-		"Flour (1 lb. bag)": {
-			"name": "Farinha (saco de 1 lb)",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Wax, sealing (1 lb.)": {
-			"name": "Cera, de lacre (1 lb)",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Juggling balls, set of 3": {
-			"name": "Bolas de malabarismo, conjunto de 3",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Box of bullets": {
-			"name": "Caixa de balas",
-			"gearCategory": "Munição"
-		},
-		"Chalk, bag of": {
-			"name": "Giz, saco de",
-			"gearCategory": "Livros e Magia"
-		},
-		"Bread, loaf of": {
-			"name": "Pão, fôrma de",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Boots": {
-			"name": "Botas",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Spectacles": {
-			"name": "Óculos",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Ingot - Gold": {
-			"name": "Lingote - Ouro",
-			"gearCategory": "Mercadorias"
-		},
-		"Shirt, formal": {
-			"name": "Camisa, formal",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Heatsuit outfit": {
-			"name": "Traje Térmico",
-			"gearCategory": "Ar Livre"
-		},
-		"Fowl - Chicken, rooster": {
-			"name": "Ave - Galo",
-			"gearCategory": "Animais e Criação"
-		},
-		"Cloak": {
-			"name": "Capa Longa",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Shoes, casual": {
-			"name": "Sapatos, casuais",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Brewing Tools": {
-			"name": "Ferramentas de Fabricação de Cerveja",
-			"gearCategory": "Ferramentas"
-		},
-		"Toy, basic": {
-			"name": "Brinquedo, básico",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Torch": {
-			"name": "Tocha",
-			"gearCategory": "Ar Livre"
-		},
-		"Crowbar": {
-			"name": "Pé-de-cabra",
-			"gearCategory": "Ferragens"
-		},
-		"Manacles": {
-			"name": "Algemas",
-			"gearCategory": "Ferragens"
-		},
-		"Makeup kit": {
-			"name": "Kit de maquiagem",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Toy, premium": {
-			"name": "Brinquedo, premium",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Sunrod": {
-			"name": "Bastão Solar",
-			"gearCategory": "Itens Pessoais"
-		},
-		"Wine - Common, bottle of": {
-			"name": "Vinho - Comum, garrafa de",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Earring": {
-			"name": "Brinco",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Bracelet, gold": {
-			"name": "Bracelete, de ouro",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Meal - Delicious": {
-			"name": "Refeição - Deliciosa",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Meal - Poor": {
-			"name": "Refeição - Pobre",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Leatherworking Tools": {
-			"name": "Ferramentas de Couraria",
-			"gearCategory": "Ferramentas"
-		},
-		"Frock": {
-			"name": "Sobrecasaca",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Robe": {
-			"name": "Robe",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Basket": {
-			"name": "Cesta",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Beer - Gallon": {
-			"name": "Cerveja - Galão",
-			"gearCategory": "Bebidas Destiladas"
-		},
-		"Game set": {
-			"name": "Conjunto de Jogo",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Sundial": {
-			"name": "Relógio de Sol",
-			"gearCategory": "Astronomia e Navegação"
-		},
-		"Scale, merchant's": {
-			"name": "Balança, de mercador",
-			"gearCategory": "Mercadorias"
-		},
-		"Scissors": {
-			"name": "Tesoura",
-			"gearCategory": "Ferragens"
-		},
-		"Circlet, silver": {
-			"name": "Diadema, prata",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Leggings": {
-			"name": "Perneiras",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Caftan": {
-			"name": "Cafetã",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Belt": {
-			"name": "Cinto",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Pouch": {
-			"name": "Bolsa pequena",
-			"gearCategory": "Ferragens"
-		},
-		"Lamp": {
-			"name": "Lampião",
-			"gearCategory": "Ar Livre"
-		},
-		"Toy, complex": {
-			"name": "Brinquedo, complexo",
-			"gearCategory": "Jogos e Brinquedos"
-		},
-		"Belt buckle, decorative": {
-			"name": "Fivela de cinto, decorativa",
-			"gearCategory": "Gemas, Joalheria e Ferraria"
-		},
-		"Meal - Opulent": {
-			"name": "Refeição - Opulenta",
-			"gearCategory": "Culinária e Comida"
-		},
-		"Blacksmithing Tools": {
-			"name": "Ferramentas de Ferraria",
-			"gearCategory": "Ferramentas"
-		},
-		"Vest": {
-			"name": "Colete",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"Cat": {
-			"name": "Gato",
-			"gearCategory": "Animais e Criação"
-		},
-		"AOt39NOKL2CqG7Zk": {
-			"name": "Ferramentas de Alquimia",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"GlJQrtDBhqIHLwCI": {
-			"name": "Ferramentas de Alquimia",
-			"gearCategory": "Ferramentas"
-		},
-		"8o8KVSgpYsNFtGz2": {
-			"name": "Mochila",
-			"description": "<p><span class=\"fontstyle0\">Adicione +2 espaço ao Inventário quando equipado.</span></p>",
-			"gearCategory": "Ar Livre",
-			"effects": {
-				"Bonus Inventory": {
-					"name": "Inventário Bônus"
-				}
-			}
-		},
-		"NDwqdKvIY95hFuHy": {
-			"name": "Mochila",
-			"description": "<p><span class=\"fontstyle0\">Adicione +2 espaço ao Inventário quando equipado.</span></p>",
-			"gearCategory": "Ar Livre",
-			"effects": {
-				"Bonus Inventory": {
-					"name": "Inventário Bônus"
-				}
-			}
-		},
-		"Y8H21qyxnJjwpulj": {
-			"name": "Saco de dormir",
-			"gearCategory": "Ar Livre"
-		},
-		"YHXzL4H8Dhajk2hg": {
-			"name": "Saco de dormir",
-			"gearCategory": "Itens Pessoais"
-		},
-		"6OOvhBz0fJBUGbPI": {
-			"name": "Cobertor",
-			"gearCategory": "Itens Pessoais"
-		},
-		"g5Iu23RyJtVuLz48": {
-			"name": "Cobertor",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"GoYDfP0HISDfZpkK": {
-			"name": "Garrafa, de vidro",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 1/2 pintas</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"x9N1eTCFiqdXGGAG": {
-			"name": "Garrafa, de vidro",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"R3ExFJw7QkcVjURT": {
-			"name": "Balde",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"wke5SmMDTzsejlbP": {
-			"name": "Balde",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 galão</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"zQihzDSFG3M86zEj": {
-			"name": "Balde",
-			"gearCategory": "Ferragens"
-		},
-		"dDiqUkTeOUJJKGaO": {
-			"name": "Estojo, mapa/pergaminho",
-			"gearCategory": "Astronomia e Navegação"
-		},
-		"goIp2SHolbKYBWaP": {
-			"name": "Estojo, mapa/pergaminho",
-			"gearCategory": "Livros e Magia"
-		},
-		"2QNfgz8v1FfPk3qc": {
-			"name": "Caldeirão",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"OjmuPQhLV7NKMT9I": {
-			"name": "Caldeirão",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 30 galões</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"Jfh9uo30NbPwGPAR": {
-			"name": "Roupas, casuais",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"o6J6caVZb7es0GCa": {
-			"name": "Roupas, casuais",
-			"gearCategory": "Itens Pessoais"
-		},
-		"PehvORieuUtMALxd": {
-			"name": "Ferramentas de Culinária",
-			"gearCategory": "Culinária e Comida"
-		},
-		"lBkidNBZhUNSz614": {
-			"name": "Ferramentas de Culinária",
-			"gearCategory": "Ferramentas"
-		},
-		"V35QI1VR8hDpnogb": {
-			"name": "Frasco",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"cBqMdQdZVjWVNiHJ": {
-			"name": "Frasco",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"4aCWNEL9ukLcwA2N": {
-			"name": "Proveta",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"VR6sFUss8HA7nMLB": {
-			"name": "Proveta",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1/4 de pinta</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"50zxmjaz7VXO6UuO": {
-			"name": "Tinta, encantada (1 oz)",
-			"gearCategory": "Livros e Magia"
-		},
-		"b4pBwO7RqADm60NL": {
-			"name": "Tinta, encantada (1 oz)",
-			"gearCategory": "Itens Pessoais"
-		},
-		"lG4XMlYrLnvGDA4I": {
-			"name": "Jarro - Argila",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"tpbuf6PzLFuf3Uru": {
-			"name": "Jarro - Argila",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"5Niq7PMBoVibDL4z": {
-			"name": "Jarro - Vidro",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"L3oNcl6m9de2NKvo": {
-			"name": "Jarro - Vidro",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"JpUvADAwZczBdUu8": {
-			"name": "Jarro - Metal",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"VYE2rbwxfEraB0fE": {
-			"name": "Jarro - Metal",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"GPSOhOhII3ksxSUX": {
-			"name": "Jarra, de argila",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"pzif76vOmMrIF95D": {
-			"name": "Jarra, de argila",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 galão</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"OpEMTKENRnn3d3p8": {
-			"name": "Lupa",
-			"gearCategory": "Ferragens"
-		},
-		"ptEnqWH91mEgZDWg": {
-			"name": "Lupa",
-			"gearCategory": "Livros e Magia"
-		},
-		"jmMS8WOkHc4HBc6q": {
-			"name": "Kit de refeição",
-			"gearCategory": "Itens Pessoais"
-		},
-		"xaASk1oaUAvspnm9": {
-			"name": "Kit de refeição",
-			"gearCategory": "Culinária e Comida"
-		},
-		"4J03dhnTcy72UPKl": {
-			"name": "Cafeteira",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"v33sIHOecNltKmUL": {
-			"name": "Cafeteira",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"2oyCDxfhA5X9XZ5q": {
-			"name": "Perfume, frasco",
-			"gearCategory": "Itens Pessoais"
-		},
-		"C8YAfd9S6CgEtghv": {
-			"name": "Perfume, frasco",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"lAKMZcmQ3vHWk24a": {
-			"name": "Perfume, frasco",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"8tdirTUhrKMmzTQC": {
-			"name": "Panela - Argila",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"XdBWFxLqxM6PHT1E": {
-			"name": "Panela - Argila",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 galão</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"9tSviQwumzsjmGXB": {
-			"name": "Panela - Ferro",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"tG22a00yQlWzomrg": {
-			"name": "Panela - Ferro",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 galão</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"4ep7WaOltk6v2FQY": {
-			"name": "Navalha, de barbear",
-			"gearCategory": "Itens Pessoais"
-		},
-		"ZXCPHkb5wJtVTqKD": {
-			"name": "Navalha, de barbear",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"VLMM13nAuEhFY962": {
-			"name": "Corda (50 pés)",
-			"gearCategory": "Ferragens"
-		},
-		"b3nK7gDPNtEv5TNC": {
-			"name": "Corda (50 pés)",
-			"gearCategory": "Ar Livre"
-		},
-		"2tmwJdmyKuXURUWA": {
-			"name": "Saco",
-			"gearCategory": "Ferragens"
-		},
-		"HLCVbzm5UmrI0qkC": {
-			"name": "Saco",
-			"gearCategory": "Culinária e Comida"
-		},
-		"IADtvT0DdypbIkCb": {
-			"name": "Pá",
-			"gearCategory": "Ferragens"
-		},
-		"o9Uoe5AsoQ1AKFdR": {
-			"name": "Pá",
-			"gearCategory": "Ar Livre"
-		},
-		"7gzajs5HKegDXaW4": {
-			"name": "Sabonete, barra",
-			"gearCategory": "Vestuário, Higiene e Têxteis"
-		},
-		"flXdEBxdAkpr2iZb": {
-			"name": "Sabonete, barra",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"k9TpEFiAGcyCCkb3": {
-			"name": "Sabonete, barra",
-			"gearCategory": "Itens Pessoais"
-		},
-		"2OpraGvajtzozyxT": {
-			"name": "Luneta",
-			"gearCategory": "Astronomia e Navegação"
-		},
-		"njsZ3fbY2Ad5C9Hu": {
-			"name": "Luneta",
-			"gearCategory": "Ar Livre"
-		},
-		"ZNnkBeYF1yvYS5LV": {
-			"name": "Tenaz",
-			"gearCategory": "Culinária e Comida"
-		},
-		"iH7sBTfgNKhepRIL": {
-			"name": "Tenaz",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"5tcLQhdAdANKrBvD": {
-			"name": "Bugiganga",
-			"gearCategory": "Livros e Magia"
-		},
-		"h9xXLqR2nDPKGV3Z": {
-			"name": "Bugiganga",
-			"gearCategory": "Itens Pessoais"
-		},
-		"FJupgRhGilRe7nWT": {
-			"name": "Frasco - Argila",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"jgR5XhsZK7rH6b8t": {
-			"name": "Frasco - Argila",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 4 onças</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"5W8XP7qJ4PQrh6Ji": {
-			"name": "Frasco - Vidro",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"8JZNvhjdL5nTC19W": {
-			"name": "Frasco - Vidro",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 4 onças</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"OyoXoP0sOfhgpyHm": {
-			"name": "Frasco - Incrustado de Ouro",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"dyOa7L1dj9hncojf": {
-			"name": "Frasco - Incrustado de Ouro",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 4 onças</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"BpoCcIxNAaDAxmzQ": {
-			"name": "Frasco - Metal",
-			"description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 4 onças</span></p>",
-			"gearCategory": "Recipientes e Bolsas"
-		},
-		"tSz10GDgFOpJIfqb": {
-			"name": "Frasco - Metal",
-			"gearCategory": "Alquimia e Medicina"
-		},
-		"4DcbA7RsHfBOPJIa": {
-			"name": "Odre de Água",
-			"gearCategory": "Ar Livre"
-		},
-		"EhdUKOslISNPsqJj": {
-			"name": "Odre de Água",
-			"gearCategory": "Culinária e Comida"
-		},
-		"jd6n1Zfo1tAWCCNe": {
-			"name": "Odre de Água",
-			"gearCategory": "Itens Pessoais"
-		},
-		"6EbC2rgRkNJ4C2at": {
-			"name": "Estaca de madeira",
-			"gearCategory": "Ferragens"
-		},
-		"8NqWEQLxMIvYY71A": {
-			"name": "Estaca de madeira",
-			"gearCategory": "Livros e Magia"
-		}
-	}
+  "label": "Equipamentos",
+  "folders": {
+    "Ammunition": "Munição",
+    "Currencies": "Moedas",
+    "Books & Magic": "Livros e Magia",
+    "Alchemy & Medicine": "Alquimia e Medicina",
+    "Beasts & Husbandry": "Animais e Criação",
+    "Clothing Hygiene & Textiles": "Vestuário, Higiene e Têxteis",
+    "Containers & Packs": "Recipientes e Bolsas",
+    "Cooking & Food": "Culinária e Comida",
+    "Gems, Jewelry, & Smithing": "Gemas, Joalheria e Ferraria",
+    "Games & Toys": "Jogos e Brinquedos",
+    "Hardware": "Ferragens",
+    "Liquor & Spirits": "Bebidas Destiladas",
+    "Musical": "Musical",
+    "Outdoors": "Ar Livre",
+    "Personal Items": "Itens Pessoais",
+    "Tools": "Ferramentas",
+    "Astronomy & Navigation": "Astronomia e Navegação",
+    "Trade Goods": "Mercadorias",
+    "Trinkets": "Trinkets",
+    "Arcane": "Arcano",
+    "Divine": "Divino",
+    "Occult": "Oculto",
+    "Primal": "Primal"
+  },
+  "entries": {
+    "Tankard": {
+      "name": "Caneca",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Gems & Precious Minerals - Uncommon": {
+      "name": "Gemas e Minerais Preciosos - Incomum",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Drill, hand": {
+      "name": "Furadeira, manual",
+      "gearCategory": "Ferragens"
+    },
+    "Egg, dozen": {
+      "name": "Ovo, dúzia",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Parchment (1 sheet)": {
+      "name": "Pergaminho (1 folha)",
+      "gearCategory": "Livros e Magia"
+    },
+    "Pants, casual": {
+      "name": "Calça, casual",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Fowl - Duck": {
+      "name": "Ave - Pato",
+      "gearCategory": "Animais e Criação"
+    },
+    "Antitoxin": {
+      "name": "Antitoxina",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Doll": {
+      "name": "Boneca",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Oil, flask": {
+      "name": "Óleo, frasco",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Ladder (10-foot)": {
+      "name": "Escada (10 pés)",
+      "gearCategory": "Ferragens"
+    },
+    "Locket": {
+      "name": "Medalhão",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Periscope": {
+      "name": "Periscópio",
+      "gearCategory": "Astronomia e Navegação"
+    },
+    "Smock": {
+      "name": "Avental",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Clothes, formal": {
+      "name": "Roupas, formais",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Kicksack": {
+      "name": "Bola de Embaixadinha",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Hourglass, hour": {
+      "name": "Ampulheta, de hora",
+      "gearCategory": "Livros e Magia"
+    },
+    "Wine - Fine, cask of": {
+      "name": "Vinho - Fino, barril de",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Concertina": {
+      "name": "Concertina",
+      "gearCategory": "Musical"
+    },
+    "Kettle": {
+      "name": "Chaleira",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Sportball": {
+      "name": "Bola Esportiva",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Mantle": {
+      "name": "Manto",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Liquor - Tankard": {
+      "name": "Bebida Destilada - Caneca",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Glass, tubing (1-foot)": {
+      "name": "Vidro, tubo (1 pé)",
+      "gearCategory": "Ferragens"
+    },
+    "Alchemical Item - Masterwork": {
+      "name": "Item Alquímico - Obra-Prima",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Drum": {
+      "name": "Tambor",
+      "gearCategory": "Musical"
+    },
+    "Dog - Common": {
+      "name": "Cão - Comum",
+      "gearCategory": "Animais e Criação"
+    },
+    "Can opener": {
+      "name": "Abridor de latas",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Circlet, gold": {
+      "name": "Diadema, dourado",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Crucible": {
+      "name": "Cadinho",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Bellows": {
+      "name": "Fole",
+      "gearCategory": "Ferragens"
+    },
+    "Grappling hook": {
+      "name": "Gancho de escalada",
+      "gearCategory": "Ar Livre"
+    },
+    "Ale/Cider - Barrel, small": {
+      "name": "Cerveja/Sidra - Barril, pequeno",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Quiver": {
+      "name": "Aljava",
+      "gearCategory": "Munição"
+    },
+    "Scribing Tools": {
+      "name": "Ferramentas de Escrita",
+      "gearCategory": "Ferramentas"
+    },
+    "Salt (1 lb. bag)": {
+      "name": "Sal (saco de 1 lb)",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Spices (per 1 lb.) - Common": {
+      "name": "Especiarias (por 1 lb) - Comum",
+      "gearCategory": "Mercadorias"
+    },
+    "Pickaxe": {
+      "name": "Picareta",
+      "gearCategory": "Ferragens"
+    },
+    "Noisemaker": {
+      "name": "Matraca",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Flute": {
+      "name": "Flauta",
+      "gearCategory": "Musical"
+    },
+    "Animal feed (per Day)": {
+      "name": "Ração animal (por Dia)",
+      "gearCategory": "Animais e Criação"
+    },
+    "Horses - Draft": {
+      "name": "Cavalos - de Tiro",
+      "gearCategory": "Animais e Criação"
+    },
+    "Spikes, iron (10)": {
+      "name": "Estacas, de ferro (10)",
+      "gearCategory": "Ferragens"
+    },
+    "Rations (1 day)": {
+      "name": "Rações (1 dia)",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Shirt, casual": {
+      "name": "Camisa, casual",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Hammock": {
+      "name": "Rede de dormir",
+      "gearCategory": "Ar Livre"
+    },
+    "Silver": {
+      "name": "Prata"
+    },
+    "Book": {
+      "name": "Livro",
+      "gearCategory": "Livros e Magia"
+    },
+    "Dress, casual": {
+      "name": "Vestido, casual",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Ring, basic": {
+      "name": "Anel, básico",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Materials (1g)": {
+      "name": "Materiais (1o)",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Rats, bag of 20": {
+      "name": "Ratos, saco de 20",
+      "gearCategory": "Animais e Criação"
+    },
+    "Scarf": {
+      "name": "Cachecol",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Dice set": {
+      "name": "Conjunto de dados",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Hurdy gurdy": {
+      "name": "Sanfona de Manivela",
+      "gearCategory": "Musical"
+    },
+    "Dress, formal": {
+      "name": "Vestido, formal",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Cattle - Bull": {
+      "name": "Gado - Touro",
+      "gearCategory": "Animais e Criação"
+    },
+    "Caltrops, bag of 10": {
+      "name": "Estrepes, saco de 10",
+      "gearCategory": "Ar Livre"
+    },
+    "Cowl": {
+      "name": "Capuz",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Gems & Precious Minerals - Rare": {
+      "name": "Gemas e Minerais Preciosos - Raro",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Iron pot": {
+      "name": "Panela de ferro",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Trumpet": {
+      "name": "Trompete",
+      "gearCategory": "Musical"
+    },
+    "Lute": {
+      "name": "Alaúde",
+      "gearCategory": "Musical"
+    },
+    "String/twine, 100 feet": {
+      "name": "Barbante/cordão, 100 pés",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Astrolabe": {
+      "name": "Astrolábio",
+      "gearCategory": "Astronomia e Navegação"
+    },
+    "Saddle & tack": {
+      "name": "Sela e arreios",
+      "gearCategory": "Animais e Criação"
+    },
+    "Cattle - Bison": {
+      "name": "Gado - Bisão",
+      "gearCategory": "Animais e Criação"
+    },
+    "Signal whistle": {
+      "name": "Apito de sinalização",
+      "gearCategory": "Ar Livre"
+    },
+    "Hammer, sledge": {
+      "name": "Martelo, marreta",
+      "gearCategory": "Ferragens"
+    },
+    "Fabric - Plain (1 sq. yd.)": {
+      "name": "Tecido - Simples (1 jarda quadrada)",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Compass": {
+      "name": "Bússola",
+      "gearCategory": "Astronomia e Navegação"
+    },
+    "Bagpipes": {
+      "name": "Gaita de Foles",
+      "gearCategory": "Musical"
+    },
+    "Chain (10 feet)": {
+      "name": "Corrente (10 pés)",
+      "gearCategory": "Ferragens"
+    },
+    "Herbalism Tools": {
+      "name": "Ferramentas de Herbalismo",
+      "gearCategory": "Ferramentas"
+    },
+    "Doublet": {
+      "name": "Gibão",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Wax, beeswax (1 lb.)": {
+      "name": "Cera, de abelha (1 lb)",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Costume": {
+      "name": "Fantasia",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Wine - Common, cup of": {
+      "name": "Vinho - Comum, copo de",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Bell, handheld": {
+      "name": "Sino, de mão",
+      "gearCategory": "Ferragens"
+    },
+    "Cape": {
+      "name": "Capa",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Orrery": {
+      "name": "Planetário Mecânico",
+      "gearCategory": "Astronomia e Navegação"
+    },
+    "Paint, pot": {
+      "name": "Tinta, pote",
+      "gearCategory": "Ferragens"
+    },
+    "Cards - deck, playing": {
+      "name": "Cartas - baralho, de jogar",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Liquor - Barrel": {
+      "name": "Bebida Destilada - Barril",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Monocle": {
+      "name": "Monóculo",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Spices - Exotic": {
+      "name": "Especiarias - Exóticas",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Ingot - Copper": {
+      "name": "Lingote - Cobre",
+      "gearCategory": "Mercadorias"
+    },
+    "Cards - deck, tarot": {
+      "name": "Cartas - baralho, de tarô",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Ale/Cider - Gallon": {
+      "name": "Cerveja/Sidra - Galão",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Bolt case": {
+      "name": "Estojo de virotes"
+    },
+    "Meal - Good": {
+      "name": "Refeição - Boa",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Chalk, piece of": {
+      "name": "Giz, pedaço de",
+      "gearCategory": "Ferragens"
+    },
+    "Gems & Precious Minerals - Very rare": {
+      "name": "Gemas e Minerais Preciosos - Muito raro",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Girdle": {
+      "name": "Cinta",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Wine - Fine, bottle of": {
+      "name": "Vinho - Fino, garrafa de",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Magnet, small": {
+      "name": "Ímã, pequeno",
+      "gearCategory": "Ferragens"
+    },
+    "Ring, crest/signet": {
+      "name": "Anel, brasão/sinete",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Quill": {
+      "name": "Pena de escrever",
+      "gearCategory": "Livros e Magia"
+    },
+    "Tinderbox": {
+      "name": "Caixa de Isca",
+      "gearCategory": "Ar Livre"
+    },
+    "Materials (50s)": {
+      "name": "Materiais (50p)",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Dice set, loaded": {
+      "name": "Conjunto de dados, viciados",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Chisel": {
+      "name": "Cinzel",
+      "gearCategory": "Ferragens"
+    },
+    "Barding, heavy": {
+      "name": "Bardadura, pesada",
+      "gearCategory": "Animais e Criação"
+    },
+    "Mirror": {
+      "name": "Espelho",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Hunting horn": {
+      "name": "Corneta de Caça",
+      "gearCategory": "Musical"
+    },
+    "Stabling (per day)": {
+      "name": "Estábulo (por dia)",
+      "gearCategory": "Animais e Criação"
+    },
+    "Horses - Warhorse": {
+      "name": "Cavalos - de Guerra",
+      "gearCategory": "Animais e Criação"
+    },
+    "Shawm": {
+      "name": "Charamela",
+      "gearCategory": "Musical"
+    },
+    "Elephant": {
+      "name": "Elefante",
+      "gearCategory": "Animais e Criação"
+    },
+    "Rat": {
+      "name": "Rato",
+      "gearCategory": "Animais e Criação"
+    },
+    "Alchemical Item - Simple": {
+      "name": "Item Alquímico - Simples",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Beer - Keg": {
+      "name": "Cerveja - Barril pequeno",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Telescope": {
+      "name": "Telescópio",
+      "gearCategory": "Astronomia e Navegação"
+    },
+    "Hunting trap": {
+      "name": "Armadilha de Caça",
+      "gearCategory": "Ar Livre"
+    },
+    "Gems & Precious Minerals - Common": {
+      "name": "Gemas e Minerais Preciosos - Comum",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Barrette": {
+      "name": "Presilha de cabelo",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Tunic": {
+      "name": "Túnica",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Personal seal": {
+      "name": "Selo pessoal",
+      "gearCategory": "Mercadorias"
+    },
+    "Scroll, blank": {
+      "name": "Pergaminho, em branco",
+      "gearCategory": "Livros e Magia"
+    },
+    "Ale/Cider - Mug": {
+      "name": "Cerveja/Sidra - Caneca",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Iron pan": {
+      "name": "Frigideira de ferro",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Marbles, bag of": {
+      "name": "Bolinhas de gude, saco de",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Ingot - Silver": {
+      "name": "Lingote - Prata",
+      "gearCategory": "Mercadorias"
+    },
+    "Pole, collapsing (10-foot)": {
+      "name": "Vara, retrátil (10 pés)",
+      "gearCategory": "Ferragens"
+    },
+    "Spices (per 1 lb.) - Rare": {
+      "name": "Especiarias (por 1 lb) - Rara",
+      "gearCategory": "Mercadorias"
+    },
+    "Horses - Pony": {
+      "name": "Cavalos - Pônei",
+      "gearCategory": "Animais e Criação"
+    },
+    "Gloves": {
+      "name": "Luvas",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Woodworking Tools": {
+      "name": "Ferramentas de Marcenaria",
+      "gearCategory": "Ferramentas"
+    },
+    "Horses - Riding": {
+      "name": "Cavalos - de Montaria",
+      "gearCategory": "Animais e Criação"
+    },
+    "Harp": {
+      "name": "Harpa",
+      "gearCategory": "Musical"
+    },
+    "Wine - Fine, cup of": {
+      "name": "Vinho - Fino, copo de",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Mule": {
+      "name": "Mula",
+      "gearCategory": "Animais e Criação"
+    },
+    "Camel": {
+      "name": "Camelo",
+      "gearCategory": "Animais e Criação"
+    },
+    "Tinker Tools": {
+      "name": "Ferramentas de Consertos",
+      "gearCategory": "Ferramentas"
+    },
+    "Meal - Horrible": {
+      "name": "Refeição - Horrível",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Copper": {
+      "name": "Cobre"
+    },
+    "Cards - deck, marked": {
+      "name": "Cartas - baralho, marcado",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Incense (stick)": {
+      "name": "Incenso (bastão)",
+      "gearCategory": "Livros e Magia"
+    },
+    "Liquor - Bottle": {
+      "name": "Bebida Destilada - Garrafa",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Glass cutter": {
+      "name": "Cortador de vidro",
+      "gearCategory": "Ferragens"
+    },
+    "Lantern, hooded": {
+      "name": "Lanterna, encapuzada",
+      "gearCategory": "Ar Livre"
+    },
+    "Spices - Rare": {
+      "name": "Especiarias - Raras",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Candle mold": {
+      "name": "Molde de vela",
+      "gearCategory": "Livros e Magia"
+    },
+    "Tent, ten-person": {
+      "name": "Barraca, para dez pessoas",
+      "gearCategory": "Ar Livre"
+    },
+    "Brazier": {
+      "name": "Braseiro",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Book, blank": {
+      "name": "Livro, em branco",
+      "gearCategory": "Itens Pessoais"
+    },
+    "Pottery Tools": {
+      "name": "Ferramentas de Cerâmica",
+      "gearCategory": "Ferramentas"
+    },
+    "Ball bearings, bag": {
+      "name": "Esferas de rolamento, saco de",
+      "gearCategory": "Ferragens"
+    },
+    "Pendant": {
+      "name": "Pingente",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Paint, gallon": {
+      "name": "Tinta, galão",
+      "gearCategory": "Ferragens"
+    },
+    "Pipe, smoking": {
+      "name": "Cachimbo",
+      "gearCategory": "Itens Pessoais"
+    },
+    "Fishing tackle": {
+      "name": "Apetrechos de pesca",
+      "gearCategory": "Ar Livre"
+    },
+    "Lantern, bullseye": {
+      "name": "Lanterna, olho-de-boi",
+      "gearCategory": "Ar Livre"
+    },
+    "Heat mat": {
+      "name": "Esteira térmica",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Circlet, brass": {
+      "name": "Diadema, latão",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Wine - Common, cask of": {
+      "name": "Vinho - Comum, barril de",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Ingot": {
+      "name": "Lingote",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Mortar and pestle": {
+      "name": "Almofariz e pilão",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Skirt": {
+      "name": "Saia",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Chest": {
+      "name": "Baú",
+      "gearCategory": "Ferragens"
+    },
+    "Firecracker": {
+      "name": "Bombinha",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Jeweler Tools": {
+      "name": "Ferramentas de Joalheria",
+      "gearCategory": "Ferramentas"
+    },
+    "Amulet/necklace": {
+      "name": "Amuleto/colar",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Block and tackle": {
+      "name": "Sistema de Roldanas",
+      "gearCategory": "Ferragens"
+    },
+    "Nails, iron (50)": {
+      "name": "Pregos, de ferro (50)",
+      "gearCategory": "Ferragens"
+    },
+    "Tent, four-person": {
+      "name": "Barraca, para quatro pessoas",
+      "gearCategory": "Ar Livre"
+    },
+    "Produce (Fruits & Vegetables) - Single": {
+      "name": "Produtos (Frutas e Verduras) - Unidade",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Sacbut": {
+      "name": "Sacabuxa",
+      "gearCategory": "Musical"
+    },
+    "Beer - Mug": {
+      "name": "Cerveja - Caneca",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Med Kit": {
+      "name": "Kit Médico",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Barding, light": {
+      "name": "Bardadura, leve",
+      "gearCategory": "Animais e Criação"
+    },
+    "Sealing wax": {
+      "name": "Cera de lacre",
+      "gearCategory": "Livros e Magia"
+    },
+    "Tent, one-person": {
+      "name": "Barraca, para uma pessoa",
+      "gearCategory": "Ar Livre"
+    },
+    "Cattle - Ox": {
+      "name": "Gado - Boi",
+      "gearCategory": "Animais e Criação"
+    },
+    "Flint & steel": {
+      "name": "Pederneira e aço",
+      "gearCategory": "Ar Livre"
+    },
+    "Accordion": {
+      "name": "Acordeão",
+      "gearCategory": "Musical"
+    },
+    "Shoes, formal": {
+      "name": "Sapatos, formais",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Produce - 1 lb. bag": {
+      "name": "Produtos - saco de 1 lb",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Pole (10-foot)": {
+      "name": "Vara (10 pés)",
+      "gearCategory": "Ferragens"
+    },
+    "Ale/Cider - Barrel, large": {
+      "name": "Cerveja/Sidra - Barril, grande",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Cattle - Cow": {
+      "name": "Gado - Vaca",
+      "gearCategory": "Animais e Criação"
+    },
+    "Whetstone": {
+      "name": "Pedra de Amolar",
+      "gearCategory": "Ferragens"
+    },
+    "Tripod, cooking": {
+      "name": "Tripé, de cozinha",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Ale/Cider - Keg": {
+      "name": "Cerveja/Sidra - Barril pequeno",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Ink, writing (1 oz)": {
+      "name": "Tinta, de escrever (1 oz)",
+      "gearCategory": "Livros e Magia"
+    },
+    "Spices (per 1 lb.) - Exotic": {
+      "name": "Especiarias (por 1 lb) - Exótica",
+      "gearCategory": "Mercadorias"
+    },
+    "Book, sheet music": {
+      "name": "Livro, partitura",
+      "gearCategory": "Musical"
+    },
+    "Rabbit": {
+      "name": "Coelho",
+      "gearCategory": "Animais e Criação"
+    },
+    "Holy water": {
+      "name": "Água Benta",
+      "gearCategory": "Livros e Magia"
+    },
+    "Liquor - Shot of": {
+      "name": "Bebida Destilada - Dose de",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Fishing rod": {
+      "name": "Vara de pescar",
+      "gearCategory": "Ar Livre"
+    },
+    "Coffee grounds (1 lb. bag)": {
+      "name": "Pó de café (saco de 1 lb)",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Air bladder": {
+      "name": "Bexiga de ar",
+      "gearCategory": "Ar Livre"
+    },
+    "Ingredients (1g)": {
+      "name": "Ingredientes (1o)",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Clothes, winter set": {
+      "name": "Roupas, conjunto de inverno",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Paper (1 sheet)": {
+      "name": "Papel (1 folha)",
+      "gearCategory": "Livros e Magia"
+    },
+    "Oil, cooking (flask)": {
+      "name": "Óleo, de cozinha (frasco)",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Bracelet, silver": {
+      "name": "Bracelete, de prata",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Spellbook": {
+      "name": "Grimório",
+      "gearCategory": "Livros e Magia"
+    },
+    "Meal - Excellent": {
+      "name": "Refeição - Excelente",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Earplugs": {
+      "name": "Protetores de ouvido",
+      "gearCategory": "Ferragens"
+    },
+    "Gold": {
+      "name": "Ouro"
+    },
+    "Fabric - Fine (1 sq. yd.)": {
+      "name": "Tecido - Fino (1 jarda quadrada)",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Vestments": {
+      "name": "Vestes Litúrgicas",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Piton": {
+      "name": "Grampo de escalada",
+      "gearCategory": "Ferragens"
+    },
+    "Pants, formal": {
+      "name": "Calça, formal",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Fowl - Chicken, hen": {
+      "name": "Ave - Galinha",
+      "gearCategory": "Animais e Criação"
+    },
+    "Censer": {
+      "name": "Incensário",
+      "gearCategory": "Livros e Magia"
+    },
+    "Dog - Warhound": {
+      "name": "Cão - de Guerra",
+      "gearCategory": "Animais e Criação"
+    },
+    "Hammer": {
+      "name": "Martelo",
+      "gearCategory": "Ferragens"
+    },
+    "Candle": {
+      "name": "Vela",
+      "gearCategory": "Livros e Magia"
+    },
+    "Lockpick": {
+      "name": "Gazua",
+      "gearCategory": "Ferragens"
+    },
+    "Spices - Common": {
+      "name": "Especiarias - Comuns",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Needle, sewing": {
+      "name": "Agulha, de costura",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Lyre": {
+      "name": "Lira",
+      "gearCategory": "Musical"
+    },
+    "Tent, two-person": {
+      "name": "Barraca, para duas pessoas",
+      "gearCategory": "Ar Livre"
+    },
+    "Alchemical Item - Intricate": {
+      "name": "Item Alquímico - Intricado",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "Tripwire": {
+      "name": "Fio-armadilha",
+      "gearCategory": "Ferragens"
+    },
+    "Flour (1 lb. bag)": {
+      "name": "Farinha (saco de 1 lb)",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Wax, sealing (1 lb.)": {
+      "name": "Cera, de lacre (1 lb)",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Juggling balls, set of 3": {
+      "name": "Bolas de malabarismo, conjunto de 3",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Box of bullets": {
+      "name": "Caixa de balas",
+      "gearCategory": "Munição"
+    },
+    "Chalk, bag of": {
+      "name": "Giz, saco de",
+      "gearCategory": "Livros e Magia"
+    },
+    "Bread, loaf of": {
+      "name": "Pão, fôrma de",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Boots": {
+      "name": "Botas",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Spectacles": {
+      "name": "Óculos",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Ingot - Gold": {
+      "name": "Lingote - Ouro",
+      "gearCategory": "Mercadorias"
+    },
+    "Shirt, formal": {
+      "name": "Camisa, formal",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Heatsuit outfit": {
+      "name": "Traje Térmico",
+      "gearCategory": "Ar Livre"
+    },
+    "Fowl - Chicken, rooster": {
+      "name": "Ave - Galo",
+      "gearCategory": "Animais e Criação"
+    },
+    "Cloak": {
+      "name": "Capa Longa",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Shoes, casual": {
+      "name": "Sapatos, casuais",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Brewing Tools": {
+      "name": "Ferramentas de Fabricação de Cerveja",
+      "gearCategory": "Ferramentas"
+    },
+    "Toy, basic": {
+      "name": "Brinquedo, básico",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Torch": {
+      "name": "Tocha",
+      "gearCategory": "Ar Livre"
+    },
+    "Crowbar": {
+      "name": "Pé-de-cabra",
+      "gearCategory": "Ferragens"
+    },
+    "Manacles": {
+      "name": "Algemas",
+      "gearCategory": "Ferragens"
+    },
+    "Makeup kit": {
+      "name": "Kit de maquiagem",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Toy, premium": {
+      "name": "Brinquedo, premium",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Sunrod": {
+      "name": "Bastão Solar",
+      "gearCategory": "Itens Pessoais"
+    },
+    "Wine - Common, bottle of": {
+      "name": "Vinho - Comum, garrafa de",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Earring": {
+      "name": "Brinco",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Bracelet, gold": {
+      "name": "Bracelete, de ouro",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Meal - Delicious": {
+      "name": "Refeição - Deliciosa",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Meal - Poor": {
+      "name": "Refeição - Pobre",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Leatherworking Tools": {
+      "name": "Ferramentas de Couraria",
+      "gearCategory": "Ferramentas"
+    },
+    "Frock": {
+      "name": "Sobrecasaca",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Robe": {
+      "name": "Robe",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Basket": {
+      "name": "Cesta",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Beer - Gallon": {
+      "name": "Cerveja - Galão",
+      "gearCategory": "Bebidas Destiladas"
+    },
+    "Game set": {
+      "name": "Conjunto de Jogo",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Sundial": {
+      "name": "Relógio de Sol",
+      "gearCategory": "Astronomia e Navegação"
+    },
+    "Scale, merchant's": {
+      "name": "Balança, de mercador",
+      "gearCategory": "Mercadorias"
+    },
+    "Scissors": {
+      "name": "Tesoura",
+      "gearCategory": "Ferragens"
+    },
+    "Circlet, silver": {
+      "name": "Diadema, prata",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Leggings": {
+      "name": "Perneiras",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Caftan": {
+      "name": "Cafetã",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Belt": {
+      "name": "Cinto",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Pouch": {
+      "name": "Bolsa pequena",
+      "gearCategory": "Ferragens"
+    },
+    "Lamp": {
+      "name": "Lampião",
+      "gearCategory": "Ar Livre"
+    },
+    "Toy, complex": {
+      "name": "Brinquedo, complexo",
+      "gearCategory": "Jogos e Brinquedos"
+    },
+    "Belt buckle, decorative": {
+      "name": "Fivela de cinto, decorativa",
+      "gearCategory": "Gemas, Joalheria e Ferraria"
+    },
+    "Meal - Opulent": {
+      "name": "Refeição - Opulenta",
+      "gearCategory": "Culinária e Comida"
+    },
+    "Blacksmithing Tools": {
+      "name": "Ferramentas de Ferraria",
+      "gearCategory": "Ferramentas"
+    },
+    "Vest": {
+      "name": "Colete",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "Cat": {
+      "name": "Gato",
+      "gearCategory": "Animais e Criação"
+    },
+    "AOt39NOKL2CqG7Zk": {
+      "name": "Ferramentas de Alquimia",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "GlJQrtDBhqIHLwCI": {
+      "name": "Ferramentas de Alquimia",
+      "gearCategory": "Ferramentas"
+    },
+    "8o8KVSgpYsNFtGz2": {
+      "name": "Mochila",
+      "description": "<p><span class=\"fontstyle0\">Adicione +2 espaço ao Inventário quando equipado.</span></p>",
+      "gearCategory": "Ar Livre",
+      "effects": {
+        "Bonus Inventory": {
+          "name": "Inventário Bônus"
+        }
+      }
+    },
+    "NDwqdKvIY95hFuHy": {
+      "name": "Mochila",
+      "description": "<p><span class=\"fontstyle0\">Adicione +2 espaço ao Inventário quando equipado.</span></p>",
+      "gearCategory": "Ar Livre",
+      "effects": {
+        "Bonus Inventory": {
+          "name": "Inventário Bônus"
+        }
+      }
+    },
+    "Y8H21qyxnJjwpulj": {
+      "name": "Saco de dormir",
+      "gearCategory": "Ar Livre"
+    },
+    "YHXzL4H8Dhajk2hg": {
+      "name": "Saco de dormir",
+      "gearCategory": "Itens Pessoais"
+    },
+    "6OOvhBz0fJBUGbPI": {
+      "name": "Cobertor",
+      "gearCategory": "Itens Pessoais"
+    },
+    "g5Iu23RyJtVuLz48": {
+      "name": "Cobertor",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "GoYDfP0HISDfZpkK": {
+      "name": "Garrafa, de vidro",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 1/2 pintas</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "x9N1eTCFiqdXGGAG": {
+      "name": "Garrafa, de vidro",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "R3ExFJw7QkcVjURT": {
+      "name": "Balde",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "wke5SmMDTzsejlbP": {
+      "name": "Balde",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 galão</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "zQihzDSFG3M86zEj": {
+      "name": "Balde",
+      "gearCategory": "Ferragens"
+    },
+    "dDiqUkTeOUJJKGaO": {
+      "name": "Estojo, mapa/pergaminho",
+      "gearCategory": "Astronomia e Navegação"
+    },
+    "goIp2SHolbKYBWaP": {
+      "name": "Estojo, mapa/pergaminho",
+      "gearCategory": "Livros e Magia"
+    },
+    "2QNfgz8v1FfPk3qc": {
+      "name": "Caldeirão",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "OjmuPQhLV7NKMT9I": {
+      "name": "Caldeirão",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 30 galões</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "Jfh9uo30NbPwGPAR": {
+      "name": "Roupas, casuais",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "o6J6caVZb7es0GCa": {
+      "name": "Roupas, casuais",
+      "gearCategory": "Itens Pessoais"
+    },
+    "PehvORieuUtMALxd": {
+      "name": "Ferramentas de Culinária",
+      "gearCategory": "Culinária e Comida"
+    },
+    "lBkidNBZhUNSz614": {
+      "name": "Ferramentas de Culinária",
+      "gearCategory": "Ferramentas"
+    },
+    "V35QI1VR8hDpnogb": {
+      "name": "Frasco",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "cBqMdQdZVjWVNiHJ": {
+      "name": "Frasco",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "4aCWNEL9ukLcwA2N": {
+      "name": "Proveta",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "VR6sFUss8HA7nMLB": {
+      "name": "Proveta",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1/4 de pinta</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "50zxmjaz7VXO6UuO": {
+      "name": "Tinta, encantada (1 oz)",
+      "gearCategory": "Livros e Magia"
+    },
+    "b4pBwO7RqADm60NL": {
+      "name": "Tinta, encantada (1 oz)",
+      "gearCategory": "Itens Pessoais"
+    },
+    "lG4XMlYrLnvGDA4I": {
+      "name": "Jarro - Argila",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "tpbuf6PzLFuf3Uru": {
+      "name": "Jarro - Argila",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "5Niq7PMBoVibDL4z": {
+      "name": "Jarro - Vidro",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "L3oNcl6m9de2NKvo": {
+      "name": "Jarro - Vidro",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "JpUvADAwZczBdUu8": {
+      "name": "Jarro - Metal",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "VYE2rbwxfEraB0fE": {
+      "name": "Jarro - Metal",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "GPSOhOhII3ksxSUX": {
+      "name": "Jarra, de argila",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "pzif76vOmMrIF95D": {
+      "name": "Jarra, de argila",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 galão</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "OpEMTKENRnn3d3p8": {
+      "name": "Lupa",
+      "gearCategory": "Ferragens"
+    },
+    "ptEnqWH91mEgZDWg": {
+      "name": "Lupa",
+      "gearCategory": "Livros e Magia"
+    },
+    "jmMS8WOkHc4HBc6q": {
+      "name": "Kit de refeição",
+      "gearCategory": "Itens Pessoais"
+    },
+    "xaASk1oaUAvspnm9": {
+      "name": "Kit de refeição",
+      "gearCategory": "Culinária e Comida"
+    },
+    "4J03dhnTcy72UPKl": {
+      "name": "Cafeteira",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 pinta</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "v33sIHOecNltKmUL": {
+      "name": "Cafeteira",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "2oyCDxfhA5X9XZ5q": {
+      "name": "Perfume, frasco",
+      "gearCategory": "Itens Pessoais"
+    },
+    "C8YAfd9S6CgEtghv": {
+      "name": "Perfume, frasco",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "lAKMZcmQ3vHWk24a": {
+      "name": "Perfume, frasco",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "8tdirTUhrKMmzTQC": {
+      "name": "Panela - Argila",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "XdBWFxLqxM6PHT1E": {
+      "name": "Panela - Argila",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 galão</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "9tSviQwumzsjmGXB": {
+      "name": "Panela - Ferro",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "tG22a00yQlWzomrg": {
+      "name": "Panela - Ferro",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 1 galão</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "4ep7WaOltk6v2FQY": {
+      "name": "Navalha, de barbear",
+      "gearCategory": "Itens Pessoais"
+    },
+    "ZXCPHkb5wJtVTqKD": {
+      "name": "Navalha, de barbear",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "VLMM13nAuEhFY962": {
+      "name": "Corda (50 pés)",
+      "gearCategory": "Ferragens"
+    },
+    "b3nK7gDPNtEv5TNC": {
+      "name": "Corda (50 pés)",
+      "gearCategory": "Ar Livre"
+    },
+    "2tmwJdmyKuXURUWA": {
+      "name": "Saco",
+      "gearCategory": "Ferragens"
+    },
+    "HLCVbzm5UmrI0qkC": {
+      "name": "Saco",
+      "gearCategory": "Culinária e Comida"
+    },
+    "IADtvT0DdypbIkCb": {
+      "name": "Pá",
+      "gearCategory": "Ferragens"
+    },
+    "o9Uoe5AsoQ1AKFdR": {
+      "name": "Pá",
+      "gearCategory": "Ar Livre"
+    },
+    "7gzajs5HKegDXaW4": {
+      "name": "Sabonete, barra",
+      "gearCategory": "Vestuário, Higiene e Têxteis"
+    },
+    "flXdEBxdAkpr2iZb": {
+      "name": "Sabonete, barra",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "k9TpEFiAGcyCCkb3": {
+      "name": "Sabonete, barra",
+      "gearCategory": "Itens Pessoais"
+    },
+    "2OpraGvajtzozyxT": {
+      "name": "Luneta",
+      "gearCategory": "Astronomia e Navegação"
+    },
+    "njsZ3fbY2Ad5C9Hu": {
+      "name": "Luneta",
+      "gearCategory": "Ar Livre"
+    },
+    "ZNnkBeYF1yvYS5LV": {
+      "name": "Tenaz",
+      "gearCategory": "Culinária e Comida"
+    },
+    "iH7sBTfgNKhepRIL": {
+      "name": "Tenaz",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "5tcLQhdAdANKrBvD": {
+      "name": "Bugiganga",
+      "gearCategory": "Livros e Magia"
+    },
+    "h9xXLqR2nDPKGV3Z": {
+      "name": "Bugiganga",
+      "gearCategory": "Itens Pessoais"
+    },
+    "FJupgRhGilRe7nWT": {
+      "name": "Frasco - Argila",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "jgR5XhsZK7rH6b8t": {
+      "name": "Frasco - Argila",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 4 onças</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "5W8XP7qJ4PQrh6Ji": {
+      "name": "Frasco - Vidro",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "8JZNvhjdL5nTC19W": {
+      "name": "Frasco - Vidro",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 4 onças</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "OyoXoP0sOfhgpyHm": {
+      "name": "Frasco - Incrustado de Ouro",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "dyOa7L1dj9hncojf": {
+      "name": "Frasco - Incrustado de Ouro",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 4 onças</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "BpoCcIxNAaDAxmzQ": {
+      "name": "Frasco - Metal",
+      "description": "<p><span class=\"fontstyle0\"><strong>Capacidade:</strong> 4 onças</span></p>",
+      "gearCategory": "Recipientes e Bolsas"
+    },
+    "tSz10GDgFOpJIfqb": {
+      "name": "Frasco - Metal",
+      "gearCategory": "Alquimia e Medicina"
+    },
+    "4DcbA7RsHfBOPJIa": {
+      "name": "Odre de Água",
+      "gearCategory": "Ar Livre"
+    },
+    "EhdUKOslISNPsqJj": {
+      "name": "Odre de Água",
+      "gearCategory": "Culinária e Comida"
+    },
+    "jd6n1Zfo1tAWCCNe": {
+      "name": "Odre de Água",
+      "gearCategory": "Itens Pessoais"
+    },
+    "6EbC2rgRkNJ4C2at": {
+      "name": "Estaca de madeira",
+      "gearCategory": "Ferragens"
+    },
+    "8NqWEQLxMIvYY71A": {
+      "name": "Estaca de madeira",
+      "gearCategory": "Livros e Magia"
+    },
+    "8Yjof3w3inGn9W2n": {
+      "name": "Ábaco",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "zhSwn1kQ1YjoXBFX": {
+      "name": "Antigo lótus negro",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "iJ1OLSFW3V84yBqz": {
+      "name": "Estatuetas carbonizadas",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "GgocBOTRxFtngJOa": {
+      "name": "Ampulheta de relojoaria",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "eoAlbbIjpt0awRmy": {
+      "name": "Disco de informação",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "78SeNNsrpY3KCWqa": {
+      "name": "Leque de penas de coruja",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "dScZXSik6uJATbg4": {
+      "name": "Orbe de vidro",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "j1TzG3LtxuFZnsmQ": {
+      "name": "Pote de lodo primordial",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "QnTpRAg4lWiS83yv": {
+      "name": "Caleidoscópio",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "CuMJ5A0DMjCVaN20": {
+      "name": "Mapa dos signos estelares",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "oaUWp6fMhsBe0Hi2": {
+      "name": "Magnetita misteriosa",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "0L8mBLnXREbwRygz": {
+      "name": "Chapéu pontudo",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "WhOYaAAq3moFu0aL": {
+      "name": "Dados poliédricos",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "UBldngK9lns1p7Bn": {
+      "name": "Caixa-quebra-cabeça",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "CW9LToyuLibdEsT8": {
+      "name": "Cubo rúnico",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "P6AJZL81qBufAhP8": {
+      "name": "Bandana do sábio",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "YSjI6xuEo5W7fo7Z": {
+      "name": "Molho de chaves",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "EKGCkRpz5ODnMFKQ": {
+      "name": "Cachimbo",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "C2FrR3hInmCkub0G": {
+      "name": "Sais de invocação",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "pG5vo84qaU0MqoQK": {
+      "name": "Varinha",
+      "gearCategory": "Trinket - Arcano",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Arcana.</span></p>"
+    },
+    "4p3n05RhoywzRRlm": {
+      "name": "Vaso de chamas do altar",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "hQK6BaLEVI7LDJJW": {
+      "name": "Antigo anel élfico",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "BXOEW53nlzUFYXSw": {
+      "name": "Saco de especiarias",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "M4IeiVx8EQN0r48m": {
+      "name": "Tecido encharcado de sangue",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "DHG2xudQB3c7iN86": {
+      "name": "Ponta de lança manchada de sangue",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "A10g7qvGuCGquITo": {
+      "name": "Cajado consagrado",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "b9EFjPwvgANAJjTv": {
+      "name": "Lágrima de dragão",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "NmGmpnSK7l43PJQ1": {
+      "name": "Cálice dourado",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "cuwRmWLa24mTv2JZ": {
+      "name": "Cristal brilhante",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "mSwLDWP4KpD7sjaY": {
+      "name": "Relógio de sol portátil",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "zJdIftCuaTO6fj7d": {
+      "name": "Símbolo sagrado",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "IgThTXBPSQ2tq1wq": {
+      "name": "Omphalos",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "IWHdsjDbcyiDiNRe": {
+      "name": "Olho petrificado de unicórnio",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "UkptG7DH7pdJZWeg": {
+      "name": "Contas de oração",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "rwCgHo1VnR4WRTg2": {
+      "name": "Pena sagrada",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "bBCEHMOT6GWaRNVh": {
+      "name": "Figura sagrada de papel",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "CISS2yGVxLuvGlij": {
+      "name": "Coração de santo",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "2xSg0ZGX7wCnmwjW": {
+      "name": "Pedra de um local sagrado",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "KCOkYv5QYl7g1Wqf": {
+      "name": "Dente de um pacificador",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "jOI1BhRIjlJ41cnU": {
+      "name": "Vegetal em água benta",
+      "gearCategory": "Trinket - Divino",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Divina.</span></p>"
+    },
+    "guowK2l3rTZ2Bte1": {
+      "name": "Cérebro aberrante em um pote",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "M5qcRDukWyHa3e2c": {
+      "name": "Pedra angular bizarra",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "iwmBVBbz4kFeUVqr": {
+      "name": "Espelho negro",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "4NnUmDclPk9S95S6": {
+      "name": "Fêmur rachado",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "EMFFTOFzuBtFrBQC": {
+      "name": "Coroa de serpentes",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "sHxqF3ha7T56oHhO": {
+      "name": "Ovo morto de cocatriz",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "qb4cK4glxvgEMnsS": {
+      "name": "Amuleto de triângulo com olho",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "IVwUA5j6xYfMXBgu": {
+      "name": "Concha pútrida de caramujo",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "FBahHsuFNufwCFSb": {
+      "name": "Máscara assombrosa",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "Y5MGcAymEQx4C1nE": {
+      "name": "Runa indecifrável",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "XKknmtVfGyivNNLj": {
+      "name": "Lanterna, emite luz turquesa",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "fqVyEf4eTlwMrhng": {
+      "name": "Fragmento de meteoro",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "sRIUM75cSNyjzPlF": {
+      "name": "Trapezoedro brilhante",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "b59NItnPFL3NmOfD": {
+      "name": "Cadáver prateado de roedor",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "BeDeEqLpQlWcFsLJ": {
+      "name": "Efígie humanoide pequena",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "69DeYAVvnnr4UaE8": {
+      "name": "Boneca de olhar fixo",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "ztQaSCKKOgcP5zgr": {
+      "name": "Ferramenta de origem alienígena",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "qLe98Gfj72E7xim0": {
+      "name": "Máscara de pedra sinistra",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "iZGP2c1H6JsSPHQA": {
+      "name": "Frasco de sangue de demônio",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "8nnlr6l9OrMC0GIk": {
+      "name": "Papel de parede amarelo",
+      "gearCategory": "Trinket - Oculto",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Oculta.</span></p>"
+    },
+    "X7HsWYh8HHIAqqq4": {
+      "name": "Ábaco de madeira de treant",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "jZQQk3Lm1shrs5vA": {
+      "name": "Galhada",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "JPEu7CHCMlBPiuzm": {
+      "name": "Saco de ossos de animal",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "XMZf3S1zPGbMzEEV": {
+      "name": "Máscara de osso/madeira",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "2SWeZGkm3UO2vwg9": {
+      "name": "Sapato de trasgo",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "c9boG78rHsV8eDtJ": {
+      "name": "Pedras de cairn",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "GW5nH6NtNWqP4UyN": {
+      "name": "Mecha de cabelo que muda de cor",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "uYZIomTuBsmqO9GI": {
+      "name": "Flauta ressonante",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "4LaFsDYRdfPBwWOC": {
+      "name": "Garra do tamanho de um punho",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "UwzSNo6yYMVZWEmx": {
+      "name": "Frasco de água de sereia",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "mZ6qro9t4Qzozh4s": {
+      "name": "Inseto em âmbar",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "j2zmLyN5advBnSrT": {
+      "name": "Ramo de visco",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "PxQUwLseFU4QrBp2": {
+      "name": "Colar de pedras rúnicas",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "tCNYqHqjiYcOYndc": {
+      "name": "Nozes de uma árvore sagrada",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "OLnrFj4x1hrWPVwt": {
+      "name": "Banana e figos petrificados",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "Nlze5SwmMcozB3Qd": {
+      "name": "Cristal primordial",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "87PUt2S5WmeFflx4": {
+      "name": "Pena de roca",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "hc1ZNweZ1z2b72ka": {
+      "name": "Cajado de galhos retorcidos",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "mAYnck7w1R6nAxKq": {
+      "name": "Cadáver de um críptico minúsculo",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    },
+    "rtXlC0A8S7IBTn6A": {
+      "name": "Totem",
+      "gearCategory": "Trinket - Primal",
+      "description": "<p><span class=\"fontstyle0\">Usado por Conjuradores para canalizar magia Primal.</span></p>"
+    }
+  }
 }
