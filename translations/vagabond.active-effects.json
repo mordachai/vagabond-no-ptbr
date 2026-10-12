@@ -1,0 +1,505 @@
+{
+	"label": "Efeitos Ativos",
+	"folders": {
+		"✨ Relic Powers": "✨ Poderes de Relíquias",
+		"⚡ Status Conditions": "⚡ Condições de Status",
+		"🧭 Trackers": "🧭 Rastreadores",
+		"🟢 Buffs & Bonuses": "🟢 Benefícios e Bônus",
+		"📘 Class Features": "📘 Características de Classe",
+		"🔴 Debuffs & Penalties": "🔴 Penalidades e Efeitos Negativos",
+		"💎 Material Bonuses": "💎 Bônus de Material",
+		"📦 Miscellaneous": "📦 Diversos",
+		"⚔️ Weapon Enhancements": "⚔️ Aprimoramentos de Arma",
+		"🛡️ Armor Properties": "🛡️ Propriedades de Armadura"
+	},
+	"entries": {
+		"Ace - Keen": {
+			"name": "Ás - Afiada",
+			"description": "<p>Ás (Afiada): esta arma tem Crítico 2 valores abaixo, em vez de 1, pela Afiada. Solte sobre uma arma que também tenha o efeito da Propriedade Afiada. Aplica-se apenas ao atacar com essa arma.</p>"
+		},
+		"Armor Bonus (+1)": {
+			"name": "Bônus de Armadura (+1)",
+			"description": "<p>Bônus de +1 no valor de Armadura.</p>"
+		},
+		"Armor Bonus (+2)": {
+			"name": "Bônus de Armadura (+2)",
+			"description": "<p>Bônus de +2 no valor de Armadura.</p>"
+		},
+		"Armor +1": {
+			"name": "Armadura +1",
+			"description": "<p>Armadura encantada: bônus de +1 de Armadura.</p>"
+		},
+		"Armor +2": {
+			"name": "Armadura +2",
+			"description": "<p>Armadura encantada: bônus de +2 de Armadura.</p>"
+		},
+		"Armor +3": {
+			"name": "Armadura +3",
+			"description": "<p>Armadura encantada: bônus de +3 de Armadura.</p>"
+		},
+		"Awareness +1": {
+			"name": "Percepção +1",
+			"description": "<p>Bônus de +1 em Percepção.</p>"
+		},
+		"Awareness -1": {
+			"name": "Percepção -1",
+			"description": "<p>Penalidade de -1 em Percepção.</p>"
+		},
+		"Berserk": {
+			"name": "Furioso",
+			"description": "<p>Não pode realizar Ação de Conjuração ou Concentrar-se. Não faz Testes de Moral. Não pode ser Amedrontado. Bônus específicos de Classe (ex.: Fúria do Bárbaro) aplicados via fórmulas de AE de @statuses.berserk.</p>"
+		},
+		"Blessed": {
+			"name": "Abençoado",
+			"description": "<p>Sob a magia Abençoar: d4 de bônus em Salvaguardas.</p>"
+		},
+		"Blinded": {
+			"name": "Cego",
+			"description": "<p>Não pode ver. Vulnerável.</p>"
+		},
+		"Bonus Inventory": {
+			"name": "Inventário Bônus",
+			"description": "<p>Mochila: +3 Espaços de Inventário enquanto vestida.</p>"
+		},
+		"Burning": {
+			"name": "Queimando",
+			"description": "<p>Sofre dano no início do seu Turno. Pode ser encerrado por uma Ação apropriada.</p>"
+		},
+		"Charmed": {
+			"name": "Enfeitiçado",
+			"description": "<p>Não pode, de forma voluntária, realizar Ação de Ataque contra quem o Enfeitiçou.</p>"
+		},
+		"Confused": {
+			"name": "Confuso",
+			"description": "<p>Testes e Salvaguardas têm Desvantagem. Salvaguardas contra suas Ações têm Vantagem.</p>"
+		},
+		"Damage Bonus (+1)": {
+			"name": "Bônus de Dano (+1)",
+			"description": "<p>Bônus fixo de +1 em todo dano causado.</p>"
+		},
+		"Damage Bonus (+2)": {
+			"name": "Bônus de Dano (+2)",
+			"description": "<p>Bônus fixo de +2 em todo dano causado.</p>"
+		},
+		"Damage Penalty (-2)": {
+			"name": "Penalidade de Dano (-2)",
+			"description": "<p>Penalidade fixa de -2 em todo dano causado.</p>"
+		},
+		"Dazed": {
+			"name": "Atordoado",
+			"description": "<p>Não pode Concentrar-se nem se Mover, a menos que gaste uma Ação para isso. Velocidade reduzida a 0.</p>"
+		},
+		"Dead": {
+			"name": "Morto",
+			"description": "<p>Igual a Incapacitado, mas falha automaticamente em TODOS os testes (perícias, atributos, salvaguardas, ataques). [TOTALMENTE AUTOMATIZADO]</p>"
+		},
+		"Deep Pockets (Feature)": {
+			"name": "Bolsos Fundos (Característica)",
+			"description": "<p>Mercador (Bolsos Fundos): 2 Espaços de Item extras, e mais 2 a cada 3 Níveis a partir daí.</p>"
+		},
+		"Dexterity +1": {
+			"name": "Destreza +1",
+			"description": "<p>Bônus de +1 em Destreza.</p>"
+		},
+		"Dexterity -1": {
+			"name": "Destreza -1",
+			"description": "<p>Penalidade de -1 em Destreza.</p>"
+		},
+		"Displacement": {
+			"name": "Deslocamento",
+			"description": "<p>Ataques baseados em visão contra quem veste são feitos como se o atacante estivesse Cego (ataques com Desvantagem).</p>"
+		},
+		"Endure Save +1": {
+			"name": "Salvaguarda de Resistir +1",
+			"description": "<p>Bônus de +1 em Salvaguardas de Resistir.</p>"
+		},
+		"Exalted": {
+			"name": "Exaltado",
+			"description": "<p>Sob a magia Exaltar: +1 em cada dado de dano que causar e em Salvaguardas de Vontade contra Amedrontado, em dobro contra Infernais e Mortos-Vivos.</p>"
+		},
+		"Fatigued": {
+			"name": "Fatigado",
+			"description": "<p>Cada Fadiga ocupa um Espaço de Item. Com 3+ de Fadiga, não pode Correr. Com 5 de Fadiga, morre.</p>"
+		},
+		"Favored (All Rolls)": {
+			"name": "Vantagem (Todos os Testes)",
+			"description": "<p>Todos os testes com d20 têm Vantagem (role 2d20 e fique com o maior).</p>"
+		},
+		"Fisticuffs": {
+			"name": "Pugilismo",
+			"description": "<p>Pugilista (Pugilismo): suas Armas de Briga Equipadas têm a Propriedade Cruel (um dado de dano extra ao Critar).</p>"
+		},
+		"Flanked": {
+			"name": "Flanqueado",
+			"description": "<p>Vulnerável (seus ataques e Salvaguardas contra ataques têm Desvantagem; ataques contra ele e Salvaguardas contra seus ataques têm Vantagem), e sofre 2 de dano extra por ataques (antes da Armadura).</p>"
+		},
+		"Flanking": {
+			"name": "Flanqueando",
+			"description": "<p>Flanqueando um Inimigo adjacente junto com um aliado. +2 de dano em ataques contra ele, e ele fica Vulnerável enquanto vocês dois estiverem Adjacentes.</p>"
+		},
+		"Flying": {
+			"name": "Voando",
+			"description": "<p>Em voo. Não está tocando o chão, então Percepção Sísmica não consegue detectá-lo.</p>"
+		},
+		"Focusing": {
+			"name": "Concentrando",
+			"description": "<p>Sustentando atualmente uma ou mais magias através de Concentração.</p>"
+		},
+		"Frightened": {
+			"name": "Amedrontado",
+			"description": "<p>Tem penalidade de -2 em cada dado de dano que causar.</p>"
+		},
+		"Frozen": {
+			"name": "Congelado",
+			"description": "<p>Sob a magia Congelar: Velocidade -10'.</p>"
+		},
+		"Grappling": {
+			"name": "Agarrando",
+			"description": "<p>Imobilizando um alvo. Velocidade reduzida à metade, a menos que o alvo seja menor. [PARCIALMENTE AUTOMATIZADO — penalidade de velocidade aplicada no momento da Agarrada]</p>"
+		},
+		"Guided": {
+			"name": "Guiado",
+			"description": "<p>Sob a magia Guiar: Testes que dependem da visão feitos contra ele têm Vantagem.</p>"
+		},
+		"Hastened": {
+			"name": "Acelerado",
+			"description": "<p>Sob a magia Tempo +: Velocidade +5'.</p>"
+		},
+		"Hexed": {
+			"name": "Hexado",
+			"description": "<p>Sob a Maldição de uma Bruxa.</p>"
+		},
+		"Hindered (All Rolls)": {
+			"name": "Desvantagem (Todos os Testes)",
+			"description": "<p>Todos os testes com d20 têm Desvantagem (role 2d20 e fique com o menor).</p>"
+		},
+		"Holding III": {
+			"name": "Contenção III",
+			"description": "<p>Bolsa encantada: concede +6 Espaços de Item de bônus.</p>"
+		},
+		"Holding II": {
+			"name": "Contenção II",
+			"description": "<p>Bolsa encantada: concede +4 Espaços de Item de bônus.</p>"
+		},
+		"Holding I": {
+			"name": "Contenção I",
+			"description": "<p>Bolsa encantada: concede +2 Espaços de Item de bônus.</p>"
+		},
+		"HP Bonus (+10)": {
+			"name": "Bônus de PV (+10)",
+			"description": "<p>Bônus de +10 no PV máximo.</p>"
+		},
+		"HP Bonus (+5)": {
+			"name": "Bônus de PV (+5)",
+			"description": "<p>Bônus de +5 no PV máximo.</p>"
+		},
+		"HP Per Level (+1)": {
+			"name": "PV por Nível (+1)",
+			"description": "<p>+1 PV por Nível de personagem.</p>"
+		},
+		"Hulking": {
+			"name": "Corpulento",
+			"description": "<p>Traço de Orc: Corpulento concede +2 Espaços de Inventário.</p>"
+		},
+		"Incapacitated": {
+			"name": "Incapacitado",
+			"description": "<p>Não pode Concentrar-se, usar Ações ou se Mover. Falha em todas as Perícias e Salvaguardas que usam Força ou Destreza. Vulnerável. Velocidade = 0.</p>"
+		},
+		"Invisibility II": {
+			"name": "Invisibilidade II",
+			"description": "<p>Quem veste fica permanentemente Invisível enquanto estiver equipado.</p>"
+		},
+		"Invisibility I": {
+			"name": "Invisibilidade I",
+			"description": "<p>Pule o Movimento para ficar Invisível até depois de realizar uma Ação.</p>"
+		},
+		"Invisible": {
+			"name": "Invisível",
+			"description": "<p>Não pode ser visto. Atacantes agem como se estivessem Cegos (ataques com Desvantagem).</p>"
+		},
+		"In Sunlight": {
+			"name": "Na Luz do Sol",
+			"description": "<p>Parado sob a Luz do Sol. Andarilhos Noturnos queimam e ficam Incapacitados, Vampiros queimam e param de regenerar, Zumbis perdem seu piso de 1 PV. [ALTERNAR MANUALMENTE]</p>"
+		},
+		"Keen Property": {
+			"name": "Propriedade Afiada",
+			"description": "<p>Afiada: Crítico 1 valor abaixo no Teste de Ataque desta arma (19-20). Solte sobre uma arma. Aplica-se apenas ao atacar com essa arma.</p>"
+		},
+		"Lethal Weapon": {
+			"name": "Arma Letal",
+			"description": "<p>Ladino (Arma Letal): seus dados de Ataque Furtivo podem Explodir.</p>"
+		},
+		"Luck +1": {
+			"name": "Sorte +1",
+			"description": "<p>Bônus de +1 em Sorte.</p>"
+		},
+		"Luck -1": {
+			"name": "Sorte -1",
+			"description": "<p>Penalidade de -1 em Sorte.</p>"
+		},
+		"Sculpt Spell": {
+			"name": "Moldar Magia",
+			"description": "<p>Mago (Moldar Magia, Nível 4): você paga 1 Mana a menos pelo Alcance ao conjurar em um nível superior, e 1 a mais a cada 4 Níveis a partir daí.</p>"
+		},
+		"Spell-Slinger": {
+			"name": "Lançador de Magias",
+			"description": "<p>Lançador de Magias (Feiticeiro, Nível 4): o dado de dano de suas Magias fica um tamanho maior, e você Critica em Testes de Conjuração e Salvaguardas contra Conjurações 1 valor abaixo, mais 1 a cada 4 Níveis a partir daí.</p>"
+		},
+		"Marked": {
+			"name": "Marcado",
+			"description": "<p>Marca do Caçador.</p>"
+		},
+		"Max Health Increase": {
+			"name": "Aumento de PV Máximo",
+			"description": "<p>Talento Resistente: +1 PV por Nível de personagem.</p>"
+		},
+		"Melee Crit Range -1": {
+			"name": "Alcance de Crítico Corpo a Corpo -1",
+			"description": "<p>Limiar de acerto crítico de arma Corpo a Corpo reduzido em 1 (ex.: 20 -&gt; 19).</p>"
+		},
+		"Melee Damage Die +1 Step": {
+			"name": "Dado de Dano Corpo a Corpo +1 Degrau",
+			"description": "<p>Dado de dano de arma Corpo a Corpo aumenta um degrau (d4 -&gt; d6 -&gt; d8 -&gt; d10 -&gt; d12).</p>"
+		},
+		"Might +1": {
+			"name": "Força +1",
+			"description": "<p>Bônus de +1 em Força.</p>"
+		},
+		"Might -1": {
+			"name": "Força -1",
+			"description": "<p>Penalidade de -1 em Força.</p>"
+		},
+		"Naturally Attuned (Elf Trait)": {
+			"name": "Naturalmente Sintonizado (Traço de Elfo)",
+			"description": "<p>Traço de Elfo (Naturalmente Sintonizado): você conhece uma Magia à sua escolha e pode conjurá-la com uma Perícia à sua escolha; uma vez por Rodada, com desconto de 1 Mana no seu Alcance.</p>"
+		},
+		"Nimble": {
+			"name": "Ágil",
+			"description": "<p>Traço de Pequenino/Goblin: Ágil concede +5 pés de Velocidade.</p>"
+		},
+		"Paralyzed": {
+			"name": "Paralisado",
+			"description": "<p>Incapacitado + Velocidade = 0.</p>"
+		},
+		"Presence +1": {
+			"name": "Presença +1",
+			"description": "<p>Bônus de +1 em Presença.</p>"
+		},
+		"Presence -1": {
+			"name": "Presença -1",
+			"description": "<p>Penalidade de -1 em Presença.</p>"
+		},
+		"Prone": {
+			"name": "Caído",
+			"description": "<p>Deite-se ou levante-se gastando 10' de Velocidade. Só se move rastejando (2' de Velocidade para 1' de deslocamento) e não pode Correr. Vulnerável para fins de ataques Corpo a Corpo e Salvaguardas de Reflexo.</p>"
+		},
+		"Protection +1": {
+			"name": "Proteção +1",
+			"description": "<p>Proteção encantada: +1 em todas as Salvaguardas (Reflexo, Resistir, Vontade).</p>"
+		},
+		"Protection +2": {
+			"name": "Proteção +2",
+			"description": "<p>Proteção encantada: +2 em todas as Salvaguardas (Reflexo, Resistir, Vontade).</p>"
+		},
+		"Protection +3": {
+			"name": "Proteção +3",
+			"description": "<p>Proteção encantada: +3 em todas as Salvaguardas (Reflexo, Resistir, Vontade).</p>"
+		},
+		"Rage": {
+			"name": "Fúria",
+			"description": "<p>Durante Furioso: dados de dano de ataque um tamanho maior, e -1 de dano recebido por dado de dano com Armadura Leve ou sem Armadura (1 Espaço ou menos). Versão manual do efeito de Fúria do Bárbaro.</p>"
+		},
+		"Ranged Crit Range -1": {
+			"name": "Alcance de Crítico à Distância -1",
+			"description": "<p>Limiar de acerto crítico de arma à Distância reduzido em 1.</p>"
+		},
+		"Ranged Damage Die +1 Step": {
+			"name": "Dado de Dano à Distância +1 Degrau",
+			"description": "<p>Dado de dano de arma à Distância aumenta um degrau.</p>"
+		},
+		"Reason +1": {
+			"name": "Raciocínio +1",
+			"description": "<p>Bônus de +1 em Raciocínio.</p>"
+		},
+		"Reason -1": {
+			"name": "Raciocínio -1",
+			"description": "<p>Penalidade de -1 em Raciocínio.</p>"
+		},
+		"Reflex Save +1": {
+			"name": "Salvaguarda de Reflexo +1",
+			"description": "<p>Bônus de +1 em Salvaguardas de Reflexo.</p>"
+		},
+		"Restrained": {
+			"name": "Imobilizado",
+			"description": "<p>Vulnerável + Velocidade = 0.</p>"
+		},
+		"Scale": {
+			"name": "Escama",
+			"description": "<p>Traço de Draken: Escama concede +1 de bônus de Armadura natural.</p>"
+		},
+		"Shrunk": {
+			"name": "Encolhido",
+			"description": "<p>Sob a magia Encolher: tamanho e dados de dano um tamanho menor.</p>"
+		},
+		"Sickened": {
+			"name": "Doente",
+			"description": "<p>Tem penalidade de -2 em cada dado de cura recebido.</p>"
+		},
+		"Slowed": {
+			"name": "Desacelerado",
+			"description": "<p>Sob a magia Tempo -: Velocidade -5'.</p>"
+		},
+		"Sneak Attack": {
+			"name": "Ataque Furtivo",
+			"description": "<p>Ladino (Ataque Furtivo): na primeira vez que você acertar com um ataque com Vantagem em um Turno com uma arma Precisa, Afiada ou à Distância, ele causa d4 extras iguais ao seu Nível dividido por 3 (arredondado para cima) e ignora essa quantidade de Armadura.</p>"
+		},
+		"Speed Bonus (+10ft)": {
+			"name": "Bônus de Velocidade (+10 pés)",
+			"description": "<p>Bônus de +10 pés de Velocidade.</p>"
+		},
+		"Speed Penalty (-10ft)": {
+			"name": "Penalidade de Velocidade (-10 pés)",
+			"description": "<p>Penalidade de -10 pés de Velocidade.</p>"
+		},
+		"Spellcaster": {
+			"name": "Conjurador",
+			"description": "<p>Talento Segredo Mágico: você pode conjurar Magias (a Magia que você aprende é conjurada usando Arcanismo, Influência ou Misticismo).</p>"
+		},
+		"Spell Crit Range -1": {
+			"name": "Alcance de Crítico de Magia -1",
+			"description": "<p>Limiar de acerto crítico de Magia reduzido em 1.</p>"
+		},
+		"Spell Damage Die +1 Step": {
+			"name": "Dado de Dano de Magia +1 Degrau",
+			"description": "<p>Dado de dano de Magia aumenta um degrau.</p>"
+		},
+		"Suffocating": {
+			"name": "Sufocando",
+			"description": "<p>Após não respirar por 1 minuto, a cada rodada: Heróis rolam d8 (se for maior ou igual a Força, ganham 1 Fadiga), Inimigos ganham 1 Fadiga.</p>"
+		},
+		"Tough (Dwarf Trait)": {
+			"name": "Resistente (Traço de Anão)",
+			"description": "<p>Traço de Anão: Resistente concede +1 PV por Nível de personagem.</p>"
+		},
+		"Unconscious": {
+			"name": "Inconsciente",
+			"description": "<p>Cego + Incapacitado + Caído. Ataques Corpo a Corpo sempre Criticam.</p>"
+		},
+		"Vicious Property": {
+			"name": "Propriedade Cruel",
+			"description": "<p>Violenta: acertos críticos com esta arma causam 1 dado de dano extra (do mesmo tipo do seu próprio dado). Solte sobre uma arma. Aplica-se apenas ao atacar com essa arma.</p>"
+		},
+		"Vulnerability -1": {
+			"name": "Vulnerabilidade -1",
+			"description": "<p>Armadura amaldiçoada: -1 de Armadura.</p>"
+		},
+		"Vulnerability -2": {
+			"name": "Vulnerabilidade -2",
+			"description": "<p>Armadura amaldiçoada: -2 de Armadura.</p>"
+		},
+		"Vulnerability -3": {
+			"name": "Vulnerabilidade -3",
+			"description": "<p>Armadura amaldiçoada: -3 de Armadura.</p>"
+		},
+		"Vulnerable": {
+			"name": "Vulnerável",
+			"description": "<p>Seus ataques e Salvaguardas têm Desvantagem. Ataques contra ele têm Vantagem. Salvaguardas contra seus ataques têm Vantagem.</p>"
+		},
+		"Warded": {
+			"name": "Protegido",
+			"description": "<p>Sob a magia Proteção: +1 de Armadura.</p>"
+		},
+		"Weakness -1": {
+			"name": "Fraqueza -1",
+			"description": "<p>Arma amaldiçoada: -1 de dano de arma.</p>"
+		},
+		"Weakness -2": {
+			"name": "Fraqueza -2",
+			"description": "<p>Arma amaldiçoada: -2 de dano de arma.</p>"
+		},
+		"Weakness -3": {
+			"name": "Fraqueza -3",
+			"description": "<p>Arma amaldiçoada: -3 de dano de arma.</p>"
+		},
+		"Will Save +1": {
+			"name": "Salvaguarda de Vontade +1",
+			"description": "<p>Bônus de +1 em Salvaguardas de Vontade.</p>"
+		},
+		"+10 Speed": {
+			"name": "+10 Velocidade",
+			"description": "<p>Presteza encantada: +10 pés de Velocidade.</p>"
+		},
+		"+15 Speed": {
+			"name": "+15 Velocidade",
+			"description": "<p>Presteza encantada: +15 pés de Velocidade.</p>"
+		},
+		"+1d4 Weapon Damage": {
+			"name": "+1d4 de Dano de Arma",
+			"description": "<p>+1d4 de dados de bônus no dano de arma.</p>"
+		},
+		"+1 Attack Dmg": {
+			"name": "+1 de Dano de Ataque",
+			"description": "<p>Arma encantada: +1 de dano em ataques com arma.</p>"
+		},
+		"+1 Known Formula": {
+			"name": "+1 Fórmula Conhecida",
+			"description": "<p>Você pode aprender 1 fórmula de Alquimia a mais do que sua Classe concede (escolha na Biblioteca do laboratório de Alquimia). Acumula: solte novamente para cada fórmula extra. Requer uma Classe que conceda fórmulas.</p>"
+		},
+		"+1 Spell": {
+			"name": "+1 Magia",
+			"description": "<p>Você pode aprender 1 Magia a mais do que sua Classe concede. Acumula: solte novamente para cada Magia extra.</p>"
+		},
+		"+1 Spell Damage": {
+			"name": "+1 de Dano de Magia",
+			"description": "<p>+1 de bônus fixo de dano em dano de Magia.</p>"
+		},
+		"+1 Spell Dmg": {
+			"name": "+1 de Dano de Magia",
+			"description": "<p>Talismã encantado: +1 de dano de Magia.</p>"
+		},
+		"+1 Weapon Damage": {
+			"name": "+1 de Dano de Arma",
+			"description": "<p>+1 de bônus fixo de dano em ataques com arma.</p>"
+		},
+		"+2 Attack Dmg": {
+			"name": "+2 de Dano de Ataque",
+			"description": "<p>Arma encantada: +2 de dano em ataques com arma.</p>"
+		},
+		"+2 Inv. Slots": {
+			"name": "+2 Espaços de Inventário",
+			"description": "<p>Burro de Carga: +2 Espaços de Inventário.</p>"
+		},
+		"+2 Spell Dmg": {
+			"name": "+2 de Dano de Magia",
+			"description": "<p>Talismã encantado: +2 de dano de Magia.</p>"
+		},
+		"+3 Attack Dmg": {
+			"name": "+3 de Dano de Ataque",
+			"description": "<p>Arma encantada: +3 de dano em ataques com arma.</p>"
+		},
+		"+3 Spell Dmg": {
+			"name": "+3 de Dano de Magia",
+			"description": "<p>Talismã encantado: +3 de dano de Magia.</p>"
+		},
+		"+5 Speed": {
+			"name": "+5 Velocidade",
+			"description": "<p>Presteza encantada: +5 pés de Velocidade.</p>"
+		},
+		"+d4 Dmg": {
+			"name": "+d4 de Dano",
+			"description": "<p>Golpe encantado: +1d4 de dado de dano de arma de bônus.</p>"
+		},
+		"+d6 Dmg": {
+			"name": "+d6 de Dano",
+			"description": "<p>Golpe encantado: +1d6 de dado de dano de arma de bônus.</p>"
+		},
+		"+d8 Dmg": {
+			"name": "+d8 de Dano",
+			"description": "<p>Golpe encantado: +1d8 de dado de dano de arma de bônus.</p>"
+		},
+		"Secret of Mana": {
+			"name": "Segredo da Mana",
+			"description": "<p>Talento Segredo da Mana: sua Mana máxima aumenta em 2 e seu Máximo de Conjuração aumenta em 1. Adicione uma cópia por vez que o Talento for escolhido.</p>"
+		}
+	}
+}

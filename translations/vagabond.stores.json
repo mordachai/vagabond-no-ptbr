@@ -1,0 +1,53 @@
+{
+	"label": "Lojas",
+	"folders": {
+		"Small Shops": "Pequenas Lojas"
+	},
+	"entries": {
+		"Alchemicals": {
+			"name": "Alquímicos"
+		},
+		"Apothecary": {
+			"name": "Boticário"
+		},
+		"Armory": {
+			"name": "Armaria"
+		},
+		"Cartographer": {
+			"name": "Cartógrafo"
+		},
+		"Docks": {
+			"name": "Docas"
+		},
+		"Dry Goods": {
+			"name": "Gêneros Secos"
+		},
+		"General Store": {
+			"name": "Armazém Geral"
+		},
+		"Grocery Store": {
+			"name": "Mercearia"
+		},
+		"Hardware Store": {
+			"name": "Loja de Ferragens"
+		},
+		"Jeweler": {
+			"name": "Joalheiro"
+		},
+		"Magic Shop": {
+			"name": "Loja Mágica"
+		},
+		"Recreation Goods": {
+			"name": "Artigos de Lazer"
+		},
+		"Stables": {
+			"name": "Estábulos"
+		},
+		"Supplier": {
+			"name": "Fornecedor"
+		},
+		"Supplies": {
+			"name": "Suprimentos"
+		}
+	}
+}

@@ -1,42 +1,116 @@
 {
 	"label": "Pacotes Iniciais",
 	"entries": {
-		"Seaman Pack": { "name": "Pacote de Marinheiro" },
-		"Astronomer Pack": { "name": "Pacote de Astrônomo" },
-		"Musician Pack": { "name": "Pacote de Músico" },
-		"Brawler Pack": { "name": "Pacote de Brigão" },
-		"Nomad Pack": { "name": "Pacote de Nômade" },
-		"Sellsword Pack": { "name": "Pacote de Mercenário" },
-		"Devout Pack": { "name": "Pacote de Devoto" },
-		"Courtesan Pack": { "name": "Pacote de Cortesã" },
-		"Highwayman Pack": { "name": "Pacote de Salteador" },
-		"Conman Pack": { "name": "Pacote de Vigarista" },
-		"Spy Pack": { "name": "Pacote de Espião" },
-		"Assassin Pack": { "name": "Pacote de Assassino" },
-		"Sentinel Pack": { "name": "Pacote de Sentinela" },
-		"Alchemist Pack": { "name": "Pacote de Alquimista" },
-		"Knight Pack": { "name": "Pacote de Cavaleiro" },
-		"Occultist Pack": { "name": "Pacote de Ocultista" },
-		"Physician Pack": { "name": "Pacote de Médico" },
-		"Tinker Pack": { "name": "Pacote de Consertador" },
-		"Cook Pack": { "name": "Pacote de Cozinheiro" },
-		"Noble Pack": { "name": "Pacote de Nobre" },
-		"Watchman Pack": { "name": "Pacote de Guarda" },
-		"Envoy Pack": { "name": "Pacote de Enviado" },
-		"Miner Pack": { "name": "Pacote de Minerador" },
-		"Entertainer Pack": { "name": "Pacote de Artista" },
-		"Warrior Pack": { "name": "Pacote de Guerreiro" },
-		"Mage Pack": { "name": "Pacote de Mago" },
-		"Bounty Hunter Pack": { "name": "Pacote de Caçador de Recompensas" },
-		"Base Pack": { "name": "Pacote Básico" },
-		"Monk Pack": { "name": "Pacote de Monge" },
-		"Hermit Pack": { "name": "Pacote de Eremita" },
-		"Gladiator Pack": { "name": "Pacote de Gladiador" },
-		"Investigator Pack": { "name": "Pacote de Investigador" },
-		"Charlatan Pack": { "name": "Pacote de Charlatão" },
-		"Blacksmith Pack": { "name": "Pacote de Ferreiro" },
-		"Scout Pack": { "name": "Pacote de Batedor" },
-		"Trapper Pack": { "name": "Pacote de Armadilheiro" },
-		"Fortune Teller Pack": { "name": "Pacote de Vidente" }
+		"Alchemist Pack": {
+			"name": "Pacote de Alquimista"
+		},
+		"Assassin Pack": {
+			"name": "Pacote de Assassino"
+		},
+		"Astronomer Pack": {
+			"name": "Pacote de Astrônomo"
+		},
+		"Base Pack": {
+			"name": "Pacote Básico"
+		},
+		"Blacksmith Pack": {
+			"name": "Pacote de Ferreiro"
+		},
+		"Bounty Hunter Pack": {
+			"name": "Pacote de Caçador de Recompensas"
+		},
+		"Brawler Pack": {
+			"name": "Pacote de Brigão"
+		},
+		"Charlatan Pack": {
+			"name": "Pacote de Charlatão"
+		},
+		"Conman Pack": {
+			"name": "Pacote de Vigarista"
+		},
+		"Cook Pack": {
+			"name": "Pacote de Cozinheiro"
+		},
+		"Courtesan Pack": {
+			"name": "Pacote de Cortesã"
+		},
+		"Devout Pack": {
+			"name": "Pacote de Devoto"
+		},
+		"Entertainer Pack": {
+			"name": "Pacote de Artista"
+		},
+		"Envoy Pack": {
+			"name": "Pacote de Enviado"
+		},
+		"Fortune Teller Pack": {
+			"name": "Pacote de Vidente"
+		},
+		"Gladiator Pack": {
+			"name": "Pacote de Gladiador"
+		},
+		"Hermit Pack": {
+			"name": "Pacote de Eremita"
+		},
+		"Highwayman Pack": {
+			"name": "Pacote de Salteador"
+		},
+		"Investigator Pack": {
+			"name": "Pacote de Investigador"
+		},
+		"Knight Pack": {
+			"name": "Pacote de Cavaleiro"
+		},
+		"Mage Pack": {
+			"name": "Pacote de Mago"
+		},
+		"Miner Pack": {
+			"name": "Pacote de Minerador"
+		},
+		"Monk Pack": {
+			"name": "Pacote de Monge"
+		},
+		"Musician Pack": {
+			"name": "Pacote de Músico"
+		},
+		"Noble Pack": {
+			"name": "Pacote de Nobre"
+		},
+		"Nomad Pack": {
+			"name": "Pacote de Nômade"
+		},
+		"Occultist Pack": {
+			"name": "Pacote de Ocultista"
+		},
+		"Physician Pack": {
+			"name": "Pacote de Médico"
+		},
+		"Scout Pack": {
+			"name": "Pacote de Batedor"
+		},
+		"Seaman Pack": {
+			"name": "Pacote de Marinheiro"
+		},
+		"Sellsword Pack": {
+			"name": "Pacote de Mercenário"
+		},
+		"Sentinel Pack": {
+			"name": "Pacote de Sentinela"
+		},
+		"Spy Pack": {
+			"name": "Pacote de Espião"
+		},
+		"Tinker Pack": {
+			"name": "Pacote de Consertador"
+		},
+		"Trapper Pack": {
+			"name": "Pacote de Armadilheiro"
+		},
+		"Warrior Pack": {
+			"name": "Pacote de Guerreiro"
+		},
+		"Watchman Pack": {
+			"name": "Pacote de Guarda"
+		}
 	}
 }

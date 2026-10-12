@@ -1,236 +1,303 @@
 {
 	"label": "Armas",
+	"folders": {
+		"Axes": "Machados",
+		"Blades": "Lâminas",
+		"Blunt": "Contundentes",
+		"Bows & Slings": "Arcos e Fundas",
+		"Chains & Whips": "Correntes e Chicotes",
+		"Firearms": "Armas de Fogo",
+		"Polearms & Spears": "Hastes e Lanças",
+		"Shields": "Escudos",
+		"Unarmed & Improvised": "Desarmado e Improvisado"
+	},
 	"entries": {
-		"Light hammer": {
-			"name": "Martelo Leve"
-		},
-		"Buckler": {
-			"name": "Broquel"
-		},
-		"Light hammer (Thrown)": {
-			"name": "Martelo Leve (Arremesso)"
+		"Arbalest": {
+			"name": "Balestra",
+			"effects": {
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
+				}
+			}
 		},
 		"Battleaxe": {
 			"name": "Machado de Batalha"
 		},
-		"Greataxe": {
-			"name": "Machado Grande"
+		"Bottle, glass": {
+			"name": "Garrafa de Vidro"
+		},
+		"Breath Attack": {
+			"name": "Ataque de Sopro",
+			"description": "<p>Você tem um Ataque de Sopro que requer uma <strong>Ação</strong> para começar. Em um Turno subsequente na mesma Cena, você pode então usar uma <strong>Ação</strong> ou pular seu <strong>Movimento</strong> para exalar um Cone de energia de 15’ que causa <strong>2d6!</strong>, usando uma Salvaguarda de Resistir ou Vontade para o Teste.</p>",
+			"effects": {
+				"Breath Attack Charging": {
+					"name": "Ataque de Sopro Carregando",
+					"description": "<p>Ative quando gastar a Ação para iniciar seu Ataque de Sopro. Em um Turno posterior na mesma Cena, use uma Ação ou pule seu Movimento para exalar, então desative.</p>"
+				}
+			}
+		},
+		"Caestus / Gauntlet": {
+			"name": "Cesto / Manopla"
+		},
+		"Club": {
+			"name": "Porrete"
+		},
+		"Crossbow": {
+			"name": "Besta"
+		},
+		"Crossbow, light": {
+			"name": "Besta Leve"
+		},
+		"Dagger": {
+			"name": "Adaga",
+			"effects": {
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
+				}
+			}
 		},
 		"Flail": {
-			"name": "Mangual"
-		},
-		"Pike": {
-			"name": "Pique",
+			"name": "Mangual",
 			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
 				}
 			}
 		},
-		"Lance": {
-			"name": "Lança de Cavalaria",
+		"Greataxe": {
+			"name": "Machado Grande",
 			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
 				}
 			}
-		},
-		"Garotte wire": {
-			"name": "Fio de Garrote"
 		},
 		"Greatclub": {
 			"name": "Porrete Grande"
 		},
-		"Morningstar": {
-			"name": "Maça Estrela"
-		},
-		"Javelin (Thrown)": {
-			"name": "Azagaia (Arremesso)"
-		},
-		"Shortsword (Finesse)": {
-			"name": "Espada Curta (Finesse)",
+		"Greatsword": {
+			"name": "Espada Grande",
 			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
+				}
+			}
+		},
+		"Handaxe": {
+			"name": "Machadinha"
+		},
+		"Handgun": {
+			"name": "Pistola",
+			"effects": {
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
 				}
 			}
 		},
 		"Javelin": {
 			"name": "Azagaia"
 		},
-		"Lucerne": {
-			"name": "Lucerna"
-		},
-		"Gauntlet": {
-			"name": "Manopla"
-		},
-		"Handaxe (Thrown)": {
-			"name": "Machadinha (Arremesso)"
-		},
-		"Arbalest": {
-			"name": "Balestra"
-		},
 		"Katar": {
 			"name": "Katar",
 			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
 				}
 			}
 		},
-		"Dagger": {
-			"name": "Adaga",
+		"Lance": {
+			"name": "Lança de Cavalaria",
 			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
 				}
 			}
 		},
-		"Whip, leather": {
-			"name": "Chicote de Couro"
+		"Light hammer": {
+			"name": "Martelo Leve",
+			"effects": {
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
+				}
+			}
 		},
-		"Spear (Thrown)": {
-			"name": "Lança (Arremesso)"
-		},
-		"Unarmed (Finesse)": {
-			"name": "Desarmado (Finesse)"
-		},
-		"Shotgun": {
-			"name": "Espingarda"
+		"Longbow": {
+			"name": "Arco Longo",
+			"effects": {
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
+				}
+			}
 		},
 		"Longsword": {
 			"name": "Espada Longa",
 			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
+				}
+			}
+		},
+		"Lucerne": {
+			"name": "Lucerna",
+			"effects": {
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
+				}
+			}
+		},
+		"Mace": {
+			"name": "Maça"
+		},
+		"Maul": {
+			"name": "Marreta",
+			"effects": {
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
+				}
+			}
+		},
+		"Morningstar": {
+			"name": "Maça Estrela",
+			"effects": {
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
+				}
+			}
+		},
+		"Pike": {
+			"name": "Pique",
+			"effects": {
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
+				}
+			}
+		},
+		"Poleblade": {
+			"name": "Lâmina de Haste"
+		},
+		"Rapier": {
+			"name": "Rapieira",
+			"effects": {
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
+				},
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
 				}
 			}
 		},
 		"Rifle": {
 			"name": "Rifle",
 			"effects": {
-				"Keen (Property)": {
-					"name": "Afiada (Propriedade)"
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
+				}
+			}
+		},
+		"Shield": {
+			"name": "Escudo"
+		},
+		"Shield, great": {
+			"name": "Escudo, grande"
+		},
+		"Shield, spiked": {
+			"name": "Escudo, com espinhos",
+			"effects": {
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
+				}
+			}
+		},
+		"Shortbow": {
+			"name": "Arco Curto",
+			"effects": {
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
 				}
 			}
 		},
 		"Shortsword": {
 			"name": "Espada Curta",
 			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				"Keen": {
+					"name": "Afiada",
+					"description": "Crítico 1 mais baixo no Teste de Ataque desta arma."
+				}
+			}
+		},
+		"Shotgun": {
+			"name": "Espingarda",
+			"effects": {
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
+				}
+			}
+		},
+		"Shotgun, sawn-off": {
+			"name": "Espingarda Serrada",
+			"effects": {
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
 				}
 			}
 		},
 		"Sling": {
 			"name": "Funda"
 		},
+		"Spear": {
+			"name": "Lança"
+		},
+		"Staff": {
+			"name": "Bastão"
+		},
+		"Unarmed": {
+			"name": "Desarmado"
+		},
 		"Warhammer": {
 			"name": "Martelo de Guerra",
 			"effects": {
 				"Active Effect": {
 					"name": "Efeito Ativo"
-				}
-			}
-		},
-		"Breath Attack - 2D6!": {
-			"name": "Ataque de Sopro - 2D6!",
-			"description": "<p>Você pode fazer um ataque de sopro em Cone de 15 pés. Ao fazer isso, faça um Salvaguarda de Resistir ou Vontade. Em caso de sucesso, este ataque causa 2d6!. Depois disso, você não pode usar esta Habilidade novamente até Descansar, ou receber 1 Fadiga para fazê-lo novamente.</p>"
-		},
-		"Longbow": {
-			"name": "Arco Longo",
-			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
-				}
-			}
-		},
-		"Handgun": {
-			"name": "Pistola"
-		},
-		"Dagger (Thrown)": {
-			"name": "Adaga (Arremesso)",
-			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
-				}
-			}
-		},
-		"Shotgun, sawed-off": {
-			"name": "Espingarda Serrada"
-		},
-		"Breath Attack": {
-			"name": "Ataque de Sopro",
-			"description": "<p>Você pode fazer um ataque de sopro em Cone de 15 pés. Ao fazer isso, faça um Salvaguarda de Resistir ou Vontade. Em caso de sucesso, este ataque causa 2d6!. Depois disso, você não pode usar esta Habilidade novamente até Descansar, ou receber 1 Fadiga para fazê-lo novamente.</p>"
-		},
-		"Crossbow, light": {
-			"name": "Besta Leve"
-		},
-		"Handaxe": {
-			"name": "Machadinha"
-		},
-		"Caestus": {
-			"name": "Caestus"
-		},
-		"Crossbow": {
-			"name": "Besta"
-		},
-		"Standard shield": {
-			"name": "Escudo Padrão"
-		},
-		"Greatshield": {
-			"name": "Escudo Grande"
-		},
-		"Poleblade": {
-			"name": "Lâmina de Haste"
-		},
-		"Mace": {
-			"name": "Maça"
-		},
-		"Net": {
-			"name": "Rede"
-		},
-		"Dagger (Finesse)": {
-			"name": "Adaga (Finesse)",
-			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
-				}
-			}
-		},
-		"Unarmed (Brawl)": {
-			"name": "Desarmado (Briga)"
-		},
-		"Greatsword": {
-			"name": "Espada Grande",
-			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				},
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
 				}
 			}
 		},
 		"Whip, chain": {
-			"name": "Chicote de Corrente"
-		},
-		"Staff": {
-			"name": "Bastão"
-		},
-		"Club": {
-			"name": "Porrete"
-		},
-		"Shortbow": {
-			"name": "Arco Curto",
+			"name": "Chicote de Corrente",
 			"effects": {
-				"Keen Property": {
-					"name": "Propriedade Afiada"
+				"Vicious": {
+					"name": "Cruel",
+					"description": "Críticos com ela causam 1 dado de dano extra."
 				}
 			}
 		},
-		"Bottle, glass": {
-			"name": "Garrafa de Vidro"
-		},
-		"Spear": {
-			"name": "Lança"
+		"Whip, leather": {
+			"name": "Chicote de Couro"
 		}
 	}
 }

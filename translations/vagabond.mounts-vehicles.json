@@ -1,0 +1,78 @@
+{
+	"label": "Montarias e Veículos",
+	"folders": {
+		"Mounts": "Montarias",
+		"Vehicles": "Veículos",
+		"Vessels": "Embarcações"
+	},
+	"entries": {
+		"Camel": {
+			"name": "Camelo",
+			"biography": "<p><strong>Animal de Montaria.</strong> Velocidade de Viagem 10 mi por Quarto de dia · Capacidade 12 Espaços.</p><p>Uma Criatura disposta pode ser montada por cavaleiros pelo menos um Tamanho menor, como uma Ação ou pulando seu Movimento. Montarias inteligentes agem por conta própria, mas Montarias controladas obedecem ao cavaleiro, que usa a Velocidade da Montaria no lugar da sua. A Montaria usa a Perícia aplicável do cavaleiro nos Testes.</p><p>Valor: 10o.</p>"
+		},
+		"Canoe": {
+			"name": "Canoa",
+			"biography": "<p><strong>Embarcação.</strong> Velocidade de Viagem 12 mi por Quarto de dia · Capacidade 5 Espaços.</p><p>Valor: 5o.</p>"
+		},
+		"Caravel": {
+			"name": "Caravela",
+			"biography": "<p><strong>Embarcação.</strong> Velocidade de Viagem 30 mi por Quarto de dia · Capacidade 1000 Espaços.</p><p>Valor: 1000o.</p>"
+		},
+		"Cart": {
+			"name": "Carroça",
+			"biography": "<p><strong>Veículo.</strong> +50 Espaços.</p><p>Valor: 5o.</p>"
+		},
+		"Elephant": {
+			"name": "Elefante",
+			"biography": "<p><strong>Animal de Montaria.</strong> Velocidade de Viagem 8 mi por Quarto de dia · Capacidade 96 Espaços.</p><p>Uma Criatura disposta pode ser montada por cavaleiros pelo menos um Tamanho menor, como uma Ação ou pulando seu Movimento. Montarias inteligentes agem por conta própria, mas Montarias controladas obedecem ao cavaleiro, que usa a Velocidade da Montaria no lugar da sua. A Montaria usa a Perícia aplicável do cavaleiro nos Testes.</p><p>Valor: 20o.</p>"
+		},
+		"Galley": {
+			"name": "Galera",
+			"biography": "<p><strong>Embarcação.</strong> Velocidade de Viagem 24 mi por Quarto de dia · Capacidade 3000 Espaços.</p><p>Valor: 3000o.</p>"
+		},
+		"Horse, draft": {
+			"name": "Cavalo de tração",
+			"biography": "<p><strong>Animal de Montaria.</strong> Velocidade de Viagem 6 mi por Quarto de dia · Capacidade 14 Espaços.</p><p>Uma Criatura disposta pode ser montada por cavaleiros pelo menos um Tamanho menor, como uma Ação ou pulando seu Movimento. Montarias inteligentes agem por conta própria, mas Montarias controladas obedecem ao cavaleiro, que usa a Velocidade da Montaria no lugar da sua. A Montaria usa a Perícia aplicável do cavaleiro nos Testes.</p><p>Valor: 4o.</p>"
+		},
+		"Horse, pony": {
+			"name": "Pônei",
+			"biography": "<p><strong>Animal de Montaria.</strong> Velocidade de Viagem 6 mi por Quarto de dia · Capacidade 10 Espaços.</p><p>Uma Criatura disposta pode ser montada por cavaleiros pelo menos um Tamanho menor, como uma Ação ou pulando seu Movimento. Montarias inteligentes agem por conta própria, mas Montarias controladas obedecem ao cavaleiro, que usa a Velocidade da Montaria no lugar da sua. A Montaria usa a Perícia aplicável do cavaleiro nos Testes.</p><p>Valor: 3o 50p.</p>"
+		},
+		"Horse, riding": {
+			"name": "Cavalo de sela",
+			"biography": "<p><strong>Animal de Montaria.</strong> Velocidade de Viagem 16 mi por Quarto de dia · Capacidade 12 Espaços.</p><p>Uma Criatura disposta pode ser montada por cavaleiros pelo menos um Tamanho menor, como uma Ação ou pulando seu Movimento. Montarias inteligentes agem por conta própria, mas Montarias controladas obedecem ao cavaleiro, que usa a Velocidade da Montaria no lugar da sua. A Montaria usa a Perícia aplicável do cavaleiro nos Testes.</p><p>Valor: 7o 50p.</p>"
+		},
+		"Horse, war": {
+			"name": "Cavalo de guerra",
+			"biography": "<p><strong>Animal de Montaria.</strong> Velocidade de Viagem 8 mi por Quarto de dia · Capacidade 16 Espaços.</p><p>Uma Criatura disposta pode ser montada por cavaleiros pelo menos um Tamanho menor, como uma Ação ou pulando seu Movimento. Montarias inteligentes agem por conta própria, mas Montarias controladas obedecem ao cavaleiro, que usa a Velocidade da Montaria no lugar da sua. A Montaria usa a Perícia aplicável do cavaleiro nos Testes.</p><p>Valor: 25o.</p>"
+		},
+		"Keelboat": {
+			"name": "Barco de quilha",
+			"biography": "<p><strong>Embarcação.</strong> Velocidade de Viagem 6 mi por Quarto de dia · Capacidade 300 Espaços.</p><p>Valor: 300o.</p>"
+		},
+		"Longship": {
+			"name": "Drakar",
+			"biography": "<p><strong>Embarcação.</strong> Velocidade de Viagem 30 mi por Quarto de dia · Capacidade 1000 Espaços.</p><p>Valor: 1000o.</p>"
+		},
+		"Mule": {
+			"name": "Mula",
+			"biography": "<p><strong>Animal de Montaria.</strong> Velocidade de Viagem 6 mi por Quarto de dia · Capacidade 11 Espaços.</p><p>Uma Criatura disposta pode ser montada por cavaleiros pelo menos um Tamanho menor, como uma Ação ou pulando seu Movimento. Montarias inteligentes agem por conta própria, mas Montarias controladas obedecem ao cavaleiro, que usa a Velocidade da Montaria no lugar da sua. A Montaria usa a Perícia aplicável do cavaleiro nos Testes.</p><p>Valor: 3o.</p>"
+		},
+		"Rowboat": {
+			"name": "Bote a remo",
+			"biography": "<p><strong>Embarcação.</strong> Velocidade de Viagem 6 mi por Quarto de dia · Capacidade 30 Espaços.</p><p>Valor: 5o.</p>"
+		},
+		"Sailboat": {
+			"name": "Veleiro",
+			"biography": "<p><strong>Embarcação.</strong> Velocidade de Viagem 30 mi por Quarto de dia · Capacidade 1000 Espaços.</p><p>Valor: 1000o.</p>"
+		},
+		"Wagon": {
+			"name": "Carroção",
+			"biography": "<p><strong>Veículo.</strong> +150 Espaços.</p><p>Valor: 15o.</p>"
+		},
+		"Warship": {
+			"name": "Navio de guerra",
+			"biography": "<p><strong>Embarcação.</strong> Velocidade de Viagem 24 mi por Quarto de dia · Capacidade 2500 Espaços.</p><p>Valor: 2500o.</p>"
+		}
+	}
+}

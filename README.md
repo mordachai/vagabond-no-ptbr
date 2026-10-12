@@ -32,7 +32,9 @@ https://github.com/mordachai/vagabond-no-ptbr/releases/latest/download/module.js
 
 ### Translated content
 
-All system compendiums: ancestries, classes, skills/perks, spells, items (weapons, armor, equipment, alchemical, relics, starter packs), humanoids, and full bestiary (297 creatures).
+All system compendiums: ancestries, classes, perks, spells, items (weapons, armor, equipment, alchemical, relics, starter packs), humanoids, full bestiary (297 creatures), active effects, build guides, mounts & vehicles, and stores.
+
+**Version 2.x targets Vagabond 6.x (Core Rulebook Alpha 3).** For Vagabond 5.x use module version 1.0.4.
 
 ### Credits
 
@@ -72,7 +74,9 @@ https://github.com/mordachai/vagabond-no-ptbr/releases/latest/download/module.js
 
 ### Conteúdo traduzido
 
-Todos os compêndios do sistema: ancestralidades, classes, perícias/perks, magias, itens (armas, armaduras, equipamentos, alquímicos, relíquias, pacotes iniciais), humanoides e bestiário completo (297 criaturas).
+Todos os compêndios do sistema: ancestralidades, classes, talentos, magias, itens (armas, armaduras, equipamentos, alquímicos, relíquias, pacotes iniciais), humanoides, bestiário completo (297 criaturas), efeitos ativos, guias de construção, montarias e veículos, e lojas.
+
+**A versão 2.x é a tradução correta para o Vagabond 6.x (Livro Básico Alpha 3).** Para o Vagabond 5.x, use a versão 1.0.4 do módulo.
 
 ### Créditos
 

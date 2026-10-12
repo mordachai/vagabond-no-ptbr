@@ -37,7 +37,8 @@
     "name": "name",
     "description": "system.description",
     "armorDescription": "system.armorDescription",
-    "senses": "system.senses",
+    "sensesNote": "system.sensesNote",
+    "biography": "system.biography",
     "actions": {
       "path": "system.actions",
       "converter": "structured",

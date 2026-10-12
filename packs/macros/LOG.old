@@ -1,0 +1,15 @@
+2026/10/11-23:47:22.879 4ab0 Recovering log #954
+2026/10/11-23:47:22.882 4ab0 Delete type=0 #954
+2026/10/11-23:47:22.882 4ab0 Delete type=3 #952
+2026/10/12-01:24:06.461 4760 Level-0 table #960: started
+2026/10/12-01:24:06.470 4760 Level-0 table #960: 3186 bytes OK
+2026/10/12-01:24:06.471 4760 Delete type=0 #958
+2026/10/12-01:24:06.471 4760 Manual compaction at level-0 from '!macros!null' @ 72057594037927935 : 1 .. '!macros!ptbrupdatemacro01' @ 0 : 0; will stop at (end)
+2026/10/12-01:24:06.484 4760 Manual compaction at level-1 from '!macros!null' @ 72057594037927935 : 1 .. '!macros!ptbrupdatemacro01' @ 0 : 0; will stop at '!macros!null' @ 247 : 1
+2026/10/12-01:24:06.484 4760 Compacting 1@1 + 1@2 files
+2026/10/12-01:24:06.487 4760 Generated table #961@1: 1 keys, 3186 bytes
+2026/10/12-01:24:06.487 4760 Compacted 1@1 + 1@2 files => 3186 bytes
+2026/10/12-01:24:06.488 4760 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/10/12-01:24:06.488 4760 Delete type=2 #956
+2026/10/12-01:24:06.489 4760 Delete type=2 #960
+2026/10/12-01:24:06.501 4760 Manual compaction at level-1 from '!macros!null' @ 247 : 1 .. '!macros!ptbrupdatemacro01' @ 0 : 0; will stop at (end)
